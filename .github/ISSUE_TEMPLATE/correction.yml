@@ -1,0 +1,19 @@
+name: Outdated or wrong rule
+description: A state guide says something that is out of date or wrong.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      placeholder: https://theguysaccount.github.io/mealprep-business-os/permits/...
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong, and the official source that shows it
+      description: Please link the state agency page, statute or rule. Corrections are checked against the official source.
+    validations:
+      required: true

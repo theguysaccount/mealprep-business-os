@@ -1,0 +1,38 @@
+# Monthly: request every official source the state guides cite (slowly, with an identifying User-Agent). Broken
+# links (404/410) are listed in one issue labeled source-check so the guide gets re-checked; sites that refuse
+# scripts are listed but are not errors. The site is never touched, and the run fails only if the checker crashes.
+name: Monthly source check
+
+on:
+  schedule:
+    - cron: "13 9 3 * *"   # the 3rd of every month, 09:13 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Check every cited source
+        id: check
+        run: python3 scripts/check_sources.py --report source-report.md
+      - name: Open or update the source-check issue
+        if: steps.check.outputs.broken != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create source-check --color 9A5B00 --description "A cited source moved or disappeared" 2>/dev/null || true
+          open=$(gh issue list --label source-check --state open --json number --jq '.[0].number')
+          if [ -n "$open" ]; then
+            gh issue comment "$open" --body-file source-report.md
+          else
+            gh issue create --label source-check --title "Cited sources need a re-check" --body-file source-report.md
+          fi
