@@ -1,0 +1,82 @@
+{
+  "state": "Florida",
+  "abbr": "FL",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Florida's cottage food law covers only foods that are not time or temperature controlled for safety, so it does not cover meals that need refrigeration. The state health department says a food operation cannot be run from a private residence, and meal businesses operate under a state DBPR license or an FDACS food permit.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Florida law defines a cottage food product as food that is not time or temperature controlled for safety (potentially hazardous), so prepared meals that need refrigeration fall outside the cottage food exemption.", "src": [0, 1]},
+        {"text": "The Florida Department of Health's food safety FAQ says a food operation cannot be conducted from a private residence and that this applies to all of Florida's food regulatory agencies. Separately, state law exempts cottage food operations making low-risk foods.", "src": [2, 0]},
+        {"text": "Florida law counts a place where food is prepared before being delivered to another location for consumption as a public food service establishment, which needs a state license (see the licensed kitchen section).", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "The Florida Senate", "title": "Florida Statutes § 500.03, Definitions (2026)", "url": "https://www.flsenate.gov/Laws/Statutes/2026/500.03", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Florida Department of Agriculture and Consumer Services", "title": "Cottage Foods", "url": "https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Cottage-Foods", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Florida Department of Health", "title": "Food Safety and Sanitation: Frequently Asked Questions", "url": "https://www.floridahealth.gov/licensing-regulations/regulated-facilities/food-safety-and-sanitation/frequently-asked-questions/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-04-10", "read": "fetched"},
+        {"agency": "Florida Legislature (Online Sunshine)", "title": "Florida Statutes § 509.013, Definitions (2026)", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0509/Sections/0509.013.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Cottage food operations do not need a food permit from the Florida Department of Agriculture and Consumer Services (FDACS) as long as annual gross sales of cottage food products, counted across all locations and products, do not exceed $250,000.", "src": [0, 1]},
+        {"text": "FDACS lists approved products such as breads, cakes, cookies, candies, honey, jams and jellies, fruit pies, dried fruits, dry herbs and seasonings, homemade pasta, granola, nuts, vinegars and popcorn.", "src": [1]},
+        {"text": "Cottage foods may be sold in person, online or by mail order, and delivered in person, to an event venue, or by mail or commercial delivery. Wholesale sales are not allowed.", "src": [0, 1]},
+        {"text": "Products must be prepackaged and labeled with the operation's name and address, product name, ingredients, net weight or volume, allergens, and the statement “Made in a cottage food operation that is not subject to Florida's food safety regulations.”", "src": [0]},
+        {"text": "Local governments cannot prohibit or regulate cottage food operations, though state conditions for home-based businesses still apply. FDACS may inspect an operation's premises only after receiving a complaint.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "The Florida Senate", "title": "Florida Statutes § 500.80, Cottage food operations (2026)", "url": "https://www.flsenate.gov/Laws/Statutes/2026/500.80", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Florida Department of Agriculture and Consumer Services", "title": "Cottage Foods", "url": "https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Cottage-Foods", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "A public food service establishment, which includes places where food is prepared before delivery to another location for consumption, must get a license from the Division of Hotels and Restaurants of the Department of Business and Professional Regulation (DBPR) before opening, renewed yearly.", "src": [0, 1]},
+        {"text": "According to the Florida Department of Health, DBPR licenses restaurants, caterers, mobile food vehicles and take-and-bake food, while FDACS licenses grocery and convenience stores, bakeries, food processing plants and mobile units selling prepackaged food.", "src": [2]},
+        {"text": "FDACS issues retail food permits to businesses selling directly to customers, including businesses selling prepackaged foods. A permit follows an application, water and sewer documentation, a successful inspection and a fee based on the food activities.", "src": [3]},
+        {"text": "FDACS asks for food permit applications 21 days before opening, publishes minimum construction standards for food establishment buildings, and offers voluntary plan review that starts at $55.10.", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "Florida Legislature (Online Sunshine)", "title": "Florida Statutes § 509.013, Definitions (2026)", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0509/Sections/0509.013.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Florida Legislature (Online Sunshine)", "title": "Florida Statutes § 509.241, Licenses required (2026)", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0509/Sections/0509.241.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Florida Department of Health", "title": "Food Safety and Sanitation: Frequently Asked Questions", "url": "https://www.floridahealth.gov/licensing-regulations/regulated-facilities/food-safety-and-sanitation/frequently-asked-questions/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-04-10", "read": "fetched"},
+        {"agency": "Florida Department of Agriculture and Consumer Services", "title": "Retail Food Establishment Permit", "url": "https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Retail-Food-Establishment-Permit", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "In DBPR-licensed food service establishments, all managers must pass an approved food protection manager test and receive a certificate within 30 days of being hired.", "src": [0]},
+        {"text": "Food service employees in DBPR-licensed establishments must complete an approved food safety training program and be certified within 60 days of being hired; the certification is valid for three years.", "src": [1]},
+        {"text": "FDACS requires food establishments that process, pack, hold or prepare potentially hazardous foods at retail to designate a Certified Food Protection Manager.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Florida Legislature (Online Sunshine)", "title": "Florida Statutes § 509.039, Food service manager certification (2026)", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0509/Sections/0509.039.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Florida Legislature (Online Sunshine)", "title": "Florida Statutes § 509.049, Food service employee training (2026)", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0509/Sections/0509.049.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Florida Department of Agriculture and Consumer Services", "title": "Retail Food Establishment Permit", "url": "https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Retail-Food-Establishment-Permit", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Corporations and limited liability companies are formed by filing with the Florida Department of State's Division of Corporations (Sunbiz), which also registers fictitious business names.", "src": [0]},
+        {"text": "Florida's sales tax law exempts food products for human consumption, including frozen foods and dinners, but not food sold as meals for consumption on or off the seller's premises, hot prepared food, or food prepared and sold for immediate consumption.", "src": [1]},
+        {"text": "The cottage food law states that cottage food operations are not exempt from state or federal tax laws.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Florida Department of State, Division of Corporations", "title": "Start a Business", "url": "https://dos.fl.gov/sunbiz/start-business/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Florida Legislature (Online Sunshine)", "title": "Florida Statutes § 212.08, Sales, rental, use, consumption, distribution, and storage tax; specified exemptions (2026)", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0212/Sections/0212.08.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "The Florida Senate", "title": "Florida Statutes § 500.80, Cottage food operations (2026)", "url": "https://www.flsenate.gov/Laws/Statutes/2026/500.80", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Florida food licenses come from state agencies: DBPR licenses restaurants and caterers, and FDACS licenses food stores, bakeries and food processing plants. The Florida Department of Health regulates food service in institutional settings such as schools, and its county health departments take complaints about those.",
+    "source": {"agency": "Florida Department of Health", "title": "Food Safety and Sanitation: Frequently Asked Questions", "url": "https://www.floridahealth.gov/licensing-regulations/regulated-facilities/food-safety-and-sanitation/frequently-asked-questions/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-04-10", "read": "fetched"}
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "state": "Louisiana",
+  "abbr": "LA",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Louisiana's home food law covers only listed low-risk foods, such as baked goods, candies, jams, pickles and sauces, none containing meat or fish protein, so perishable prepared meals fall outside it. Food establishments need a permit to operate from the state health officer.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "State law exempts low-risk foods made at home for sale from the Sanitary Code's equipment and construction rules. Low-risk foods are baked goods, candies, cane syrup, dried mixes, honey, jams and jellies, pickles and acidified foods, sauces and syrups, and spices, none containing animal muscle protein or fish protein.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Outside that exemption, the Sanitary Code says no one may operate a food establishment or retail food store without first receiving a permit to operate from the state health officer.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Louisiana State Legislature",
+          "title": "R.S. 40:4.9 Low-risk foods; preparation in home for public consumption",
+          "url": "https://legis.la.gov/Legis/Law.aspx?d=98431",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2022",
+          "read": "fetched"
+        },
+        {
+          "agency": "Louisiana Department of Health, Office of Public Health (Louisiana Administrative Code)",
+          "title": "LAC Title 51, Public Health Sanitary Code, Part XXIII Retail Food Establishments",
+          "url": "https://www.doa.la.gov/media/dtxju50z/51.docx",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "The law exempts home preparation of low-risk foods from Sanitary Code rules on equipment, design, construction, utensils and supplies, but bakers of breads, cakes, cookies and pies must keep out pests and pets, keep equipment clean and refrigerate perishable ingredients at 45 degrees Fahrenheit or below.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The exemption ends once a preparer's gross annual sales reach a set limit. Act 801 of the 2026 session raised that limit from $30,000 to $100,000, effective August 1, 2026.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Each food offered for sale must carry a label clearly stating that it was not produced in a licensed or regulated facility. Unprocessed raw honey is excepted.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Home preparers must be registered to collect local sales taxes, shown by a current sales tax certificate from the collector for the parish where the sales take place.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Home bakers of breads, cakes, cookies and pies may not sell to retail businesses or anyone for resale, and the exemption does not apply to such bakers who employ someone to help prepare the food.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Louisiana State Legislature",
+          "title": "R.S. 40:4.9 Low-risk foods; preparation in home for public consumption",
+          "url": "https://legis.la.gov/Legis/Law.aspx?d=98431",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2022",
+          "read": "fetched"
+        },
+        {
+          "agency": "Louisiana State Legislature",
+          "title": "Résumé Digest, Act 801 (HB 403), 2026 Regular Session",
+          "url": "https://www.legis.la.gov/legis/ViewDocument.aspx?d=1484775",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-08-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Food establishments and retail food stores in Louisiana operate under a permit to operate issued by the state health officer through the Louisiana Department of Health. Permits are not transferable and must be posted where the public can see them.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Plans and specifications go to the state health officer for approval before construction, substantial renovation, a change of ownership or a change of occupancy. They show the type of operation, foods handled, layout and all equipment.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "After plan approval the applicant requests a preoperational inspection, and the permit is issued once the establishment is found to comply with the Sanitary Code.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A food establishment that packages food using reduced oxygen packaging, which the Sanitary Code defines to include vacuum packaging and sous vide, must have a HACCP plan.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The health department's page for new businesses lists the state sanitarian for each parish, a plans review questionnaire, a pre-opening checklist and pre-inspection information.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Louisiana Department of Health, Office of Public Health (Louisiana Administrative Code)",
+          "title": "LAC Title 51, Public Health Sanitary Code, Part XXIII Retail Food Establishments",
+          "url": "https://www.doa.la.gov/media/dtxju50z/51.docx",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Louisiana Department of Health",
+          "title": "Retail Food - For New Businesses",
+          "url": "https://ldh.la.gov/page/for-new-businesses",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "State law requires the owner or a designated employee of a food service establishment to hold a state food safety certificate, and the health department may not require more than one certificate holder per establishment.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The certificate requires an approved course and a passed written exam, an application and a $25 fee. It is renewed every five years with a new exam and displayed where the public can see it.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "State law bars parishes and municipalities from requiring a food service establishment or its employees to complete a food safety training program or test.",
+          "src": [
+            0,
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Louisiana State Legislature",
+          "title": "R.S. 40:5.5 Sanitary inspections of certain food service establishments; food safety certificates",
+          "url": "https://www.legis.la.gov/Legis/Law.aspx?d=98556",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2022",
+          "read": "fetched"
+        },
+        {
+          "agency": "Louisiana Department of Health, Office of Public Health (Louisiana Administrative Code)",
+          "title": "LAC Title 51, Public Health Sanitary Code, Part XXIII Retail Food Establishments",
+          "url": "https://www.doa.la.gov/media/dtxju50z/51.docx",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "The Secretary of State points new businesses to geauxBIZ, a state portal for business filings, name reservations, tax account registrations and a list of possible federal, state and local licenses and permits.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "New businesses register their state tax accounts, including a sales tax account if they sell taxable goods, through the Department of Revenue's LaTAP website.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The state sales tax rate is 5.00 percent as of January 1, 2025. Sales taxes levied by parishes and other local governments are charged in addition to the state tax.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "The Department of Revenue says prepared food, including ready-to-eat meals, is generally subject to state sales tax, while food sold for preparation and eating at home is generally exempt from the state tax. Local sales taxes may still apply.",
+          "src": [
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Louisiana Secretary of State",
+          "title": "Start a Business",
+          "url": "https://www.sos.la.gov/business-services/start-a-business",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Louisiana Department of Revenue",
+          "title": "Starting or Buying a Business",
+          "url": "https://revenue.la.gov/businesses/general-resources/business-registration",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-09-08",
+          "read": "fetched"
+        },
+        {
+          "agency": "Louisiana Department of Revenue",
+          "title": "What is the sales tax rate in Louisiana?",
+          "url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/sales-tax/what-is-the-sales-tax-rate-in-louisiana/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Louisiana Department of Revenue",
+          "title": "Is there sales tax on food?",
+          "url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/fairs-festivals-and-other-special-events/is-there-sales-tax-on-food/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Retail food permits in Louisiana come from the state Department of Health, whose parish sanitarians inspect restaurants and other food businesses. The department's Contact a Sanitarian page lists an office, address and phone number for each parish.",
+    "source": {
+      "agency": "Louisiana Department of Health",
+      "title": "Contact a Sanitarian - Public Health Inspector",
+      "url": "https://ldh.la.gov/inspector",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "search"
+    }
+  }
+}

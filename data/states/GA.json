@@ -1,0 +1,81 @@
+{
+  "state": "Georgia",
+  "abbr": "GA",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Georgia's cottage food law covers only foods that don't need temperature control for safety, so it does not cover perishable prepared meals. The Georgia Department of Agriculture licenses meal prep businesses selling packaged meals as food sales establishments and says a private home may not be used for food establishment operations.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Georgia's cottage food law (House Bill 398, in effect since July 1, 2025) covers only non-potentially hazardous foods, defined as foods that do not require temperature control for safety, so meals that need refrigeration are not cottage foods.", "src": [0, 1]},
+        {"text": "The Georgia Department of Agriculture (GDA) says a private home, or a room used as living or sleeping quarters, may not be used for conducting food establishment operations.", "src": [2]},
+        {"text": "Georgia's food service rules say food prepared in a private home may not be used or offered for human consumption in a food service establishment.", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "Georgia Department of Agriculture", "title": "House Bill 398 (2025), Cottage Food Law, O.C.G.A. 26-2-470 et seq.", "url": "https://agr.georgia.gov/sites/default/files/documents/assets/HB-398-Cottage-Food-Law-OCGA-26-2-470-et-seq-Under-Revision.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"},
+        {"agency": "Georgia Department of Agriculture", "title": "Cottage Food", "url": "https://agr.georgia.gov/cottage-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Georgia Department of Agriculture", "title": "Basic Requirements for Retail Food", "url": "https://agr.georgia.gov/basic-requirements-retail-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Georgia Department of Public Health", "title": "Food Service Rules and Regulations, Chapter 511-6-1", "url": "https://dph.georgia.gov/document/document/envhealthfoodfoodservice-rulespdf/download", "kind": "rule", "checked": "2026-11-22", "updated": "2025-02-12", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Since July 1, 2025, cottage food operators no longer need a GDA license or pay a state licensing fee, and GDA no longer does pre-licensing home inspections. GDA still investigates consumer complaints and reports of foodborne illness.", "src": [0]},
+        {"text": "Cottage foods may be sold directly to consumers, including online and by mail order, or to retail food sales establishments such as grocery stores and restaurants. A city or county may pass an ordinance prohibiting sales through these third-party vendors.", "src": [1, 0]},
+        {"text": "Allowed foods include breads, cakes without fillings that need refrigeration, jams and jellies, dried fruits, dry herbs and seasonings, granola, nuts, confections, fudge, dry soup mixes, roasted coffee beans, dry pasta and popcorn.", "src": [1]},
+        {"text": "Products must show the operator's business name, address (or a GDA identification number) and phone number, plus “This product was produced at a residential property that is exempt from state inspection. This product may contain allergens.” in at least 10-point type, on a label, placard or the sales webpage.", "src": [1]},
+        {"text": "GDA's cottage food page says operators must complete an ANSI-accredited food safety training program and that Food Handler-level training is acceptable. GDA says it is revising its cottage food rules to match House Bill 398.", "src": [2, 0]}
+      ],
+      "sources": [
+        {"agency": "Georgia Department of Agriculture", "title": "Cottage Food Update: House Bill 398 & Frequently Asked Questions", "url": "https://agr.georgia.gov/sites/default/files/documents/assets/Cottage-Food-Update-HB398-Frequently-Asked-Questions.pdf", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Georgia Department of Agriculture", "title": "House Bill 398 (2025), Cottage Food Law, O.C.G.A. 26-2-470 et seq.", "url": "https://agr.georgia.gov/sites/default/files/documents/assets/HB-398-Cottage-Food-Law-OCGA-26-2-470-et-seq-Under-Revision.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"},
+        {"agency": "Georgia Department of Agriculture", "title": "Cottage Food", "url": "https://agr.georgia.gov/cottage-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "GDA says operators of retail packaged meal preparation (meal prep) businesses selling prepared, packaged meals to consumers must be licensed as Food Sales Establishments and inspected before operating, and must include a product line menu with the application.", "src": [0]},
+        {"text": "Under GDA's guidelines, packaged meals may be sold on site, delivered by the license holder after payment, or delivered to a drop-off point. Cooked and cooled meals must be held at 41°F or below and eaten within 7 days.", "src": [0]},
+        {"text": "GDA requires building plans when a food establishment is built, converted or remodeled, and notes that shared-time or community kitchens are available in some areas for leasing kitchen space.", "src": [1]},
+        {"text": "Restaurants, caterers and other food service establishments need a food service permit from the Health Authority, meaning the Department of Public Health or a county board of health. Plans go to the county at least 14 business days before construction.", "src": [2]},
+        {"text": "Georgia's food service rules also recognize incubator food service establishments, also called shared kitchens, where commercial kitchen space is rented to members on a separation of time and space basis.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Georgia Department of Agriculture", "title": "Retail Meal Processor Guidelines", "url": "https://agr.georgia.gov/retail-meal-processor-guidelines", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Georgia Department of Agriculture", "title": "Basic Requirements for Retail Food", "url": "https://agr.georgia.gov/basic-requirements-retail-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Georgia Department of Public Health", "title": "Food Service Rules and Regulations, Chapter 511-6-1", "url": "https://dph.georgia.gov/document/document/envhealthfoodfoodservice-rulespdf/download", "kind": "rule", "checked": "2026-11-22", "updated": "2025-02-12", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Georgia food service establishments must employ a Certified Food Safety Manager: at least one employee with supervisory authority who passed an accredited exam. A new establishment has 60 days from permit issuance to employ one, and the certificate must be posted.", "src": [0]},
+        {"text": "The Certified Food Safety Manager is responsible for making sure all employees who handle unpackaged food have enough knowledge of safe food preparation and service.", "src": [0]},
+        {"text": "GDA requires firms that handle time/temperature control for safety foods in specific ways to have at least one supervisory employee who is a certified food protection manager.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Georgia Department of Public Health", "title": "Food Service Rules and Regulations, Chapter 511-6-1", "url": "https://dph.georgia.gov/document/document/envhealthfoodfoodservice-rulespdf/download", "kind": "rule", "checked": "2026-11-22", "updated": "2025-02-12", "read": "fetched"},
+        {"agency": "Georgia Department of Agriculture", "title": "Basic Requirements for Retail Food", "url": "https://agr.georgia.gov/basic-requirements-retail-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "LLCs are registered with the Georgia Secretary of State's Corporations Division online, by mail or in person. The state's Georgia.gov page lists a $100 online filing fee and a $110 fee by mail (page updated June 2026).", "src": [0]},
+        {"text": "Georgia's revenue rules tax prepared food at both state and local rates. Prepared food includes food heated by the seller at any time before the sale, even if sold cold, and food with two or more ingredients combined by the seller.", "src": [1]},
+        {"text": "Food and food ingredients sold to individuals for off-premises consumption, other than prepared food, are exempt from Georgia's state sales tax but remain subject to local sales taxes.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "State of Georgia (Georgia.gov)", "title": "Register an LLC with Georgia Secretary of State", "url": "https://georgia.gov/register-llc", "kind": "agency", "checked": "2026-11-22", "updated": "2026-06", "read": "fetched"},
+        {"agency": "Georgia Secretary of State (Rules and Regulations of the State of Georgia)", "title": "Rule 560-12-2-.104, Food Exemption", "url": "https://rules.sos.ga.gov/gac/560-12-2-.104", "kind": "rule", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Georgia Department of Public Health funds and works with 18 public health districts, each made up of one or more of Georgia's 159 counties and their county health departments; the page links to a list of county health departments and a district office directory.",
+    "source": {"agency": "Georgia Department of Public Health", "title": "Public Health Districts", "url": "https://dph.georgia.gov/public-health-districts", "kind": "agency", "checked": "2026-11-22", "updated": "2026-09-11", "read": "fetched"}
+  }
+}

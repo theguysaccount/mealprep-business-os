@@ -1,0 +1,236 @@
+{
+  "state": "Wyoming",
+  "abbr": "WY",
+  "checked": "2026-11-22",
+  "answer": "yes",
+  "answer_text": "Wyoming's Food Freedom Act exempts homemade food, including foods that need refrigeration, from state licensing and inspection when sold directly to an informed end consumer in Wyoming. Meat products are excluded apart from narrow exceptions such as some poultry, rabbit and farm-raised fish.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Wyoming's Food Freedom Act exempts homemade food, prepared in a private home kitchen, from state licensing, permitting, inspection, packaging and labeling requirements when it is sold to an informed end consumer under the act's conditions.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The act covers potentially hazardous food, which it defines to include foods requiring refrigeration, dairy products, quiches, pizzas, and cooked vegetables and beans. Potentially hazardous homemade food, other than eggs and dairy, must be sold by the producer or the producer's designated agent.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Sales must take place in Wyoming and may not involve meat products, except narrow cases such as poultry from a producer who raises and slaughters no more than 1,000 birds a year, domestic rabbit and farm-raised fish.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Sales can take place at farmers markets, farms, ranches, the producer's home or office, or any location the producer and consumer agree on. The Department of Agriculture says internet sales are allowed for delivery within Wyoming.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "The producer must tell the consumer the food is not certified, labeled, licensed, packaged, regulated or inspected. Homemade food may not be sold to or used in commercial food establishments, and the department says home producers may cater only to a private home.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "The act defines a producer as someone who makes no more than 250,000 individual food or drink products and earns no more than $250,000 in gross revenue from them each year.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wyoming Department of Agriculture",
+          "title": "Wyoming Food Freedom Act, W.S. 11-49-101 through 11-49-104 (version effective July 1, 2025)",
+          "url": "https://agriculture.wy.gov/corecode/uploads/document6/uploaded_pdfs/corecode/Wyoming%20Food%20Freedom%20Act%20July%201,%202025%20_936.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-07-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Wyoming Department of Agriculture",
+          "title": "Wyoming Food Freedom Act Q&A",
+          "url": "https://agriculture.wy.gov/corecode/uploads/document6/uploaded_pdfs/corecode/wffa%209.10_937.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-09-10",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Non-potentially hazardous homemade foods, such as jams, hard candies, fudge, granola, popcorn and baked goods without perishable fillings, fall under the same Food Freedom Act, without a state license.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Non-potentially hazardous homemade foods, eggs and dairy products may also be sold through a third-party vendor such as a retail shop or grocery store, displayed apart from licensed products and labeled as made in a home kitchen, not regulated or inspected, and possibly containing allergens.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wyoming Department of Agriculture",
+          "title": "Wyoming Food Freedom Act, W.S. 11-49-101 through 11-49-104 (version effective July 1, 2025)",
+          "url": "https://agriculture.wy.gov/corecode/uploads/document6/uploaded_pdfs/corecode/Wyoming%20Food%20Freedom%20Act%20July%201,%202025%20_936.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-07-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "The Wyoming Department of Agriculture's Consumer Health Services Division licenses and inspects food establishments and oversees the safety of the state's food supply in conjunction with local health departments.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "New or significantly remodeled food service establishments must submit plans to the regulatory authority before a license can be issued; WDA guidance says to submit them 30 days before construction, and the inspector responds within 30 days.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Licenses are issued after a pre-opening inspection, are renewed annually and are needed for each facility. WDA guidance says no homemade foods are allowed in licensed facilities.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The Wyoming Food Safety Rule says food establishment operations may not be conducted in a private home or in a room used as living or sleeping quarters.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wyoming Department of Agriculture",
+          "title": "Consumer Health Services",
+          "url": "https://agriculture.wy.gov/index.php?section=consumer-health-services",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Wyoming Department of Agriculture",
+          "title": "Starting a Retail Food Business",
+          "url": "https://agriculture.wy.gov/corecode/uploads/document6/uploaded_pdfs/corecode/Starting%20a%20Retail%20Food%20Business.Rev2%20(1)_811.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Wyoming Department of Agriculture",
+          "title": "Wyoming Food Safety Rule, Chapter 1: Purpose, Variances, Definitions, Demonstration of Knowledge, and Health Status",
+          "url": "https://agriculture.wy.gov/corecode/uploads/document6/uploaded_pdfs/corecode/chapt12012_1281.pdf",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Under the Wyoming Food Safety Rule, the person in charge shows food safety knowledge by complying with the rule, answering inspectors' questions correctly, or voluntarily being a certified food protection manager.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The license holder must make sure a person in charge is present at the establishment during all hours of operation.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wyoming Department of Agriculture",
+          "title": "Wyoming Food Safety Rule, Chapter 1: Purpose, Variances, Definitions, Demonstration of Knowledge, and Health Status",
+          "url": "https://agriculture.wy.gov/corecode/uploads/document6/uploaded_pdfs/corecode/chapt12012_1281.pdf",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "The Secretary of State's Business Division handles forming Wyoming LLCs, corporations, nonprofits and limited partnerships, which can be filed online.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Department of Revenue says food sold in restaurants is prepared food and taxable, while most grocery food is exempt as food for domestic home consumption. Sales tax licenses are applied for online through the department's WYIFS system.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wyoming Secretary of State",
+          "title": "Business & UCC Center",
+          "url": "https://sos.wyo.gov/Business/Default.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Wyoming Department of Revenue, Excise Tax Division",
+          "title": "Excise Tax FAQs",
+          "url": "https://excise-tax-div.wyo.gov/general-administrative/excise-tax-faqs",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Wyoming Department of Agriculture's Consumer Health Services licenses food establishments in conjunction with local health departments. Its inspectors-by-county page lists the state inspector for each county and local health departments in counties such as Laramie, Natrona, Sweetwater and Teton.",
+    "source": {
+      "agency": "Wyoming Department of Agriculture",
+      "title": "CHS Inspectors by County",
+      "url": "https://agriculture.wy.gov/index.php?section=chs-area",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

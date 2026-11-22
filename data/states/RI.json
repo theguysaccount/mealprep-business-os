@@ -1,0 +1,72 @@
+{
+  "state": "Rhode Island",
+  "abbr": "RI",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Rhode Island's cottage food law covers only baked goods that do not need refrigeration or time and temperature control, and its farm home food law covers only nonpotentially hazardous foods made in farm kitchens. Other food businesses must register each year with the state director of health.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Rhode Island's cottage food law limits home production to baked goods that do not require refrigeration or time and temperature control for safety, such as double crust pies, yeast breads, cookies, brownies and cakes, plus other goods the Department of Health defines.", "src": [0]},
+        {"text": "The separate farm home food law, for kitchens on farms, is limited to nonpotentially hazardous foods that do not require refrigeration, such as jams, yeast breads, maple syrup, candies and dried herbs.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 21-27-6.2. Cottage food manufacture", "url": "https://webserver.rilegislature.gov/Statutes/TITLE21/21-27/21-27-6.2.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2024-06-26", "read": "fetched"},
+        {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 21-27-6.1. Farm home food manufacture", "url": "https://webserver.rilegislature.gov/Statutes/TITLE21/21-27/21-27-6.1.htm", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Cottage food makers register with the Department of Health each year, submit a notarized affidavit of compliance, and must first complete a food safety manager course, an approved food handler course or another course the department approves.", "src": [0]},
+        {"text": "Sales go directly to consumers by pickup or delivery within the state. Internet, mail and phone sales are allowed if the maker or a designee delivers in person to the customer within Rhode Island.", "src": [0]},
+        {"text": "Consignment and wholesale sales are not allowed, nor are sales through grocery stores, restaurants, long-term care facilities, group homes, day care facilities or schools.", "src": [0]},
+        {"text": "Annual gross sales may not exceed $50,000. Labels must list the maker's name, address and phone number, ingredients and allergens, and state that the maker is not subject to routine government food safety inspection.", "src": [0]},
+        {"text": "The home kitchen must meet minimum housing standards and have a two-compartment sink, or a dishwasher plus a one-compartment sink, and pets must be kept out of food preparation and storage areas.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 21-27-6.2. Cottage food manufacture", "url": "https://webserver.rilegislature.gov/Statutes/TITLE21/21-27/21-27-6.2.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2024-06-26", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "State law says no one may operate a food business without registering it each year with the state director of health. Registration classes include food processors, food service establishments, mobile food service units and retail markets.", "src": [0]},
+        {"text": "The Rhode Island Food Code adopts the 2022 FDA Food Code and covers food establishment plan review, inspection and permits for food establishments licensed by the Department of Health.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 21-27-10. Registration of food businesses", "url": "https://webserver.rilegislature.gov/Statutes/TITLE21/21-27/21-27-10.htm", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Rhode Island Department of Health (Rhode Island Department of State rules database)", "title": "Rhode Island Food Code (216-RICR-50-10-1)", "url": "https://rules.sos.ri.gov/regulations/part/216-50-10-1", "kind": "rule", "checked": "2026-11-22", "updated": "2025-01-08", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Food establishments that prepare potentially hazardous foods must employ at least one full-time manager certified in food safety, and two if they have 10 or more full-time-equivalent employees preparing food.", "src": [0]},
+        {"text": "When a certified manager leaves, the establishment has 60 days to employ a new one or have someone enrolled in an approved food manager certification program.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 21-27-11.6. Requirements of food establishments", "url": "https://webserver.rilegislature.gov/Statutes/TITLE21/21-27/21-27-11.6.htm", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "The Department of State's Business Services division takes online business filings and trade name filings and offers a free checklist tool for new businesses.", "src": [0]},
+        {"text": "Rhode Island's sales tax rate is 7%. A separate 1% local meals and beverage tax applies to meals sold in or from eating and drinking establishments, including caterers, whether eaten on the premises or not.", "src": [1, 2]},
+        {"text": "The cottage food law says sales of cottage foods are subject to applicable sales tax.", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "Rhode Island Department of State", "title": "Business Services", "url": "https://www.sos.ri.gov/divisions/business-services", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 44-18-18. Sales tax imposed", "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-18/44-18-18.htm", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 44-18-18.1. Local meals and beverage tax", "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-18/44-18-18.1.htm", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 21-27-6.2. Cottage food manufacture", "url": "https://webserver.rilegislature.gov/Statutes/TITLE21/21-27/21-27-6.2.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2024-06-26", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "In Rhode Island, food businesses register each year with the state director of health at the Rhode Island Department of Health.",
+    "source": {"agency": "Rhode Island General Assembly", "title": "R.I. Gen. Laws § 21-27-10. Registration of food businesses", "url": "https://webserver.rilegislature.gov/Statutes/TITLE21/21-27/21-27-10.htm", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "state": "Texas",
+  "abbr": "TX",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Since September 1, 2025, Texas's cottage food law covers foods that need time and temperature control if the home operator registers with the state health department. Meat, poultry and seafood are excluded, sales go directly to consumers, and annual income is capped at $150,000, adjusted for inflation.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Senate Bill 541, effective September 1, 2025, lets a cottage food production operation make and sell foods that need time and temperature control for safety (TCS), except meat, poultry, seafood, ice products, low-acid canned goods, raw milk products and products containing CBD or THC.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "An operation that sells TCS foods must register with the Department of State Health Services and store and deliver the food at temperatures that prevent bacterial growth; DSHS cites 41°F or below for cold items and 135°F or above for hot items.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "TCS foods must be labeled with the date they were made and carry a safe handling statement, on the label or on an invoice or receipt, telling consumers to keep the food refrigerated or frozen until it is prepared.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Cottage food operations sell directly to consumers and deliver at the point of sale or another place the consumer chooses. TCS foods cannot be sold wholesale to cottage food vendors or donated.",
+          "src": [
+            0,
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Texas Department of State Health Services",
+          "title": "Texas Cottage Food Production",
+          "url": "https://www.dshs.texas.gov/retail-food-establishments/permits-retail-food-establishments/texas-cottage-food-production",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Texas Legislature",
+          "title": "S.B. 541, 89th Legislature (enrolled version), relating to cottage food production operations",
+          "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00541F.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-09-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Anyone operating a cottage food production operation must complete an accredited food handler training course; DSHS accepts an accredited food manager certification in its place.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Annual gross income from cottage food sales is capped at $150,000, which the department adjusts each year for inflation. Nonprofit organizations may also operate as cottage food operations.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Online sales are allowed when the operator, an employee or a household member personally delivers the food and the required labeling information is posted on the website before payment.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Labels must show the operation's name, its address or a DSHS registration number, the product name, major allergens, and a disclosure that the food was made in a private residence not subject to government licensing or inspection.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Cottage food operations are exempt from the Texas Food Establishment Rules, and local health departments may not require them to get a license or permit or pay a fee to produce or sell directly to consumers.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Registered cottage food vendors may resell cottage foods that are not TCS foods at farmers markets, farm stands, food service establishments or retail stores, with a sign disclosing that the food was made in a private residence.",
+          "src": [
+            0,
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Texas Department of State Health Services",
+          "title": "Texas Cottage Food Production",
+          "url": "https://www.dshs.texas.gov/retail-food-establishments/permits-retail-food-establishments/texas-cottage-food-production",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Texas Legislature",
+          "title": "S.B. 541, 89th Legislature (enrolled version), relating to cottage food production operations",
+          "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00541F.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-09-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Retail food establishments are permitted and inspected by city, county or public health district health departments where those agencies regulate retail food. DSHS permits and inspects establishments in areas with no city ordinance or county order covering retail food.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "All retail food establishments must meet the Texas Food Establishment Rules, the statewide minimum standard; local health departments may set stricter requirements.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "For establishments under DSHS jurisdiction, permit fees depend on gross annual food sales: $258 under $50,000, $515 from $50,000 to $149,999.99, and $773 for $150,000 or more.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Texas Department of State Health Services",
+          "title": "General FAQs - Retail Food Establishments",
+          "url": "https://www.dshs.texas.gov/retail-food-establishments/general-faqs-retail-food-establishments",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Texas Department of State Health Services",
+          "title": "Permits for Retail Food Establishment",
+          "url": "https://www.dshs.texas.gov/retail-food-establishments/permits-retail-food-establishments",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Under the Texas Food Establishment Rules, at least one employee with supervisory and management responsibility must be a certified food protection manager who passed a test that is part of an accredited program.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "All food employees must complete an accredited food handler training course within 30 days of employment; certified food managers are exempt, and the establishment keeps each employee's certificate on site.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Texas Department of State Health Services",
+          "title": "Frequently Asked Questions - Certified Food Manager (CFM) Program",
+          "url": "https://www.dshs.texas.gov/licensing-certified-food-manager-training-programs/frequently-asked-questions-certified-food-manager-cfm-program",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Texas Department of State Health Services",
+          "title": "Frequently Asked Questions - Food Handler Education or Training Programs",
+          "url": "https://www.dshs.texas.gov/licensing-food-handler-training-programs/frequently-asked-questions-food-handler-education-or-training-programs",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "A Texas limited liability company is created by filing a certificate of formation with the Secretary of State, which can be filed online through SOSDirect. A sole proprietor using an assumed name files an assumed name certificate with the county clerk.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Comptroller's guidance says prepared food, such as food heated by the seller or ingredients a store combines into one item like a salad, is taxable, while food products, including food that is typically reheated before eating, are not.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Texas Secretary of State",
+          "title": "Selecting a Business Structure",
+          "url": "https://www.sos.state.tx.us/corp/businessstructure.shtml",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Texas Comptroller of Public Accounts",
+          "title": "Grocery and Convenience Stores (Publication 96-280)",
+          "url": "https://comptroller.texas.gov/taxes/publications/96-280.php",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-03",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food establishment permits come from the city, county or public health district health department where one regulates retail food; elsewhere the Texas Department of State Health Services issues them. DSHS lists all local health departments, public health districts and local health units.",
+    "source": {
+      "agency": "Texas Department of State Health Services",
+      "title": "Texas Local Public Health Organizations",
+      "url": "https://www.dshs.texas.gov/regional-local-health-operations/public-health-regions/texas-local-public-health",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

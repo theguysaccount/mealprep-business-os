@@ -1,0 +1,245 @@
+{
+  "state": "West Virginia",
+  "abbr": "WV",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "West Virginia's Department of Agriculture issues potentially hazardous cottage food vendor permits, after a kitchen inspection, for foods that need time or temperature control made in a home kitchen and sold directly to consumers in the state. Meat, poultry, seafood and Grade A dairy products are excluded.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "A 2026 law (Senate Bill 44) and an emergency rule from the West Virginia Department of Agriculture (61CSR42) set up permits for potentially hazardous cottage foods, including foods that need time or temperature control, made in home kitchens.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Vendors register with WVDA for a potentially hazardous cottage food vendor permit. WVDA inspects the kitchen before issuing the permit and after each annual renewal; the rule bills inspections at $27 an hour, and WVDA's guide says the permit itself is free.",
+          "src": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "text": "The rule defines cottage foods as homemade foods produced and packaged at the producer's residential property and sold directly to a consumer, and limits sales to West Virginia. Meat, meat products, poultry, seafood and Grade A dairy products are excluded.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Permit applicants must show a food handler card or higher-level food safety training and submit product labels for WVDA review, and permit holders may sell only the products listed on the permit.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Permit holders do not need a separate food establishment permit to sell from home, but a local health department may halt production if it believes an imminent health hazard exists.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Labels must include a statement that the product was made in a non-commercial or home kitchen that may not be subject to inspection and may contain allergens not listed in the allergen statement.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "West Virginia Department of Agriculture",
+          "title": "Potentially Hazardous Cottage Foods",
+          "url": "https://agriculture.wv.gov/divisions/regulatory-and-environmental-affairs/potentially-hazardous-cottage-foods/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "West Virginia Department of Agriculture",
+          "title": "61CSR42, Cottage Foods: Homemade Potentially Hazardous Food Items (emergency rule)",
+          "url": "https://agriculture.wv.gov/filed-cottage-food-rule-emergency-rule-2026/",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2026-06-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "West Virginia Department of Agriculture",
+          "title": "West Virginia Department of Agriculture Guide for Homemade Food Products",
+          "url": "https://agriculture.wv.gov/west-virginia-department-of-agriculture-guide-for-homemade-food-products/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Under W. Va. Code § 19-35-6, the production and sale of nonpotentially hazardous, shelf-stable foods made in a home, farm, community or commercial kitchen is exempt from food licensing, permitting, inspection, packaging and labeling laws.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "WVDA says non-potentially hazardous cottage foods, such as breads, cakes, candies, standard fruit jams and jellies, granola and fruit pies, do not need the cottage food vendor permit, but labeling rules and state or local business licenses still apply.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The exemption does not excuse producers from registering their business or paying applicable taxes.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "West Virginia Tax Division",
+          "title": "TSD 420, Sales Tax Regarding Prepared Foods",
+          "url": "https://tax.wv.gov/Documents/TSD/tsd420.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2023-05",
+          "read": "fetched"
+        },
+        {
+          "agency": "West Virginia Department of Agriculture",
+          "title": "West Virginia Department of Agriculture Guide for Homemade Food Products",
+          "url": "https://agriculture.wv.gov/west-virginia-department-of-agriculture-guide-for-homemade-food-products/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "West Virginia's food establishment rule (64CSR17), enforced by the Bureau for Public Health, covers restaurants, catering operations and other operations that provide food to consumers directly or through delivery.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The rule adopts the 2013 FDA Food Code with state changes and requires plans for new or remodeled establishments to be submitted at least 45 days before construction, conversion or remodeling.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Under that rule, a kitchen in a private home is outside the definition of a food establishment only in narrow cases, such as non-TCS food for a religious or charitable bake sale with a placard telling buyers the kitchen is not inspected.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "West Virginia Department of Health, Bureau for Public Health",
+          "title": "64CSR17, Food Establishments (legislative rule)",
+          "url": "https://apps.sos.wv.gov/adlaw/csr/readfile.aspx?DocId=56037&Format=PDF",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2023-04-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "The food establishment rule keeps the FDA Food Code's certified food protection manager requirement (paragraph 2-102.12), except for stores handling only commercially prepackaged food and temporary food establishments.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Potentially hazardous cottage food vendors must show a food handler card or completion of approved training such as Better Process Control School or a good manufacturing practices program.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "West Virginia Department of Health, Bureau for Public Health",
+          "title": "64CSR17, Food Establishments (legislative rule)",
+          "url": "https://apps.sos.wv.gov/adlaw/csr/readfile.aspx?DocId=56037&Format=PDF",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2023-04-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "West Virginia Department of Agriculture",
+          "title": "61CSR42, Cottage Foods: Homemade Potentially Hazardous Food Items (emergency rule)",
+          "url": "https://agriculture.wv.gov/filed-cottage-food-rule-emergency-rule-2026/",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2026-06-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "The Secretary of State's Start a West Virginia Business page covers choosing a structure, registering a business name and registering a new business, and links to the One Stop Business Portal.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Prepared food is subject to West Virginia sales tax at 6%, while food and food ingredients are not taxed. Prepared food includes items combining two or more ingredients mixed by the seller and food heated by the seller; cities may add a 1% sales tax.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "West Virginia Secretary of State",
+          "title": "Start a West Virginia Business",
+          "url": "https://sos.wv.gov/start-WV-business",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "West Virginia Tax Division",
+          "title": "TSD 420, Sales Tax Regarding Prepared Foods",
+          "url": "https://tax.wv.gov/Documents/TSD/tsd420.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2023-05",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "West Virginia has 48 local boards of health and health departments, which work with the state Bureau for Public Health. The Bureau's Center for Local Health links to a brochure listing each department and its contacts.",
+    "source": {
+      "agency": "West Virginia Department of Health, Bureau for Public Health",
+      "title": "Center for Local Health",
+      "url": "https://bph.wv.gov/center-local-health",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

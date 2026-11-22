@@ -1,0 +1,73 @@
+{
+  "state": "Indiana",
+  "abbr": "IN",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Indiana's home-based vendor law covers only foods that don't need time or temperature control for safety, and the state health department lists ready-made meals among foods that are not home-based vendor products. Such foods must be made by a permitted operator in a food establishment inspected by a local health department or the state.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Indiana's home-based vendor law (IC 16-42-5.3) allows only foods that are not time/temperature controlled for safety, and the Indiana Department of Health says TCS foods are not permitted to be sold by home-based vendors.", "src": [0]},
+        {"text": "The department's handbook lists prepared foods, such as casseroles, lasagna and ready-made meals, along with raw or cooked meats, among products that are not home-based vendor products.", "src": [0]},
+        {"text": "Foods outside the home-based vendor rules must be produced by a permitted operator in a food establishment inspected by a local health department or the Indiana Department of Health.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Indiana Department of Health", "title": "Indiana Home-Based Vendor Handbook 2025", "url": "https://www.in.gov/dA/be6be4f727/Indiana-Home-Based-Vendor-Handbook-2.pdf?language_id=1", "kind": "agency", "checked": "2026-11-22", "updated": "2025", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Home-based vendors may make non-TCS foods, such as breads, cakes, cookies, jams and jellies, in the kitchen of their primary residence and sell them directly to the end consumer, not to stores, restaurants or wholesalers.", "src": [0]},
+        {"text": "Sales may be in person, by phone or online, with delivery in person, by mail or by a third-party carrier, but all products must be sold and shipped within Indiana.", "src": [0]},
+        {"text": "Every home-based vendor must hold a food handler certificate from a certificate issuer accredited by the American National Standards Institute (ANSI).", "src": [0]},
+        {"text": "Labels must show the producer's name and address, product name, ingredients, net weight or volume, processing date, and “This product is home produced and processed, and the production area has not been inspected by the State Department of Health. NOT FOR RESALE.”", "src": [0]},
+        {"text": "Home-based vendors are not routinely inspected, but local health departments may inspect production sites with cause, such as a consumer complaint.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Indiana Department of Health", "title": "Indiana Home-Based Vendor Handbook 2025", "url": "https://www.in.gov/dA/be6be4f727/Indiana-Home-Based-Vendor-Handbook-2.pdf?language_id=1", "kind": "agency", "checked": "2026-11-22", "updated": "2025", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Indiana's retail food rule (410 IAC 7-26) covers restaurants, catering operations that provide food directly to consumers, markets and mobile retail food establishments, among others.", "src": [0, 1]},
+        {"text": "Plans, including the menu, expected food volume, layout and equipment, must be submitted to the regulatory authority, which is the local or county health department or the Indiana Department of Health, and the operator must give notice at least 30 days before registering.", "src": [0]},
+        {"text": "The Indiana Department of Health directs businesses that are not on state property to their local health department for permitting information.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Indiana Department of Health", "title": "How to Start a Retail Food Business", "url": "https://www.in.gov/health/food-protection/retail/how-to-start-a-retail-food-business", "kind": "agency", "checked": "2026-11-22", "updated": "2026-11-11", "read": "fetched"},
+        {"agency": "Indiana Department of Health", "title": "Retail Safety Program", "url": "https://www.in.gov/health/food-protection/retail/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-05-04", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Indiana food establishments must have at least one certified food protection manager responsible for all periods of operation, though not necessarily present at all times, and the manager's certificate must be renewed every five years.", "src": [0]},
+        {"text": "Establishments whose food handling does not include cooking raw animal foods, or is limited to activities such as heating precooked foods or selling prepackaged food, do not need a certified food protection manager.", "src": [0]},
+        {"text": "Home-based vendors must hold a food handler certificate from an ANSI-accredited issuer.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Indiana Department of Health", "title": "HEA 1210 – Certified Food Protection Manager (memo to local health departments)", "url": "https://www.in.gov/dA/9660c723c4/Memo-to-LHDs-HEA-1210-CFPM-FINAL.pdf?language_id=1", "kind": "agency", "checked": "2026-11-22", "updated": "2020-06-30", "read": "fetched"},
+        {"agency": "Indiana Department of Health", "title": "Indiana Home-Based Vendor Handbook 2025", "url": "https://www.in.gov/dA/be6be4f727/Indiana-Home-Based-Vendor-Handbook-2.pdf?language_id=1", "kind": "agency", "checked": "2026-11-22", "updated": "2025", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "The Indiana Secretary of State's Business Division handles forming a new business, with online filing through INBiz.", "src": [0]},
+        {"text": "Food and food ingredients sold unheated and without utensils are generally exempt from Indiana sales tax, but prepared food is taxable: food sold with utensils, sold heated, or with two or more ingredients mixed by the seller.", "src": [1]},
+        {"text": "The Department of Revenue's bulletin lists exceptions to prepared food, such as bakery items and food sold by sellers classified as food manufacturers (NAICS 311, except bakeries).", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Indiana Secretary of State", "title": "Business Division: Home", "url": "https://www.in.gov/sos/business/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-09-17", "read": "fetched"},
+        {"agency": "Indiana Department of Revenue", "title": "Sales Tax Information Bulletin #29: Sales of Food", "url": "https://www.in.gov/dor/files/reference/sib29.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2025-09", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Retail food establishment permits in Indiana are usually handled by the local (mostly county) health department; the Indiana Department of Health's map lists each local health department with its address, phone number and website.",
+    "source": {"agency": "Indiana Department of Health", "title": "Local Health Department Map and Contacts", "url": "https://www.in.gov/health/lhd/local-health-department-map", "kind": "agency", "checked": "2026-11-22", "updated": "2026-09-02", "read": "fetched"}
+  }
+}

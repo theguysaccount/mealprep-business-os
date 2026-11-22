@@ -1,0 +1,73 @@
+{
+  "state": "Missouri",
+  "abbr": "MO",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Missouri's cottage food law covers only baked goods, canned jams and jellies, and dried herbs that are not potentially hazardous. The state health department says foods outside that law may have to be made in an approved commercial kitchen and inspected by the local public health agency.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Missouri's cottage food law (RSMo 196.298) covers only baked goods, canned jams or jellies, and dried herbs or herb mixes, sold directly to consumers. A baked good under the law does not include a potentially hazardous food.", "src": [0]},
+        {"text": "The state health department's guidance says a potentially hazardous food is no longer a cottage food product, and lists meats, dairy, eggs and cut produce among foods that cannot be sold under the cottage law.", "src": [1]},
+        {"text": "The same guidance says products outside the cottage law may have to be made in an approved commercial kitchen and are subject to routine inspection by the local public health agency, which lists ready-to-eat food and other potentially hazardous foods among foods requiring inspection.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Missouri Revisor of Statutes", "title": "RSMo 196.298: Cottage food production operations", "url": "https://revisor.mo.gov/main/OneSection.aspx?section=196.298", "kind": "statute", "checked": "2026-11-22", "updated": "2022-08-28", "read": "fetched"},
+        {"agency": "Missouri Department of Health and Senior Services", "title": "Missouri Home-Based Kitchen Food Production Guidance", "url": "https://health.mo.gov/sites/health/files/media/pdf/2026/03/home-based-kitchen-food-prod-guidance.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2023-08", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "There is no food permit or license for a cottage food production operation, and the law says a local health department may not regulate food production at one. Health agencies can still investigate complaints and foodborne illness.", "src": [0, 1]},
+        {"text": "Cottage foods must be sold to the end consumer by the person who made them or a knowledgeable member of the household. Wholesaling takes a product out of the cottage law and under the state's manufactured food program.", "src": [1]},
+        {"text": "Since August 28, 2022, cottage foods may be sold online when both the seller and the buyer are in Missouri, and the former $50,000 annual gross income cap was removed. Sales across state lines are not allowed.", "src": [0, 1]},
+        {"text": "Labels must show the operation's name and address, the food's common name, ingredients in descending order by weight, net weight, allergens, and a statement that the kitchen is not subject to inspection by the state health department.", "src": [1]},
+        {"text": "A separate Missouri Food Code exemption lets other low-risk foods, such as fruit butters and dry soup mixes, be sold from an individual stand where local law allows, with labels and a placard. The local public health agency decides whether it applies.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Missouri Revisor of Statutes", "title": "RSMo 196.298: Cottage food production operations", "url": "https://revisor.mo.gov/main/OneSection.aspx?section=196.298", "kind": "statute", "checked": "2026-11-22", "updated": "2022-08-28", "read": "fetched"},
+        {"agency": "Missouri Department of Health and Senior Services", "title": "Missouri Home-Based Kitchen Food Production Guidance", "url": "https://health.mo.gov/sites/health/files/media/pdf/2026/03/home-based-kitchen-food-prod-guidance.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2023-08", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Missouri's health department sets statewide standards, while local public health agencies handle routine inspections and enforcement for retail food establishments, including restaurants, caterers and mobile food vendors.", "src": [0]},
+        {"text": "The state health department does not issue food permits. The Missouri Food Code requires new food establishments to complete an application and preopening inspection with the local public health agency, and some local jurisdictions require operating permits.", "src": [0]},
+        {"text": "Local public health agencies may adopt food ordinances equal to or stricter than state rules. An operation that also sells to other businesses is inspected by the state's manufactured food program as well.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Missouri Department of Health and Senior Services", "title": "Retail Food Safety", "url": "https://health.mo.gov/business-professionals/food-safety/retail-food-safety", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Missouri Department of Health and Senior Services", "title": "Missouri Home-Based Kitchen Food Production Guidance", "url": "https://health.mo.gov/sites/health/files/media/pdf/2026/03/home-based-kitchen-food-prod-guidance.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2023-08", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "The state health department says Missouri's current Food Code does not require food managers to be certified, but the person in charge must show knowledge of foodborne illness prevention, HACCP principles and Food Code requirements.", "src": [0]},
+        {"text": "Counties and cities can adopt stricter rules, and the department says some may require food manager or food handler training. It advises checking with the local public health agency before earning a food protection manager certification.", "src": [0, 1]}
+      ],
+      "sources": [
+        {"agency": "Missouri Department of Health and Senior Services", "title": "Food Safety Training", "url": "https://health.mo.gov/business-professionals/food-safety/retail-food-safety/food-safety-training", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Missouri Department of Health and Senior Services", "title": "Retail Food Safety", "url": "https://health.mo.gov/business-professionals/food-safety/retail-food-safety", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "The Missouri Secretary of State's Corporations Division handles business entity filings, and a limited liability company can be registered online by filing articles of organization.", "src": [0]},
+        {"text": "Missouri taxes qualifying food at a reduced state rate of 1.225 percent plus local tax, but the reduced rate does not apply where food prepared for immediate consumption is more than 80 percent of a business's gross receipts. The Department of Revenue's examples tax hot food at the regular rate.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Missouri Secretary of State", "title": "Starting a Business", "url": "https://www.sos.mo.gov/business/startbusiness", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Missouri Department of Revenue", "title": "Missouri Sales Tax Reduction on Food", "url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/reduction-on-food.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Missouri's local public health agencies run the application and preopening inspection for food establishments. The state health department's directory lists every local public health agency by county.",
+    "source": {"agency": "Missouri Department of Health and Senior Services", "title": "Find Your Local Public Health Agency", "url": "https://health.mo.gov/local/find-your-local-public-health-agency", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

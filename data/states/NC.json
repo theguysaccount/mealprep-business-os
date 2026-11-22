@@ -1,0 +1,72 @@
+{
+  "state": "North Carolina",
+  "abbr": "NC",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "North Carolina's home processing program, run by the Department of Agriculture and Consumer Services, covers only low-risk foods that do not need refrigeration or freezing. Refrigerated or frozen products are not permitted in a home kitchen, and the state food code bars food establishment operations in a private home.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "The Department of Agriculture and Consumer Services says only low-risk, shelf-stable foods that do not require refrigeration or freezing may be processed in a home kitchen. It lists refrigerated or frozen products, dairy, seafood and low-acid canned foods as high-risk products that are not permitted.", "src": [0]},
+        {"text": "The department says high-risk products can only be produced commercially under its routine inspection program, and a kitchen in a garage, basement or separate building does not qualify as home processing.", "src": [0]},
+        {"text": "North Carolina's food code says a private home or a room used as living or sleeping quarters may not be used for food establishment operations, and food prepared in a private home may not be offered in a food establishment.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "North Carolina Department of Agriculture and Consumer Services, Food and Drug Protection Division", "title": "Food & Drug - Food Program - Home Processor", "url": "https://www.ncagr.gov/divisions/food-drug-protection/food-program/food-drug-food-program-home-processor", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Carolina Department of Health and Human Services, Environmental Health Section", "title": "North Carolina Food Code Manual: A Reference for 15A NCAC 18A .2600 (adoption of the 2017 FDA Food Code)", "url": "https://ehs.dph.ncdhhs.gov/faf/docs/foodprot/NC-FoodCodeManual-2021-FINAL-10-1-2021.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2021-10-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Anyone producing food at home for sale, whether directly to consumers or to stores or restaurants, must first have the home kitchen inspected by the Department of Agriculture and Consumer Services under its home processing program.", "src": [0]},
+        {"text": "Allowed low-risk foods include baked goods that do not need refrigeration, jams, jellies and preserves, candies, dried mixes and spices, and some beverages, sauces and acidified foods. Some sauces and acidified foods need product testing first.", "src": [0]},
+        {"text": "The department does not issue a permit; after the inspection, the home processor receives an inspection report and a Notice of Inspection. Homes with indoor pets do not qualify, and applicants must check local zoning rules.", "src": [0]},
+        {"text": "Labels with the product name, maker's name and address, net weight, ingredients and allergens are required for self-service, wholesale or shipped products. Products sold on demand directly to the consumer may be exempt from an affixed label.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "North Carolina Department of Agriculture and Consumer Services, Food and Drug Protection Division", "title": "Food & Drug - Food Program - Home Processor", "url": "https://www.ncagr.gov/divisions/food-drug-protection/food-program/food-drug-food-program-home-processor", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "State law says no establishment that prepares or serves food for pay may start or continue operating without a permit or transitional permit from the Department of Health and Human Services. Permits are not transferable, and a new location needs a new permit.", "src": [0]},
+        {"text": "Under the food code, plans for an independent food establishment go to the local health department for review, while plans for franchised or chain establishments go to the state's Environmental Health Section, before construction, conversion or remodeling.", "src": [1]},
+        {"text": "North Carolina's food protection rules adopt the 2017 FDA Food Code, effective October 1, 2021.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "North Carolina General Assembly", "title": "G.S. 130A-248. Regulation of food and lodging establishments", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_130A/GS_130A-248.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Carolina Department of Health and Human Services, Environmental Health Section", "title": "North Carolina Food Code Manual: A Reference for 15A NCAC 18A .2600 (adoption of the 2017 FDA Food Code)", "url": "https://ehs.dph.ncdhhs.gov/faf/docs/foodprot/NC-FoodCodeManual-2021-FINAL-10-1-2021.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2021-10-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "The food code requires the person in charge of a food establishment to be a certified food protection manager who passed a test that is part of an accredited program. Congregate nutrition sites and Risk Category I establishments are exempt.", "src": [0]},
+        {"text": "The person in charge must also make sure employees are properly trained in food safety, including food allergy awareness, as it relates to their duties.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "North Carolina Department of Health and Human Services, Environmental Health Section", "title": "North Carolina Food Code Manual: A Reference for 15A NCAC 18A .2600 (adoption of the 2017 FDA Food Code)", "url": "https://ehs.dph.ncdhhs.gov/faf/docs/foodprot/NC-FoodCodeManual-2021-FINAL-10-1-2021.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2021-10-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Corporations and limited liability companies register with the Secretary of State. The agriculture department notes that sole proprietorships and partnerships file an assumed name certificate with the register of deeds in each county where they operate.", "src": [0, 1]},
+        {"text": "The agriculture department's guidance says a business planning to make sales needs a North Carolina sales and use tax number.", "src": [0]},
+        {"text": "Prepared food, such as food sold heated or two or more foods combined by the seller, is non-qualifying food taxed at the general state rate plus applicable local and transit rates. Qualifying grocery food is taxed only at a 2% local rate.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "North Carolina Department of Agriculture and Consumer Services, Food and Drug Protection Division", "title": "Food & Drug - Food Program - Home Processor", "url": "https://www.ncagr.gov/divisions/food-drug-protection/food-program/food-drug-food-program-home-processor", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Carolina Secretary of State, Business Registration Division", "title": "Business Registration", "url": "https://www.sosnc.gov/divisions/business_registration", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Carolina Department of Revenue", "title": "Food, Non-Qualifying Food, and Prepaid Meal Plans", "url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/taxable-items/food-non-qualifying-food-and-prepaid-meal-plans", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "The North Carolina Division of Public Health lists the address and phone number of every county's local health department.",
+    "source": {"agency": "North Carolina Department of Health and Human Services, Division of Public Health", "title": "Find Your Local Health Department", "url": "https://www.dph.ncdhhs.gov/contact/LHD", "kind": "agency", "checked": "2026-11-22", "updated": "2026-10-09", "read": "fetched"}
+  }
+}

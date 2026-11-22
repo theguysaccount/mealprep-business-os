@@ -1,0 +1,72 @@
+{
+  "state": "Hawaii",
+  "abbr": "HI",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Hawaii's homemade food exemption covers foods that don't need time or temperature control for safety, with narrow exceptions such as refrigerated salsa, so it does not cover perishable prepared meals. Those are made in a food establishment with a Department of Health permit, and the food code says food establishment operations may not be conducted in a private home.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Hawaii's homemade food products are limited to foods that don't need time/temperature control for safety, excluding dried meats and seafood, plus certain pickled, fermented or acidified plant foods. Refrigerated salsa is a listed exception, so other meals that need refrigeration fall outside the exemption.", "src": [0, 1]},
+        {"text": "Hawaii's food code says the person in charge of a food establishment must make sure food establishment operations are not conducted in a private home or in a room used as living or sleeping quarters.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Hawaii Department of Health, Food Safety Branch", "title": "Homemade Food Products (fact sheet)", "url": "https://health.hawaii.gov/san/files/2019/09/hmf-foods-01.29.2026.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2026-01-29", "read": "fetched"},
+        {"agency": "Hawaii Department of Health", "title": "Hawaii Administrative Rules, Title 11, Chapter 50, Food Safety Code (2025)", "url": "https://health.hawaii.gov/san/files/2025/09/HAR-11-50-2025-searchable.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2025-08-24", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Homemade food operations are exempt from the food establishment permit. Examples of allowed products include jams and jellies, baked goods without custard or cream fillings, pickles, kimchi and salsa made from plant foods, and juice sold directly to consumers.", "src": [0]},
+        {"text": "Operators must get food safety training from the Department of Health or a program it approves (ANSI-accredited courses qualify), keep a handwashing sink available during food preparation, and label their products.", "src": [0, 1]},
+        {"text": "Labels must include “Made in a home kitchen not routinely inspected by the Department of Health”, the product name, ingredients, major food allergens, and the operator's name and contact information.", "src": [0]},
+        {"text": "Homemade food products may be sold directly to consumers in person or remotely, including by phone or online, through an agent or a third-party vendor such as a food establishment, and delivered by mail or shipping.", "src": [1, 0]},
+        {"text": "Homemade food operations remain subject to Department of Health inspection. Some event organizers require a special event permit, and the department says it can review and sign off on that application.", "src": [1, 0]}
+      ],
+      "sources": [
+        {"agency": "Hawaii Department of Health, Food Safety Branch", "title": "Homemade Food Products (fact sheet)", "url": "https://health.hawaii.gov/san/files/2019/09/hmf-foods-01.29.2026.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2026-01-29", "read": "fetched"},
+        {"agency": "Hawaii Department of Health", "title": "Hawaii Administrative Rules, Title 11, Chapter 50, Food Safety Code (2025)", "url": "https://health.hawaii.gov/san/files/2025/09/HAR-11-50-2025-searchable.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2025-08-24", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "No one may operate a food establishment in Hawaii without a valid permit issued by the director of health. A permit is valid for one year and must be renewed.", "src": [0]},
+        {"text": "A permit is issued only after the Department of Health receives a complete application, any plans and specifications with a plan review application, a food list or HACCP plan if requested, the fee, and any required inspection.", "src": [0]},
+        {"text": "Food establishment permits are handled by the state Department of Health's Food Safety Branch, which has offices on Oahu, in Hilo and Kona on Hawaii Island, on Maui and on Kauai.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Hawaii Department of Health", "title": "Hawaii Administrative Rules, Title 11, Chapter 50, Food Safety Code (2025)", "url": "https://health.hawaii.gov/san/files/2025/09/HAR-11-50-2025-searchable.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2025-08-24", "read": "fetched"},
+        {"agency": "Hawaii Department of Health, Food Safety Branch", "title": "Contact Us", "url": "https://health.hawaii.gov/san/contact-us/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "The person in charge of a Hawaii food establishment must complete a food safety course that is part of a Department of Health food safety program or another program the department approves. The department may waive this for operations it considers minimal risk.", "src": [0]},
+        {"text": "Homemade food operators must also obtain this food safety certification as a condition of their exemption.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Hawaii Department of Health", "title": "Hawaii Administrative Rules, Title 11, Chapter 50, Food Safety Code (2025)", "url": "https://health.hawaii.gov/san/files/2025/09/HAR-11-50-2025-searchable.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2025-08-24", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Corporations, partnerships, LLCs and trade names are registered with the Department of Commerce and Consumer Affairs' Business Registration Division, online through Hawaii Business Express or with paper forms.", "src": [0]},
+        {"text": "Hawaii has no sales tax. It has a general excise tax (GET) on business activities, at 4% for most activities including retail sales, plus a county surcharge in counties that have adopted one.", "src": [1]},
+        {"text": "The Department of Taxation issues GET licenses for a one-time $20 registration fee, through Hawaii Tax Online or Form BB-1.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Hawaii Department of Commerce and Consumer Affairs, Business Registration Division", "title": "Registration", "url": "https://cca.hawaii.gov/breg/registration/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-09-21", "read": "fetched"},
+        {"agency": "Hawaii Department of Taxation", "title": "General Excise Tax (GET) Information: Frequently Asked Questions", "url": "https://tax.hawaii.gov/get/FAQ/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-01-14", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food establishment permits in Hawaii come from the state Department of Health's Food Safety Branch, which lists its statewide office in Aiea on Oahu and offices in Hilo and Kona (Hawaii Island), Wailuku (Maui) and Lihue (Kauai).",
+    "source": {"agency": "Hawaii Department of Health, Food Safety Branch", "title": "Contact Us", "url": "https://health.hawaii.gov/san/contact-us/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

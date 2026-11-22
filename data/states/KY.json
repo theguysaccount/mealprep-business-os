@@ -1,0 +1,321 @@
+{
+  "state": "Kentucky",
+  "abbr": "KY",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Kentucky's home-based processor law covers only foods that are not potentially hazardous, such as breads, cakes, jams and candy, so perishable prepared meals fall outside it. Food businesses outside that law get a retail food permit from their local health department.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Kentucky law defines a home-based processor as a person who makes nonpotentially hazardous foods at home, such as dried herbs, nuts, candy, jams, jellies, bread, fruit pies, cakes or cookies, with gross income of no more than $60,000 a year from those sales.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The state regulation defines potentially hazardous food as food that needs temperature control for safety, including raw or heat-treated animal foods and heat-treated plant foods. It bars home-based processors from making cream-filled pies, custard, cheesecake, meringue pastries, garlic-in-oil products and pureed baby foods.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The Department for Public Health's summary says a Kentucky resident may produce only the items on its list in a home kitchen as a home-based processor. Cooked meals are not on that list.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "A 2026 bill, House Bill 756, proposed exempting small farms and home-based processors from state and local food rules not required by federal law. The legislature's record shows its last action as referral to the House Agriculture Committee on March 4, 2026.",
+          "src": [
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Kentucky General Assembly",
+          "title": "KRS 217.015 Definitions for KRS 217.005 to 217.215",
+          "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57381",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-07-15",
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky General Assembly (Cabinet for Health and Family Services regulation)",
+          "title": "902 KAR 45:090. Home-based processors and farmers market home-based microprocessors",
+          "url": "https://apps.legislature.ky.gov/law/kar/titles/902/045/090/",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2019-09-09",
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky Department for Public Health, Food Safety Branch",
+          "title": "Summary of Updates to Home-Based Processing",
+          "url": "https://chfs.ky.gov/agencies/dph/dphps/fsb/FSDocs/hbpupdates.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2021-03",
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky General Assembly",
+          "title": "26RS HB 756: An Act relating to small farms and home-based processors",
+          "url": "https://apps.legislature.ky.gov/record/26RS/hb756.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-03-04",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Home-based processors register with the Department for Public Health's Food Safety Branch using form DFS-250 and a $50 fee. Registration expires March 31 each year and is renewed with another $50 fee.",
+          "src": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "Allowed items include dried herbs, spices, nuts, candy made without alcohol, granola, trail mix, whole and dried fruits and vegetables, jams and jellies, sorghum and maple syrup, fruit butter, bread, fruit and pecan pies, cakes, cookies and popcorn.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Orders and payments may be taken in person, online or by phone, but products go directly to consumers in Kentucky: from the home by pick-up or delivery, at a market, roadside stand or community event. The state's summary says shipping is not permitted.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Labels must show the operation's name and address, the product name, ingredients by weight, net weight or volume, the processing date and the statement \"This product is home-produced and processed\" in 10-point type. The state also requires allergen information.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Home-based processors may not make acid foods, acidified foods or low-acid canned foods. Kentucky farmers who complete approved training can be certified as home-based microprocessors, who sell such products at farmers markets, certified roadside stands or on their farm.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "A home-based processor doing business in Kentucky must be a state resident. The regulation says inspections of a home-based processor's kitchen are made upon complaint.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Kentucky Department for Public Health, Food Safety Branch",
+          "title": "Summary of Updates to Home-Based Processing",
+          "url": "https://chfs.ky.gov/agencies/dph/dphps/fsb/FSDocs/hbpupdates.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2021-03",
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky General Assembly",
+          "title": "KRS 217.136 Home-based processors of food and cosmetic products",
+          "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57382",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-07-15",
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky General Assembly (Cabinet for Health and Family Services regulation)",
+          "title": "902 KAR 45:090. Home-based processors and farmers market home-based microprocessors",
+          "url": "https://apps.legislature.ky.gov/law/kar/titles/902/045/090/",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2019-09-09",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Local health departments issue permits to retail food operations such as restaurants, grocery stores, concessions, food trucks, micro markets and temporary vendors. The state Department for Public Health sets statewide policy and supports the local programs.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "For a new or converted space, the state guide asks owners to submit a scaled drawing of the kitchen layout, equipment, water, waste and plumbing to the local health department, where a food safety specialist and plumbing inspector review it before construction.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The owner then applies and pays fees for a permit to operate, gives the health department a menu and explains cooking, holding and cooling steps, and passes an opening inspection. The permit is renewed annually.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Kentucky's food code applies the 2013 FDA Food Code, with Kentucky changes, to food service establishments and retail food stores.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "The state says a retail food establishment that uses a special process with a high risk of foodborne illness needs a HACCP plan and an approved Kentucky Request for Variance before it starts.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Kentucky Cabinet for Health and Family Services, Food Safety Branch",
+          "title": "Retail Food",
+          "url": "https://www.chfs.ky.gov/agencies/dph/dphps/fsb/Pages/retailfoodprogram.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky Department for Public Health, Food Safety Branch",
+          "title": "Opening a Grocery Store or Restaurant",
+          "url": "https://www.chfs.ky.gov/agencies/dph/dphps/fsb/FSDocs/openagroceryorrestaurant.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky General Assembly (Cabinet for Health and Family Services regulation)",
+          "title": "902 KAR 45:005. Kentucky food code",
+          "url": "https://apps.legislature.ky.gov/law/kar/titles/902/045/005/",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2019-02-21",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "The Department for Public Health announced in 2019 that the updated food code requires food businesses to employ at least one certified food protection manager, a person with supervisory responsibility who holds food protection manager certification.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Kentucky's food code describes a certified food protection manager as someone who passed a test that is part of an accredited program or a local health department class covering the Food Code's food safety topics.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Kentucky Cabinet for Health and Family Services",
+          "title": "Food Safety Regulations Amended to Improve Safety and Health (news release)",
+          "url": "https://chfs.ky.gov/News/Documents/nrfoodguidelines.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2019-05-30",
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky General Assembly (Cabinet for Health and Family Services regulation)",
+          "title": "902 KAR 45:005. Kentucky food code",
+          "url": "https://apps.legislature.ky.gov/law/kar/titles/902/045/005/",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2019-02-21",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Business entities are formed through the Kentucky Secretary of State, mostly online. A business using a name other than its exact legal name files a certificate of assumed name, and entities file an annual report by June 30 each year after the year they form.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Secretary of State's next steps list getting a federal EIN, setting up state tax accounts with the Department of Revenue and checking local occupational license fees for the county and city.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Kentucky's sales and use tax is 6 percent of gross receipts, and the Department of Revenue says there are no local sales and use taxes in Kentucky.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The state's sales tax exemption for food does not cover prepared food, defined to include food sold heated, two or more ingredients combined by the retailer for sale as a single item, or food sold with utensils. Bakery items sold without utensils are excluded from that definition.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Kentucky Secretary of State",
+          "title": "Business Filings Information",
+          "url": "https://www.sos.ky.gov/bus/business-filings",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky Department of Revenue",
+          "title": "Sales & Use Tax",
+          "url": "https://revenue.ky.gov/Business/Sales-Use-Tax",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Kentucky General Assembly",
+          "title": "KRS 139.485 Exemption of food items -- Definitions",
+          "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=28898",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2007-07-01",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Cabinet for Health and Family Services keeps a list of links to Kentucky's county and district health departments, which run the retail food program locally.",
+    "source": {
+      "agency": "Kentucky Cabinet for Health and Family Services",
+      "title": "Local Health Departments",
+      "url": "https://www.chfs.ky.gov/agencies/dph/dafm/pages/lhd.aspx",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "state": "Maine",
+  "abbr": "ME",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Maine's home food license covers only shelf-stable foods. The Maine Food Sovereignty Act lets towns, plantations and counties adopt local food ordinances, and the state then does not enforce its food laws for direct producer-to-consumer sales the ordinance governs, which the law says can include meals. Meat and poultry inspection rules still apply.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Under the Maine Food Sovereignty Act, a municipality or plantation, or a county for its unorganized territories, may adopt ordinances on direct producer-to-consumer food sales. The state then does not enforce its food laws or rules for the transactions the ordinance governs.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The act's definition of food includes baked goods, sandwiches and other meals. A direct sale is one between the producer and a consumer at the producer's premises, roadside stands, farmers' markets, fundraisers or community events, or through buying clubs, deliveries and other private arrangements.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Even where an ordinance exists, the state still enforces its meat and poultry inspection, registration and licensing program without exception, and food made for anything other than direct sales must meet all state and federal food safety laws.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Without a local ordinance, the state's home food license covers only shelf-stable foods. The agriculture department says products that must be refrigerated or frozen are not allowed under it and need a commercial food processing license.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "A 2022 Health Inspection Program policy says the department will not license caterers working in a home kitchen unless there is a separate, dedicated kitchen that meets the Maine Food Code.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maine Legislature, Office of the Revisor of Statutes",
+          "title": "Title 7, Chapter 8-F: Maine Food Sovereignty Act",
+          "url": "https://legislature.maine.gov/statutes/7/title7ch8-F.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maine Department of Agriculture, Conservation and Forestry, Quality Assurance and Regulations",
+          "title": "Home Food License 101",
+          "url": "https://www.maine.gov/DACF/qar/permits_and_licenses/documents/home-license-101.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Maine Department of Health and Human Services, Maine CDC Health Inspection Program",
+          "title": "Home Catering-Kitchen Policy",
+          "url": "https://www.maine.gov/dhhs/mecdc/environmental-health/el/site-files/Home%20Catering-Kitchen%20Policy.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022-03-02",
+          "read": "search"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Home food processors are licensed by the Department of Agriculture, Conservation and Forestry. The Home Food License is for shelf-stable, non-potentially hazardous foods and costs $20 a year, according to the department's guide.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "An initial inspection of the home kitchen is required before the license is issued; the department says annual inspections are not required. A thermometer must keep the refrigerator at 41 degrees or less.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Canned shelf-stable products such as pickles, relishes and barbecue sauces must be reviewed by the University of Maine Food Testing Services or another acidified food process authority.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Maine's food law says a food establishment, meaning a place where food is manufactured, processed, packed, held or sold, may not operate unless licensed by the Commissioner of Agriculture, Conservation and Forestry. Eating establishments are not covered by that license.",
+          "src": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maine Department of Agriculture, Conservation and Forestry, Quality Assurance and Regulations",
+          "title": "Home Food License 101",
+          "url": "https://www.maine.gov/DACF/qar/permits_and_licenses/documents/home-license-101.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Maine Legislature, Office of the Revisor of Statutes",
+          "title": "Title 22, §2152: Definitions",
+          "url": "https://legislature.maine.gov/statutes/22/title22sec2152.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2023",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maine Legislature, Office of the Revisor of Statutes",
+          "title": "Title 22, §2167: License required",
+          "url": "https://legislature.maine.gov/statutes/22/title22sec2167.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Maine law defines an eating establishment as any place where food is prepared and served to the public to eat on site or served ready to eat for consumption off the premises. It includes catering kitchens and commissaries that prepare food for sale elsewhere.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "No one may operate an eating establishment for compensation without a license from the Department of Health and Human Services, and the license must be displayed where customers can see it.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The Health Inspection Program's rule asks new eating establishments to send a menu, business plan and kitchen plan with the application at least 30 days before opening. A pre-operational inspection takes place before the license is issued.",
+          "src": [
+            2,
+            3
+          ]
+        },
+        {
+          "text": "Municipalities that the department has delegated can inspect eating establishments with their own certified inspectors, and the department may issue the state license based on those inspections.",
+          "src": [
+            4
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maine Legislature, Office of the Revisor of Statutes",
+          "title": "Title 22, §2491: Definitions",
+          "url": "https://legislature.maine.gov/statutes/22/title22sec2491.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2023",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maine Legislature, Office of the Revisor of Statutes",
+          "title": "Title 22, §2492: License required",
+          "url": "https://legislature.maine.gov/statutes/22/title22sec2492.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2021",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maine Department of Health and Human Services, Maine CDC Health Inspection Program",
+          "title": "Health Inspection Program Administration Rule, Chapter 201 (effective June 3, 2024)",
+          "url": "https://www.maine.gov/dhhs/mecdc/environmental-health/el/site-files/rules/HIP%20Admin%20Rule%20Ch%20201%20-%20Eff%20June%203%202024.pdf",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2024-06-03",
+          "read": "search"
+        },
+        {
+          "agency": "Maine Department of Health and Human Services, Maine CDC Health Inspection Program",
+          "title": "Business Answers: Restaurants",
+          "url": "https://www.maine.gov/dhhs/mecdc/environmental-health/el/business/business-answers-restaurants.htm",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Maine Legislature, Office of the Revisor of Statutes",
+          "title": "Title 22, §2499: Municipal inspections",
+          "url": "https://legislature.maine.gov/statutes/22/title22sec2499.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2021",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Maine CDC guidance says every eating establishment must employ a Certified Food Protection Manager, and a manager certificate must accompany the license application for a new establishment or a change of ownership.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Health Inspection Program's administration rule requires at least one employee with supervisory and management responsibility to be designated as the certified food protection manager, with exemptions listed in the rule.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maine Department of Health and Human Services, Maine CDC Health Inspection Program",
+          "title": "Certified Food Protection Manager (CFPM) Handout",
+          "url": "https://www.maine.gov/dhhs/mecdc/environmental-health/el/site-files/forms/CFPM%20Handout.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Maine Department of Health and Human Services, Maine CDC Health Inspection Program",
+          "title": "Health Inspection Program Administration Rule, Chapter 201 (effective June 3, 2024)",
+          "url": "https://www.maine.gov/dhhs/mecdc/environmental-health/el/site-files/rules/HIP%20Admin%20Rule%20Ch%20201%20-%20Eff%20June%203%202024.pdf",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2024-06-03",
+          "read": "search"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Limited liability companies are formed by filing a Certificate of Formation, form MLLC-6, with the Secretary of State's Division of Corporations, UCC and Commissions, which lists its LLC forms and fees online.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Maine's sales tax is 5.5 percent on most goods, but 8 percent on prepared food for sales on or after October 1, 2019.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "State law defines prepared food to include meals served on or off the retailer's premises and food the retailer prepares that is ready to eat without further preparation.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maine Secretary of State, Division of Corporations, UCC and Commissions",
+          "title": "Limited Liability Company Forms",
+          "url": "https://www.maine.gov/sos/corporations-commissions/i-need-a-business-form/limited-liability-company-forms",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Maine Legislature, Office of the Revisor of Statutes",
+          "title": "Title 36, §1811: Sales tax",
+          "url": "https://legislature.maine.gov/statutes/36/title36sec1811.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maine Legislature, Office of the Revisor of Statutes",
+          "title": "Title 36, §1752: Definitions",
+          "url": "https://legislature.maine.gov/statutes/36/title36sec1752.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Maine CDC Health Inspection Program licenses eating establishments statewide. Its health inspections page lists program contacts, including municipal inspectors for Portland, Lewiston and South Portland.",
+    "source": {
+      "agency": "Maine Department of Health and Human Services, Maine CDC",
+      "title": "Health Inspections",
+      "url": "https://www.maine.gov/dhhs/mecdc/services/business-services/health-inspections",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "search"
+    }
+  }
+}

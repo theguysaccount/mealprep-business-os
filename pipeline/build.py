@@ -161,7 +161,7 @@ def state_select(states, placeholder="Choose your state"):
 def page_home(states):
     counts = {k: sum(1 for s in states if s["answer"] == k) for k in ANSWER}
     body = f"""<section class="hero">
-<h1>Start a meal prep business the legal way</h1>
+<h1>Selling meal prep? Know your state's rules.</h1>
 <p class="lead">See which permits your state requires to sell prepared meals, with the agency and date behind every rule. Then make a free order page with your menu, weekly cutoff and delivery ZIP codes. Customers order by text. No signup.</p>
 <div class="ctas"><a class="button" href="{url('permits/')}">Permits by state</a><a class="button quiet" href="{url('build/')}" data-track="cta_build">Make a free order page</a></div>
 <p>{state_select(states)}</p>

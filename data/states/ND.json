@@ -1,0 +1,79 @@
+{
+  "state": "North Dakota",
+  "abbr": "ND",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "North Dakota's Cottage Food Act lets people sell homemade foods, including ones that need refrigeration, directly to informed consumers for home use without a license or inspection. Products that need refrigeration must be labeled with safe handling instructions and as transported and kept frozen, and uninspected meat products are excluded, with a narrow poultry exception.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "North Dakota's Cottage Food Act says state agencies and local governments may not require a license, permit, inspection, packaging or labeling for cottage food sold directly by the cook to an informed end consumer for home consumption.", "src": [0]},
+        {"text": "Cottage food products include baked goods, jams, jellies and other food and drink products. Products that need refrigeration must carry safe handling instructions and a statement that the product was transported and maintained frozen.", "src": [0]},
+        {"text": "Sales may not include uninspected products made from meat. Uninspected poultry products are allowed only from a cook who raises and slaughters no more than 1,000 birds a year, and not in interstate sales.", "src": [0]},
+        {"text": "The state health department says buyers must be told the food was made in a home kitchen and was not inspected by a health department, and the food must be meant for home use.", "src": [1]},
+        {"text": "Senate Bill 2386, signed in March 2025, removed earlier bans on interstate, internet, phone, mail and consignment cottage food transactions, leaving an interstate ban only for poultry products.", "src": [2, 3]}
+      ],
+      "sources": [
+        {"agency": "North Dakota Legislative Branch", "title": "North Dakota Century Code chapter 23-09.5, Cottage Food Production and Sales", "url": "https://ndlegis.gov/cencode/t23c09-5.pdf", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Dakota Department of Health and Human Services, Food and Lodging", "title": "Cottage Food", "url": "https://www.hhs.nd.gov/health/food-and-lodging/cottage-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Dakota Legislative Branch", "title": "SB 2386 - Overview, 2025 Regular Session", "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2386.html", "kind": "statute", "checked": "2026-11-22", "updated": "2025-03-21", "read": "fetched"},
+        {"agency": "North Dakota Legislative Branch", "title": "Engrossed Senate Bill No. 2386 (25.1349.02000), relating to cottage food transactions", "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1349-02000.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Sales may happen at a farm, ranch, farmers market, farm stand, home-based kitchen or any other venue not prohibited by law, or through delivery, but only directly between the cook and the informed end consumer.", "src": [0]},
+        {"text": "The cook must tell the buyer the food is not certified, labeled, licensed, packaged, regulated or inspected, and must post a sign or label saying the product was made in a home kitchen not inspected by the state or local health department.", "src": [0]},
+        {"text": "Except for whole, unprocessed fruits and vegetables, cottage food may not be sold or used in any food establishment, food processing plant or food store.", "src": [0]},
+        {"text": "The state or a local regulating authority may investigate illness or environmental health complaints, and state rules let inspectors enter the home's cottage food production area during such an investigation.", "src": [0, 1]},
+        {"text": "State rules bar a cottage food operator or household member with symptoms of a contagious disease from handling cottage food or working in the production area.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "North Dakota Legislative Branch", "title": "North Dakota Century Code chapter 23-09.5, Cottage Food Production and Sales", "url": "https://ndlegis.gov/cencode/t23c09-5.pdf", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Dakota Legislative Branch (Department of Health and Human Services rule)", "title": "North Dakota Administrative Code chapter 33-33-10, Preparation of Cottage Food Products for Sale", "url": "https://ndlegis.gov/api/acdata/pdf/33-33-10.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2021-10-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Before building, remodeling or operating a food business, a license application and plans go to the state's Food and Lodging unit at least 30 days ahead. Review can take up to 30 days after payment, followed by a pre-operational inspection and license.", "src": [0]},
+        {"text": "The department sorts businesses into food processing, food establishment and retail food store license types, and in some areas a local agency licenses the business instead of the state.", "src": [0]},
+        {"text": "Eight local health units license and inspect food establishments in their own areas under agreements with the state, which waive certain state license requirements there.", "src": [1]},
+        {"text": "North Dakota's food code adopts the 2017 FDA Food Code with state changes, most recently amended effective January 1, 2024.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "North Dakota Department of Health and Human Services, Food and Lodging", "title": "Start A Food Business", "url": "https://www.hhs.nd.gov/health/food-and-lodging/food-and-beverage-establishments/start-food-business", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Dakota Department of Health and Human Services, Food and Lodging", "title": "Areas of Licensing Jurisdiction", "url": "https://www.hhs.nd.gov/health/food-and-lodging/areas-jurisdiction", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Dakota Legislative Branch (Department of Health and Human Services rule)", "title": "North Dakota Administrative Code chapter 33-33-04.1, Food Code", "url": "https://ndlegis.gov/api/acdata/pdf/33-33-04.1.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2024-01-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "The state health department says food handler training is recommended for all food workers but is not required by the North Dakota Food Code, though some areas of the state may require it.", "src": [0]},
+        {"text": "A certified food protection manager is not required by the state food code, which excludes the FDA code's manager certification section. The department recommends having one, and some local areas may require it.", "src": [0, 1]}
+      ],
+      "sources": [
+        {"agency": "North Dakota Department of Health and Human Services, Food and Lodging", "title": "Food Safety Training", "url": "https://www.hhs.nd.gov/health/food-and-lodging/food-safety-training", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Dakota Legislative Branch (Department of Health and Human Services rule)", "title": "North Dakota Administrative Code chapter 33-33-04.1, Food Code", "url": "https://ndlegis.gov/api/acdata/pdf/33-33-04.1.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2024-01-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Businesses register with the Secretary of State through its FirstStop portal. Corporations, LLCs and most partnerships need a North Dakota registered agent, and a trade name registration costs $25 and must be renewed every five years.", "src": [0]},
+        {"text": "North Dakota exempts food from sales tax, but the exemption does not cover prepared food: food sold heated or heated by the seller, two or more ingredients combined by the seller, or food sold with eating utensils.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "North Dakota Secretary of State", "title": "Register a Business", "url": "https://www.sos.nd.gov/business/business-services/register-business", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "North Dakota Office of State Tax Commissioner", "title": "Sales Tax: Exemptions Guideline", "url": "https://www.tax.nd.gov/sites/www/files/documents/guidelines/business/sales-use/guideline-exemptions.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2025-08", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "The state's Food and Lodging unit licenses and inspects food businesses, except where eight local health units do so under agreements with the state: Bismarck Burleigh, Central Valley, Fargo Cass, First District, Grand Forks, Southwestern, Upper Missouri and Western Plains.",
+    "source": {"agency": "North Dakota Department of Health and Human Services, Food and Lodging", "title": "Areas of Licensing Jurisdiction", "url": "https://www.hhs.nd.gov/health/food-and-lodging/areas-jurisdiction", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "state": "Washington",
+  "abbr": "WA",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Washington's cottage food law covers only foods that don't need temperature control for safety. Selling perishable meals means operating a food establishment, which needs a permit from the local health jurisdiction.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Washington's cottage food law covers only nonpotentially hazardous foods, such as certain baked goods, candies, jams and jellies; foods that need temperature control for safety are not cottage food products.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "The state food code's list of operations that are not food establishments includes a residential kitchen only in narrow cases, such as non-TCS baked goods prepared for sale by a religious, charitable or educational nonprofit.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Washington State Legislature",
+          "title": "Chapter 69.22 RCW, Cottage food operations",
+          "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=69.22&full=true",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Washington State Department of Agriculture",
+          "title": "Cottage Food",
+          "url": "https://agr.wa.gov/departments/food-safety/food-safety/cottage-food",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Washington State Board of Health",
+          "title": "WAC 246-215-01115, Definitions, abbreviations, and acronyms",
+          "url": "https://app.leg.wa.gov/WAC/default.aspx?cite=246-215-01115",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2021-01-15",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Cottage food operations need a permit from the Washington State Department of Agriculture, valid for two years. WSDA lists a $355 nonrefundable application fee, and the kitchen is inspected before the first permit and each year after.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Everyone involved in preparing cottage foods must hold a food worker card, and WSDA says operators also need a business license.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Cottage foods may be sold only directly to the consumer. The law says they may not be sold by internet, mail order, or for retail sale outside the state, and WSDA says they cannot be shipped or wholesaled.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Annual gross sales of cottage food products may not exceed $35,000, and the department reviews the cap every four years for inflation.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Labels must include the business name and permit number, product name, ingredients, net weight or volume, allergens and a statement that the food was made in a home kitchen not subject to standard inspection.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Washington State Legislature",
+          "title": "Chapter 69.22 RCW, Cottage food operations",
+          "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=69.22&full=true",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Washington State Department of Agriculture",
+          "title": "Cottage Food",
+          "url": "https://agr.wa.gov/departments/food-safety/food-safety/cottage-food",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Washington's food code says a person may not operate a food establishment without a valid permit from the regulatory authority, and names the local board of health, acting through the local health officer, as that authority.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "A permit application must be submitted at least 30 calendar days before a food establishment plans to open.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Washington State Board of Health",
+          "title": "WAC 246-215-08300, Permit requirement, prerequisite for operation",
+          "url": "https://app.leg.wa.gov/WAC/default.aspx?cite=246-215-08300",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2022-03-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Washington State Board of Health",
+          "title": "WAC 246-215-01115, Definitions, abbreviations, and acronyms",
+          "url": "https://app.leg.wa.gov/WAC/default.aspx?cite=246-215-01115",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2021-01-15",
+          "read": "fetched"
+        },
+        {
+          "agency": "Washington State Board of Health",
+          "title": "WAC 246-215-08310, Application procedure, submission thirty calendar days before proposed opening",
+          "url": "https://app.leg.wa.gov/WAC/default.aspx?cite=246-215-08310",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2022-03-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Most food establishments must have at least one employee with a certified food protection manager certificate (WAC 246-215-02107); the manager does not need to be on the premises at all times.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "All food workers need a Washington food worker card; they may work up to 14 days before getting it if the employer provides food safety training. The card costs $10, and the first card is valid for two years.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Washington State Department of Health",
+          "title": "Food Safety Rules and Regulations",
+          "url": "https://doh.wa.gov/community-and-environment/food/food-worker-and-industry/food-safety-rules",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Washington State Department of Health",
+          "title": "Food Worker Card",
+          "url": "https://doh.wa.gov/community-and-environment/food/food-worker-and-industry/food-worker-card",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Washington corporations, LLCs and limited liability partnerships register with the Secretary of State before filing a business license application with the Department of Revenue.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "The Department of Revenue requires a business license in situations such as selling products that require collecting sales tax, earning $12,000 or more a year, or doing business under a name other than the owner's full legal name.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Prepared food is excluded from Washington's sales tax exemption for food; it generally means heated foods, combined foods, or foods sold with utensils provided by the seller.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Washington Secretary of State",
+          "title": "Corporations & Charities",
+          "url": "https://www.sos.wa.gov/corporations-charities",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Washington Department of Revenue",
+          "title": "Apply for a business license",
+          "url": "https://dor.wa.gov/open-business/apply-business-license",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Washington Department of Revenue",
+          "title": "WAC 458-20-244, Food and food ingredients",
+          "url": "https://app.leg.wa.gov/WAC/default.aspx?cite=458-20-244",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2024-02-16",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food establishment permits in Washington are issued by local health jurisdictions. The Department of Health lists food safety contacts for each local health department.",
+    "source": {
+      "agency": "Washington State Department of Health",
+      "title": "Local Health Department Food Safety Contacts",
+      "url": "https://doh.wa.gov/community-and-environment/food/local-food-safety-contacts",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

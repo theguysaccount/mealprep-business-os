@@ -1,0 +1,258 @@
+{
+  "state": "Mississippi",
+  "abbr": "MS",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Mississippi's cottage food law covers only foods that do not need time or temperature control, and the state health department says any product needing refrigeration is not allowed. It also says catering cannot be done from a home kitchen, so perishable prepared meals require a permitted food facility.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "The Mississippi State Department of Health says cottage foods must be non-potentially hazardous foods that need no time or temperature control, and that a product needing refrigeration, even after opening, is not allowed under the law.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Foods not allowed include meat, fish, poultry, dairy products, eggs, cooked vegetables, cooked potatoes, rice, beans and pre-cooked foods other than the listed baked goods.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The department says a home kitchen cannot be used for catering and that caterers need a retail permit. A separate room in the home with an outside entrance may be usable for a catering operation, subject to the retail Food Code and city ordinances.",
+          "src": [
+            0,
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Mississippi State Department of Health, Food Protection",
+          "title": "Cottage Foods",
+          "url": "https://msdh.ms.gov/safe-food-water-and-housing/food-safety/food-facilities/cottage-foods",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-11-16",
+          "read": "fetched"
+        },
+        {
+          "agency": "Mississippi State Department of Health, Food Protection",
+          "title": "Food Facility Regulations",
+          "url": "https://msdh.ms.gov/safe-food-water-and-housing/food-safety/food-facilities/food-facility-regulations",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-08-10",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Approved cottage foods include breads, cookies and pastries without cream, custard or meat fillings, candy, fruit pies, dried fruit and pasta, spices, dry baking mixes, granola, popcorn, vinegar and mustard, standard jams and jellies, and acidified foods meeting federal rules.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The department says a cottage food operation is limited to $35,000 in gross annual sales.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Sales go directly to the consumer from the home, at farmers' markets, fairs or similar settings, with the producer present, and only in Mississippi. The internet and social media may be used for advertising only; online sales, shipping, wholesale and consignment are prohibited.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Labels must list the operation's name and home address, product name, ingredients, net weight or volume and allergens, plus \"Made in a Cottage Food operation that is not subject to Mississippi's food safety regulations\" in at least 10-point type.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Products must be made in the home kitchen, not an outbuilding or rented kitchen. Commercial equipment is not required, and the department inspects only after a complaint. Cities or counties may require a business license.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Several 2026 bills to raise or remove the sales cap and allow online sales, including House Bill 910 and Senate Bill 2398, died in committee, according to the legislature's bill status records.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Mississippi State Department of Health, Food Protection",
+          "title": "Cottage Foods",
+          "url": "https://msdh.ms.gov/safe-food-water-and-housing/food-safety/food-facilities/cottage-foods",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-11-16",
+          "read": "fetched"
+        },
+        {
+          "agency": "Mississippi Legislature",
+          "title": "2026 Regular Session: bills affecting Code Section 75-29-951",
+          "url": "https://billstatus.ls.state.ms.us/2026/pdf/code_sections/075/00290951.xml",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-06-22",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Retail food rules apply to food sold directly to the public, including by caterers, and the Mississippi State Department of Health issues the food permit. A business must have the permit before it begins operating.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A plan review is required for a new facility, new owner or new location, or for changes that significantly alter the food preparation area, and the facility may not operate until plans are approved.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The permit application goes with a floor plan, menu and a copy of the food manager's certificate, and when applicable a HACCP plan for risk category 3 or 4 facilities. The department lists a $224.25 plan review fee and annual permit fees from $40 to $264.50 by risk level.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Mississippi applies the 2022 FDA Food Code, with additional state regulations.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Mississippi State Department of Health, Food Protection",
+          "title": "Retail Foods",
+          "url": "https://msdh.ms.gov/safe-food-water-and-housing/food-safety/food-facilities/retail-foods",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-04-22",
+          "read": "fetched"
+        },
+        {
+          "agency": "Mississippi State Department of Health, Food Protection",
+          "title": "Food Permits",
+          "url": "https://msdh.ms.gov/safe-food-water-and-housing/food-safety/food-permits",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-09-03",
+          "read": "fetched"
+        },
+        {
+          "agency": "Mississippi State Department of Health, Food Protection",
+          "title": "Food Facility Regulations",
+          "url": "https://msdh.ms.gov/safe-food-water-and-housing/food-safety/food-facilities/food-facility-regulations",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-08-10",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "The Department of Health says a certified food manager is required in all food facilities, and it points to ANSI-accredited food protection manager certification courses.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The department says training and certification are highly encouraged, but not required, for cottage food operators, especially for acidified canned foods.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Mississippi State Department of Health, Food Protection",
+          "title": "Retail Foods",
+          "url": "https://msdh.ms.gov/safe-food-water-and-housing/food-safety/food-facilities/retail-foods",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-04-22",
+          "read": "fetched"
+        },
+        {
+          "agency": "Mississippi State Department of Health, Food Protection",
+          "title": "Cottage Foods",
+          "url": "https://msdh.ms.gov/safe-food-water-and-housing/food-safety/food-facilities/cottage-foods",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-11-16",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "The Department of Revenue says all in-state businesses with retail sales in Mississippi must register for a sales tax permit and number, which can be done online through its TAP system.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Mississippi's sales tax is 7 percent of gross proceeds of retail sales. Groceries, defined as food and drink eligible to be bought with SNAP benefits, are taxed at 5 percent.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Mississippi Department of Revenue",
+          "title": "Registration Information for Sales and Use Tax Applicants",
+          "url": "https://www.dor.ms.gov/business/sales-use-tax/registration-information-sales-and-use-tax-applicants",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Mississippi Department of Revenue",
+          "title": "Sales Tax Rates",
+          "url": "https://www.dor.ms.gov/business/sales-use-tax/sales-tax-rates",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food permits in Mississippi come from the state Department of Health, which has county health departments across the state. The department's County Health Department Locator lists each county office.",
+    "source": {
+      "agency": "Mississippi State Department of Health",
+      "title": "County Health Department Locator",
+      "url": "https://msdh.ms.gov/resources/facility-locator/county-health-department-locator",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": "2026-03-12",
+      "read": "fetched"
+    }
+  }
+}

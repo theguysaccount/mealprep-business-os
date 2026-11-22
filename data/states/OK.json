@@ -1,0 +1,75 @@
+{
+  "state": "Oklahoma",
+  "abbr": "OK",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Oklahoma's Local Food Freedom Act, renamed and expanded on November 1, 2026, exempts producers of foods that need time or temperature control from licensing if they sell and deliver directly to consumers and complete food safety training. Products may not contain meat, poultry or seafood, and annual sales must stay under $250,000.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "House Bill 3720, approved by the Governor on May 5, 2026 and effective November 1, 2026, renamed the Homemade Food Freedom Act the Local Food Freedom Act and raised the annual gross sales limit from $75,000 to $250,000.", "src": [0, 1, 2]},
+        {"text": "Producers who meet the act's conditions are exempt from State Department of Health and agriculture department licensing. A covered business may operate at a residence or another location, but it cannot be a restaurant and must follow local zoning and building codes.", "src": [0, 3]},
+        {"text": "Foods that need time or temperature control for safety may be sold only by the producer directly to the consumer, in person or by internet or phone, and must be delivered by the producer directly. Third-party sales and delivery are not allowed.", "src": [0, 3]},
+        {"text": "Products made under the act may not contain meat, poultry, seafood or their by-products, so meals containing them fall outside it.", "src": [0, 3]},
+        {"text": "Anyone producing time- or temperature-controlled foods must first complete approved food safety training that is available online and takes no more than eight hours. The agriculture department's list includes ServSafe food handler and food manager courses.", "src": [0, 3]}
+      ],
+      "sources": [
+        {"agency": "Oklahoma Legislature", "title": "Enrolled House Bill No. 3720 (Local Food Freedom Act)", "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB3720%20ENR.PDF", "kind": "statute", "checked": "2026-11-22", "updated": "2026-11-01", "read": "fetched"},
+        {"agency": "Oklahoma Legislature", "title": "Bill Information for HB 3720, 2026 Regular Session", "url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=HB3720&Session=2600", "kind": "statute", "checked": "2026-11-22", "updated": "2026-05-05", "read": "fetched"},
+        {"agency": "Oklahoma House of Representatives, House Research and Fiscal Staff", "title": "Bill Summary, HB 3720, Senate Amendment to House Bill", "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20SUPPORT%20DOCUMENTS/BILLSUM/House/HB3720%20SAHB%20BILLSUM.PDF", "kind": "statute", "checked": "2026-11-22", "updated": "2026-04-30", "read": "fetched"},
+        {"agency": "Oklahoma Department of Agriculture, Food, and Forestry, Food Safety Division", "title": "Food Safety (Local Food Freedom Act section)", "url": "https://ag.ok.gov/divisions/food-safety/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Foods that do not need time or temperature control, such as those with a pH of 4.6 or less or water activity of 0.85 or less, may be sold directly or through third parties such as retail stores, farmers markets, buying clubs and craft or flea markets.", "src": [0]},
+        {"text": "Labels, or a placard and card for unpackaged food, must show the producer's name and phone number, where the food was made, a description, ingredients, major allergens and a statement that the product is exempt from government licensing and inspection, in at least 10-point type.", "src": [0, 1]},
+        {"text": "Producers may register with the agriculture department for $15 a year and print the registration number on labels instead of their name, phone number and address.", "src": [0, 1]},
+        {"text": "After a consumer complaint, the agriculture department may ask for proof of training, verify gross sales and check labeling and delivery, and it may fine violators up to $300.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Oklahoma Department of Agriculture, Food, and Forestry, Food Safety Division", "title": "Food Safety (Local Food Freedom Act section)", "url": "https://ag.ok.gov/divisions/food-safety/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Oklahoma Legislature", "title": "Enrolled House Bill No. 3720 (Local Food Freedom Act)", "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB3720%20ENR.PDF", "kind": "statute", "checked": "2026-11-22", "updated": "2026-11-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "The State Department of Health issues food establishment licenses. Applicants first ask their county health department whether a plan review is needed, submit plans and a $425 fee if so, then apply and pay through the state licensing portal and pass a pre-licensure inspection.", "src": [0]},
+        {"text": "The department's rules say food establishment operations may not be conducted in a private home or in rooms used as living or sleeping quarters, but a home kitchen operating under the state's homemade food law is not treated as a food establishment.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Oklahoma State Department of Health, Consumer Health Service", "title": "Food (licensure)", "url": "https://oklahoma.gov/health/services/licensing-inspections/consumer-health-service/licensure/food.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Oklahoma State Department of Health", "title": "Chapter 257 - Food Establishments (OAC 310:257)", "url": "https://oklahoma.gov/content/dam/ok/en/health/health2/aem-documents/protective-health/consumer-health-services/food-service/food-admin-rules/CHAPTER%20257-Food%20Establishments.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2024-09-30", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Oklahoma's food establishment rules say at least one person 'may' be a certified food protection manager. During inspections, the person in charge shows food safety knowledge by having no priority violations, being a certified manager, or answering the inspector's questions correctly.", "src": [0]},
+        {"text": "Under the Local Food Freedom Act, anyone producing time- or temperature-controlled foods must first complete food safety training from a list approved by the agriculture department.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Oklahoma State Department of Health", "title": "Chapter 257 - Food Establishments (OAC 310:257)", "url": "https://oklahoma.gov/content/dam/ok/en/health/health2/aem-documents/protective-health/consumer-health-services/food-service/food-admin-rules/CHAPTER%20257-Food%20Establishments.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2024-09-30", "read": "fetched"},
+        {"agency": "Oklahoma Legislature", "title": "Enrolled House Bill No. 3720 (Local Food Freedom Act)", "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB3720%20ENR.PDF", "kind": "statute", "checked": "2026-11-22", "updated": "2026-11-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "The Secretary of State takes new business formations, amendments and trade name filings through its online business portal.", "src": [0]},
+        {"text": "Since August 29, 2024, food and food ingredients have a 0% state sales tax rate, but prepared food is taxed at the full 4.5% state rate plus local taxes. The Tax Commission says items prepared in a home are most often considered prepared food.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Oklahoma Secretary of State", "title": "Business Entity Filing", "url": "https://oklahoma.gov/sos/businesses/business-services/business-entity-filing.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Oklahoma Tax Commission", "title": "State Sales Tax on Food and Food Ingredients", "url": "https://oklahoma.gov/tax/businesses/state-sales-tax-on-food-and-food-ingredients.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Oklahoma has 80 county health departments and two independent city-county health departments, in Tulsa and Oklahoma counties, serving all 77 counties. The state health department's county map lets visitors pick a county to find its health department.",
+    "source": {"agency": "Oklahoma State Department of Health", "title": "County Map", "url": "https://oklahoma.gov/health/locations/countymap.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

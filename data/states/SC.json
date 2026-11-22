@@ -1,0 +1,76 @@
+{
+  "state": "South Carolina",
+  "abbr": "SC",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "South Carolina's Home-based Food Production Law covers only foods that do not need time or temperature control, and the state's guidance lists prepared meals, casseroles and meat among foods not allowed. The Department of Agriculture points people who want to sell meals to a retail food establishment permit, including shared-use kitchens.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "South Carolina's Home-based Food Production Law covers individuals who make nonpotentially hazardous foods in their own dwelling. The law counts raw or heat-treated animal foods and heat-treated plant foods as potentially hazardous.", "src": [0]},
+        {"text": "The Department of Agriculture's guidance lists prepared meals, casseroles, meat or meat-containing products, poultry and seafood among foods not allowed under the law.", "src": [1]},
+        {"text": "The department says a retail food establishment may be located at a home only if it uses a separate kitchen from the one the household uses and meets Regulation 61-25.", "src": [2]},
+        {"text": "For meals and other foods that need time or temperature control, the department points to Regulation 61-25's shared-use kitchen rules, which let a business get a permit and rent time and space in a permitted retail food establishment.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "South Carolina Legislature", "title": "South Carolina Code of Laws, Title 44 Chapter 1, Section 44-1-143 (home-based food production operations)", "url": "https://www.scstatehouse.gov/code/t44c001.php", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Carolina Department of Agriculture", "title": "South Carolina Home-based Food Production Law Guidance, Version 1.4", "url": "https://agriculture.sc.gov/wp-content/uploads/2026/01/SCHome-basedFoodProductionLawBook2025_digital.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2025-07", "read": "fetched"},
+        {"agency": "South Carolina Department of Agriculture", "title": "Are you interested in selling food out of your home?", "url": "https://agriculture.sc.gov/wp-content/uploads/2025/07/RF_SellingFoodFromHomeFAQ2025.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2025", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "The department says no license, permit or mandatory application is needed to produce food under the law. An identification number from the department is voluntary and can replace the home address on labels.", "src": [1, 0]},
+        {"text": "Home-based foods may be sold directly to consumers, including online and by mail order with delivery only in South Carolina, and to retail stores, including grocery stores, which must post a sign. Wholesale sales are not allowed.", "src": [1, 0]},
+        {"text": "Labels must comply with federal law and include the operation's name and address or ID number, product name, ingredients, and a statement that the food was processed and prepared by a home-based food production operation not subject to state food safety regulations.", "src": [0]},
+        {"text": "Home-based foods may not be served or used as an ingredient in a restaurant without a variance approved by the Department of Agriculture, though restaurants may sell them packaged and labeled.", "src": [1]},
+        {"text": "The law requires a clean home kitchen with an approved water supply, working refrigeration, separate ingredient storage and a separate handwashing sink, and it keeps pets out of the work area during production.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "South Carolina Legislature", "title": "South Carolina Code of Laws, Title 44 Chapter 1, Section 44-1-143 (home-based food production operations)", "url": "https://www.scstatehouse.gov/code/t44c001.php", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Carolina Department of Agriculture", "title": "South Carolina Home-based Food Production Law Guidance, Version 1.4", "url": "https://agriculture.sc.gov/wp-content/uploads/2026/01/SCHome-basedFoodProductionLawBook2025_digital.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2025-07", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Regulation 61-25 requires a permit for operations that prepare or serve food retail, direct to consumers, including restaurants, catering operations, shared-use operations and mobile food establishments. The permit must come from the Department of Agriculture before selling.", "src": [0]},
+        {"text": "Establishments using special processes such as reduced oxygen packaging, cook-chill or sous vide may need a special process variance, and those that will sell both retail and wholesale contact the department before applying.", "src": [0]},
+        {"text": "South Carolina's retail food safety inspection program moved to the Department of Agriculture from the former Department of Health and Environmental Control.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "South Carolina Department of Agriculture", "title": "Retail Food Safety", "url": "https://agriculture.sc.gov/permits-and-inspections/retail-food-safety/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Carolina Department of Agriculture", "title": "Retail Food Frequently Asked Questions", "url": "https://agriculture.sc.gov/permits-and-inspections/retail-food-safety/retail-food/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Regulation 61-25 requires at least one employee with supervisory responsibility and a frequent presence at the facility to be a certified food protection manager who passed a test from an accredited program.", "src": [0]},
+        {"text": "At all times during operation, the person in charge must be a certified food handler or a certified food protection manager. Establishments the department deems minimal risk are exempt.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "South Carolina Department of Agriculture", "title": "Regulation 61-25, Retail Food Establishments", "url": "https://agriculture.sc.gov/wp-content/uploads/2024/05/Regulation61-25_RetailFoodEstablishments_2024_digital.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2024", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "The Secretary of State handles filings for corporations, limited liability companies and limited partnerships. Sole proprietorships and general partnerships do not file with that office.", "src": [0]},
+        {"text": "The statewide sales and use tax rate is 6%, counties may add a local sales tax, and anyone making retail sales, including online, needs a retail license for each outlet from the Department of Revenue.", "src": [1]},
+        {"text": "State law exempts only unprepared food that can be bought with SNAP benefits, and only from the state sales tax, so prepared meals are not covered by that exemption.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "South Carolina Secretary of State", "title": "Business Entities", "url": "https://sos.sc.gov/online-filings/business-entities", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Carolina Department of Revenue", "title": "Sales Tax", "url": "https://dor.sc.gov/sales-use-tax-index/sales-tax", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Carolina Legislature", "title": "South Carolina Code of Laws, Title 12 Chapter 36 (sales and use tax), Section 12-36-2120(75)", "url": "https://www.scstatehouse.gov/code/t12c036.php", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "South Carolina's retail food safety program, which permits and inspects retail food establishments, moved to the state Department of Agriculture from the former Department of Health and Environmental Control.",
+    "source": {"agency": "South Carolina Department of Agriculture", "title": "Retail Food Frequently Asked Questions", "url": "https://agriculture.sc.gov/permits-and-inspections/retail-food-safety/retail-food/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

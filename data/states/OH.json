@@ -1,0 +1,78 @@
+{
+  "state": "Ohio",
+  "abbr": "OH",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Ohio's cottage food law covers only foods that are not potentially hazardous, and its rules bar cottage food operations from processing foods that need temperature control. A bill to create a registered microenterprise home kitchen passed the Ohio House in November 2025 but had not passed the Senate when this page was checked.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Ohio law defines a cottage food production operation as a person who makes food items that are not potentially hazardous in their home, such as bakery products, jams, jellies, candy and fruit butter. Potentially hazardous food includes food that needs temperature control to stop harmful microorganisms from growing.", "src": [0]},
+        {"text": "The cottage food rules say a cottage food operation may not process potentially hazardous foods, acidified or low-acid canned foods, or any food not on the approved list, so meals that need refrigeration fall outside the program.", "src": [1]},
+        {"text": "House Bill 134 would create a microenterprise home kitchen operation registration for selling certain homemade foods. The legislature's status page shows it passed the House on November 19, 2025 and was referred to a Senate committee on February 11, 2026, with no later action.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Ohio Legislative Service Commission (Ohio Revised Code)", "title": "Section 3715.01 Pure food and drug law definitions", "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.01", "kind": "statute", "checked": "2026-11-22", "updated": "2017-03-21", "read": "fetched"},
+        {"agency": "Ohio Department of Agriculture (Ohio Administrative Code)", "title": "Chapter 901:3-20 Cottage Food Production", "url": "https://codes.ohio.gov/ohio-administrative-code/chapter-901:3-20", "kind": "rule", "checked": "2026-11-22", "updated": "2016-01-22", "read": "fetched"},
+        {"agency": "Ohio General Assembly", "title": "House Bill 134 Status, 136th General Assembly", "url": "https://www.legislature.ohio.gov/legislation/136/hb134/status", "kind": "statute", "checked": "2026-11-22", "updated": "2026-02-11", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Approved cottage foods include non-potentially hazardous bakery products, jams, jellies, candy, fruit butters and chutneys, granola, popcorn, unfilled baked donuts, roasted coffee, and dry mixes, herbs, seasonings and teas. Reduced oxygen packaging is not allowed.", "src": [0]},
+        {"text": "Cottage food products may not be sold outside Ohio, and they are subject to sampling by the Ohio Department of Agriculture to check for misbranding or adulteration.", "src": [0, 2]},
+        {"text": "Each product needs a label with the business name and address, product name, ingredients in descending order by weight, net weight and volume, and the statement 'This product is home produced' in 10-point type, plus federal labeling rules.", "src": [1, 0]},
+        {"text": "Labeled cottage foods are acceptable products that licensed retail food establishments and food service operations may sell or use in preparing food.", "src": [1]},
+        {"text": "Ohio law requires a home bakery with one oven, in a stove of ordinary home kitchen design, that bakes goods for sale to register with the director of agriculture for $10 a year.", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "Ohio Department of Agriculture (Ohio Administrative Code)", "title": "Chapter 901:3-20 Cottage Food Production", "url": "https://codes.ohio.gov/ohio-administrative-code/chapter-901:3-20", "kind": "rule", "checked": "2026-11-22", "updated": "2016-01-22", "read": "fetched"},
+        {"agency": "Ohio Legislative Service Commission (Ohio Revised Code)", "title": "Section 3715.023 Labels for cottage food production operation, processor, or beekeeper", "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.023", "kind": "statute", "checked": "2026-11-22", "updated": "2001-11-21", "read": "fetched"},
+        {"agency": "Ohio Legislative Service Commission (Ohio Revised Code)", "title": "Section 3715.022 Standards for food sampling and procedures for administration", "url": "https://codes.ohio.gov/ohio-revised-code/section-3715.022", "kind": "statute", "checked": "2026-11-22", "updated": "2001-11-21", "read": "fetched"},
+        {"agency": "Ohio Legislative Service Commission (Ohio Revised Code)", "title": "Section 911.02 Registration of bakeries", "url": "https://codes.ohio.gov/ohio-revised-code/section-911.02", "kind": "statute", "checked": "2026-11-22", "updated": "2025-09-30", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Ohio law defines a food service operation as a place where food in individual portions is prepared or served for a charge, and a retail food establishment as a place where food is prepared or held for retail sale.", "src": [0]},
+        {"text": "Ohio law names the licensor as an approved local board of health, or the director of agriculture or director of health acting under state law.", "src": [0]},
+        {"text": "Food service operations apply for a license from the board of health of the health district where they are located.", "src": [1]},
+        {"text": "No one may build, equip or extensively alter a food service operation until facility layout and equipment plans are approved in writing by the licensor, which acts on them within 30 days.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Ohio Legislative Service Commission (Ohio Revised Code)", "title": "Section 3717.01 Retail food establishments - food safety operations definitions", "url": "https://codes.ohio.gov/ohio-revised-code/section-3717.01", "kind": "statute", "checked": "2026-11-22", "updated": "2012-09-10", "read": "fetched"},
+        {"agency": "Ohio Department of Health (Ohio Administrative Code)", "title": "Chapter 3701-21 Food Service Operations (rules 3701-21-02 License and 3701-21-03 Facility layout and equipment specifications)", "url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3701-21", "kind": "rule", "checked": "2026-11-22", "updated": "2024-09-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Each risk level III and IV food service operation and retail food establishment must have at least one supervisory employee with manager certification in food protection. Temporary, mobile and vending operations and risk level I and II operations are exempt.", "src": [0]},
+        {"text": "Licensors require person in charge certification for at least one person in charge per shift in food service operations and retail food establishments first licensed after March 1, 2010. A manager certification in food protection meets this requirement.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Ohio Department of Health and Ohio Department of Agriculture (Ohio Administrative Code)", "title": "Rule 3717-1-02.4 Management and personnel: supervision", "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3717-1-02.4", "kind": "rule", "checked": "2026-11-22", "updated": "2024-09-05", "read": "fetched"},
+        {"agency": "Ohio Department of Health (Ohio Administrative Code)", "title": "Rule 3701-21-25 Certification in food protection", "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3701-21-25", "kind": "rule", "checked": "2026-11-22", "updated": "2024-09-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "The Department of Taxation's small business guide says the first step in forming a business entity is contacting the Ohio Secretary of State. Retailers making taxable sales need a county vendor's license, or a transient vendor's license for fairs and similar events.", "src": [0]},
+        {"text": "Ohio's state sales tax rate is 5.75%. Counties and transit authorities may each add up to 1.5%, and the combined rate may not exceed 8.75%.", "src": [0]},
+        {"text": "The Department of Taxation says food sold to be eaten off the premises is not taxable, while food eaten on the premises is taxable and soft drinks are always taxable.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Ohio Department of Taxation", "title": "2026 Ohio Small Business Tax Guide", "url": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/documents/Small_Business_Tax_Guide_2026.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Ohio Department of Taxation", "title": "Information Release ST 2012-01: Restaurants and Other Food Vendors", "url": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/communications/information_releases/RestInfoRelease8-14.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2014-08", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Ohio Department of Health keeps a directory of Ohio's city and county health districts, searchable by county or city name.",
+    "source": {"agency": "Ohio Department of Health", "title": "Find Local Health Districts", "url": "https://odh.ohio.gov/find-local-health-districts/find-local-health-districts", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "search"}
+  }
+}

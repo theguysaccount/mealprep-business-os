@@ -1,0 +1,71 @@
+{
+  "state": "Pennsylvania",
+  "abbr": "PA",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Pennsylvania's home food option, the Department of Agriculture's Limited Food Establishment registration, covers only shelf-stable foods that do not need refrigeration after preparation; foods that need refrigeration or hot holding are not permitted. Businesses that sell food directly to consumers, such as restaurants and caterers, need a Retail Food Facility License.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "The Department of Agriculture describes a Limited Food Establishment as a residential-style kitchen used to prepare non-hazardous foods that do not require refrigeration after preparation. Foods requiring refrigeration or hot holding are not permitted.", "src": [0]},
+        {"text": "The department says Limited Food Establishments are for direct-to-consumer sales only, and wholesale or distribution to other food businesses requires a different license.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Pennsylvania Department of Agriculture", "title": "Apply for or Renew a Limited Food Establishment Registration", "url": "https://www.pa.gov/services/pda/apply-for-or-renew-a-limited-food-establishment-registration", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Home food producers register with the Department of Agriculture, which reviews plans within 15 business days and then inspects the kitchen. Registration costs $35 and is renewed yearly for $35, and materials are due at least 60 days before operating.", "src": [0]},
+        {"text": "Allowed foods are shelf-stable, non-potentially hazardous items such as baked goods without cream fillings, jams, jellies, candies and certain snack mixes.", "src": [0]},
+        {"text": "Registration covers sales direct from the production site, including internet sales. A Retail Food Facility License may also be required for sales at events or farmers markets, and FDA registration may be needed for sales across state lines.", "src": [0]},
+        {"text": "Labels must show the product name, ingredients in descending order by weight, net weight or volume, business name and address, and any allergen declarations.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Pennsylvania Department of Agriculture", "title": "Apply for or Renew a Limited Food Establishment Registration", "url": "https://www.pa.gov/services/pda/apply-for-or-renew-a-limited-food-establishment-registration", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "A Retail Food Facility License is required before operating a restaurant, caterer or similar facility that sells or serves food directly to consumers. Licenses do not transfer to a new owner, facility or location.", "src": [0]},
+        {"text": "Applicants submit a plan review application, with no fee, at least 60 days before preparing or selling food. The department decides within 15 business days, then inspects and collects the license fee after a compliant inspection.", "src": [0]},
+        {"text": "Allegheny, Bucks, Chester, Delaware, Erie, Montgomery and Philadelphia counties are under county health department jurisdiction, so businesses there contact the county for licensing.", "src": [0]},
+        {"text": "Pennsylvania's food code, 7 Pa. Code Chapter 46, adopts the FDA Model Food Code, and county or local health departments may enforce stricter rules.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Pennsylvania Department of Agriculture", "title": "Retail Food Facilities and Restaurants", "url": "https://www.pa.gov/agencies/pda/food/food-safety/retail-food/retail-food-facilities-and-restaurants", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Pennsylvania Department of Agriculture", "title": "Retail Food", "url": "https://www.pa.gov/agencies/pda/food/food-safety/retail-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Since January 22, 2011, every licensed retail food facility must have at least one employee with a food manager certification from a program approved by the ANSI National Accreditation Board. The certified employee must be available during all hours of operation.", "src": [0]},
+        {"text": "New facilities have 90 days to comply, and the certificate must be posted. Facilities that handle only prepackaged foods or only non-TCS foods are exempt, and some local health jurisdictions run their own certification programs.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Pennsylvania Department of Agriculture", "title": "Food Employee Certification", "url": "https://www.pa.gov/agencies/pda/food/food-safety/retail-food/food-employee-certification", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "The Department of State handles forming and registering a business online, along with annual reports.", "src": [0]},
+        {"text": "Pennsylvania's sales tax rate is 6%, with an added 1% local tax in Allegheny County and 2% in Philadelphia. Food that is not ready to eat is exempt.", "src": [1]},
+        {"text": "The Department of Revenue says tax generally applies to food sold by caterers and establishments selling ready-to-eat food, whether eaten on or off the premises, taken out or delivered.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Pennsylvania Department of State", "title": "Business", "url": "https://www.pa.gov/agencies/dos/programs/business", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Pennsylvania Department of Revenue", "title": "Sales, Use and Hotel Occupancy Tax", "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/sales-use-and-hotel-occupancy-tax", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Pennsylvania Department of Revenue", "title": "Retailer's Information (REV-717)", "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforbusinesses/sut/documents/rev-717.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2026-02", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Department of Agriculture licenses and inspects most retail food facilities, but some county and local health departments, including those of Allegheny, Bucks, Delaware, Erie and Montgomery counties and Philadelphia, do so instead. Its food safety jurisdiction search shows which applies.",
+    "source": {"agency": "Pennsylvania Department of Agriculture", "title": "Retail Food", "url": "https://www.pa.gov/agencies/pda/food/food-safety/retail-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

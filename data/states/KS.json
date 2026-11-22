@@ -1,0 +1,71 @@
+{
+  "state": "Kansas",
+  "abbr": "KS",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Kansas exempts from licensing only people selling food directly to consumers when the food doesn't need time or temperature control for safety, so the exemption does not cover perishable prepared meals. Those are made in a food establishment licensed by the Kansas secretary of agriculture after an inspection.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Kansas law exempts from licensing a person who produces food for distribution directly to the end consumer only if the food does not require time and temperature control for safety or specialized processing, as determined by the secretary of agriculture.", "src": [0, 1]},
+        {"text": "Otherwise, conducting a food establishment, defined as any place where food is prepared, served or offered for sale, requires a license from the secretary of agriculture, issued after an inspection.", "src": [0, 1]},
+        {"text": "Sellers who are exempt from the license are still subject to inspection and regulation when a violation is observed or reported to the secretary.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Kansas Office of Revisor of Statutes", "title": "K.S.A. 65-689, Food establishments and food processing plants; license requirements; exceptions", "url": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_006_0089.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-07-01", "read": "fetched"},
+        {"agency": "Kansas Office of Revisor of Statutes", "title": "K.S.A. 65-656, Definitions (Kansas Food, Drug and Cosmetic Act)", "url": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_006_0056.html", "kind": "statute", "checked": "2026-11-22", "updated": "2022-07-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Kansas law lets people sell food that does not need time and temperature control for safety or specialized processing directly to the end consumer without a food establishment license; the secretary of agriculture determines which foods qualify.", "src": [0]},
+        {"text": "Food establishments operating for less than seven days in a calendar year, and fundraisers for community, humanitarian, educational or youth purposes, are also exempt from the license.", "src": [0]},
+        {"text": "Since July 1, 2026, beekeepers may sell unaltered Kansas honey and honeycomb through retailers without a license if annual honey sales do not exceed $35,000 and labels say “Product not subject to routine inspection by the Kansas department of agriculture.”", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Kansas Office of Revisor of Statutes", "title": "K.S.A. 65-689, Food establishments and food processing plants; license requirements; exceptions", "url": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_006_0089.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-07-01", "read": "fetched"},
+        {"agency": "Kansas Office of Revisor of Statutes", "title": "K.S.A. 65-695, Retail sale of honey and honeycombs", "url": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_006_0095.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-07-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Kansas defines food establishments broadly, including restaurants, catering kitchens, commissaries, grocery stores and bakeries; a food processing plant is a commercial operation that supplies food to other businesses.", "src": [1]},
+        {"text": "A license from the secretary of agriculture is required before operating. The secretary inspects the location first, and licenses must be displayed and cannot be transferred to another person or location.", "src": [0]},
+        {"text": "State law caps the application fee at $350 and the yearly license fee at $250 for a food establishment under 5,000 square feet, with actual fees set by regulation. A location that is both a food establishment and a processing plant needs both licenses.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Kansas Office of Revisor of Statutes", "title": "K.S.A. 65-689, Food establishments and food processing plants; license requirements; exceptions", "url": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_006_0089.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-07-01", "read": "fetched"},
+        {"agency": "Kansas Office of Revisor of Statutes", "title": "K.S.A. 65-656, Definitions (Kansas Food, Drug and Cosmetic Act)", "url": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_006_0056.html", "kind": "statute", "checked": "2026-11-22", "updated": "2022-07-01", "read": "fetched"},
+        {"agency": "Kansas Office of Revisor of Statutes", "title": "K.S.A. 65-688, Retail food establishments and food processing plants; inspection fees", "url": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_006_0088.html", "kind": "statute", "checked": "2026-11-22", "updated": "2012-07-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [],
+      "sources": []
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Corporations, LLCs, limited liability partnerships and limited partnerships must register with the Kansas Secretary of State; sole proprietors do not, and general partnerships are not required to.", "src": [0]},
+        {"text": "Businesses register for state business taxes, such as sales tax, through the Kansas Department of Revenue's Customer Service Center or on Form CR-16.", "src": [1]},
+        {"text": "Kansas charges a 6.5% state retailers' sales tax plus local taxes. Certain food and food ingredients are exempt from the state sales tax but remain subject to local sales taxes.", "src": [2, 3]},
+        {"text": "The department's fact sheet for caterers and mobile food services says sales tax applies to gross receipts from the sale of food, meals, drinks and related labor services.", "src": [4]}
+      ],
+      "sources": [
+        {"agency": "Kansas Secretary of State", "title": "Register a Business", "url": "https://sos.ks.gov/businesses/register-a-business.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Kansas Department of Revenue", "title": "Business Registration", "url": "https://www.ksrevenue.gov/busregistration.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Kansas Department of Revenue", "title": "Sales (Retailers)", "url": "https://www.ksrevenue.gov/bustaxtypessales.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Kansas Department of Revenue", "title": "Frequently Asked Questions About City and County Sales Tax", "url": "https://www.ksrevenue.gov/faqs-salestax.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Kansas Department of Revenue", "title": "Catering Services and Mobile Food Services – Fact Sheet", "url": "https://www.ksrevenue.gov/factsheets/fscatering.pdf", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Kansas law assigns licenses for food establishments and food processing plants to the state secretary of agriculture (the Kansas Department of Agriculture), who inspects a location before issuing a license.",
+    "source": {"agency": "Kansas Office of Revisor of Statutes", "title": "K.S.A. 65-689, Food establishments and food processing plants; license requirements; exceptions", "url": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_006_0089.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-07-01", "read": "fetched"}
+  }
+}

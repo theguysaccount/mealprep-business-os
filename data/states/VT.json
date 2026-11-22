@@ -1,0 +1,221 @@
+{
+  "state": "Vermont",
+  "abbr": "VT",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Vermont's Department of Health issues a Home Caterer License for making prepared food in a home kitchen and selling it directly to customers, after an opening inspection. Vermont's cottage food exemption covers only foods that don't need refrigeration.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "The Vermont Department of Health requires a home-based food license to make prepared food in a home kitchen for sale directly to customers. The license for this is the Home Caterer License.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Applicants apply online at least 30 days before they plan to start and are assigned a public health inspector for an opening inspection; the Department emails the license once the inspection is passed.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Home caterers must follow the state's Health Regulations for Food Service Establishments, and the license covers only the domestic home kitchen, not another kitchen space in or next to the home.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "For home kitchens, the Department lists practices such as washing, rinsing and sanitizing in separate compartments, keeping the refrigerator at 41°F or below, and keeping small children and pets out of the kitchen while preparing food to sell.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Vermont Department of Health",
+          "title": "Home-Based Food Licenses and Exemptions",
+          "url": "https://www.healthvermont.gov/environment/food-lodging-program/home-based-food-licenses-and-exemptions",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-09-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Under Act 42 (2025), cottage food operators with gross annual receipts of $30,000 or less from cottage food products are exempt from licensing. Cottage food products are foods that do not need refrigeration or time or temperature control for safety.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Examples include non-potentially hazardous baked goods, candy, jams and jellies, granola, popcorn, coffee beans, and home-canned acidic foods made with approved recipes.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Exempt operators must complete annual online training, label products as required, and file an exemption with the Department each year before January 15.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Labels on exempt products must say they were made in a home kitchen not inspected by the Vermont Department of Health, and food made under an exemption cannot be sold to restaurants or other licensed food establishments.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A separate Home Bakery License covers baked goods that do not need refrigeration or temperature control, made in a home kitchen with home appliances.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Vermont Department of Health",
+          "title": "Home-Based Food Licenses and Exemptions",
+          "url": "https://www.healthvermont.gov/environment/food-lodging-program/home-based-food-licenses-and-exemptions",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-09-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "The Vermont Department of Health's Food and Lodging Program licenses and inspects establishments where food is prepared, served, processed or stored.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A Commercial Caterer license covers takeout-only food service with no seating and offsite caterers; seated food service needs a Restaurant license.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Applicants submit an application, a menu, water test results for a private water system and wastewater permit documents at least 30 days before opening, then must pass an opening inspection.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The Department says its licenses are valid for one year, license fees are not prorated, and a license does not transfer when ownership changes.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Vermont Department of Health",
+          "title": "Food & Lodging Program",
+          "url": "https://www.healthvermont.gov/environment/food-lodging-program",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-06-24",
+          "read": "fetched"
+        },
+        {
+          "agency": "Vermont Department of Health",
+          "title": "Retail Food Service Establishments",
+          "url": "https://www.healthvermont.gov/environment/food-lodging-program/retail-food-service-establishments",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-11-04",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "The Department of Health says a food service worker must be able to demonstrate knowledge of food safety and sanitation, and recommends that the person in charge receive some food safety training.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Department points food businesses to certified food protection manager programs accredited by the ANSI National Accreditation Board.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Vermont Department of Health",
+          "title": "Retail Food Service Establishments",
+          "url": "https://www.healthvermont.gov/environment/food-lodging-program/retail-food-service-establishments",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-11-04",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "A sole proprietor doing business under a name other than their own registers an assumed business name with the Secretary of State, online or by mail, and renews it every five years.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Vermont's Meals Tax is 9% on sales of prepared food, restaurant meals and non-alcoholic beverages. Some towns add a local option tax, which also applies to deliveries into those towns.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Vermont Secretary of State",
+          "title": "Assumed Name Registration",
+          "url": "https://sos.vermont.gov/business-services/business-filings/assumed-name",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Vermont Department of Taxes",
+          "title": "Vermont Tax Guide for Restaurants and Foodservice Businesses",
+          "url": "https://tax.vermont.gov/restaurant",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Vermont Department of Health licenses food businesses through its Food & Lodging Program. It has 12 local health offices around the state, listed with phone numbers by town.",
+    "source": {
+      "agency": "Vermont Department of Health",
+      "title": "Local Health Offices",
+      "url": "https://www.healthvermont.gov/local-health-offices",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

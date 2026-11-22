@@ -1,0 +1,285 @@
+{
+  "state": "Tennessee",
+  "abbr": "TN",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Tennessee's Food Freedom Act exempts homemade food made in a private residence from state licensing and inspection. Since July 1, 2025 it also covers some foods that need time or temperature control, but those must be sold in person and cannot contain meat, fish, shellfish or unpasteurized milk.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Tennessee's Food Freedom Act (Tenn. Code § 53-1-118) exempts homemade food items produced at the producer's private residence from state licensing, permitting, inspection, packaging and labeling laws, as long as the act's conditions are met.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "A 2025 amendment (Public Chapter 431, effective July 1, 2025) added rules for homemade foods that need time or temperature control for safety. The Department of Agriculture describes the change as allowing the production and sale of certain such foods.",
+          "src": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "text": "Under the amendment, these perishable homemade foods must be sold in person, either by the producer directly to the consumer or by the producer's agent, such as a farm stand on the property where the food was prepared.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Perishable homemade foods under the act cannot include unpasteurized milk, alcoholic beverages, fish, shellfish or meat products. Poultry is allowed only within federal exemptions in 9 CFR 381.10, such as the 1,000-bird producer exemption.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Department of Agriculture says foods made under the Food Freedom Act are not approved to be served in restaurants, and that producers may still fall under the rules of other state and local agencies.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Tennessee General Assembly",
+          "title": "Senate Amendment No. 1 to SB 484 / HB 130 (enacted as Public Chapter 431, 2025)",
+          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0263.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-07-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Tennessee General Assembly",
+          "title": "Bill Information: HB 0130 / SB 0484, 114th General Assembly",
+          "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=HB0130&GA=114",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-07-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Tennessee Department of Agriculture",
+          "title": "Tennessee Food Freedom Act",
+          "url": "https://www.tn.gov/agriculture/consumers/food-safety/tennessee-food-freedom-act.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "The Food Freedom Act took effect July 1, 2022. Homemade foods that don't need time or temperature control may be sold by the producer in person or remotely, such as by phone or online, or through an agent or a third-party vendor such as a retail shop or grocery store.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Delivery may be made by the producer, an agent, a third-party vendor or a third-party carrier. The act applies only to sales made within Tennessee.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The consumer must be given the producer's name, home address and phone number, the food's common name, its ingredients in descending order, and a statement that it was made in a private residence exempt from state licensing and inspection and may contain allergens.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "This information goes on a label, on a placard at the point of sale, or on the web page where the item is sold. For phone or custom orders, the seller discloses the home-production statement and provides the other details on request.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The act does not exempt producers or sellers of homemade food from tax laws, federal law or the laws of other states.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Tennessee General Assembly",
+          "title": "Bill Information: HB 0813 / SB 0693, Tennessee Food Freedom Act (Public Chapter 862, 2022)",
+          "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=HB0813&GA=112",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2022-07-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "The Tennessee Department of Health's Environmental Health Program permits and inspects food service establishments such as restaurants. In Davidson, Hamilton, Knox, Madison and Shelby counties, the local health department handles permits and inspections.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Tennessee Department of Agriculture's Food Safety Section regulates retail food stores, such as grocery and convenience stores, and food manufacturers, which need a license from the department.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "The Department of Health's plan review checklist asks for items such as a scaled floor plan and a copy of the menu, and says plans go to the local county health department at least 15 days before construction.",
+          "src": [
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Tennessee Department of Health",
+          "title": "Environmental Health",
+          "url": "https://www.tn.gov/health/eh.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Tennessee Department of Agriculture",
+          "title": "Retail Food Establishments",
+          "url": "https://www.tn.gov/agriculture/consumers/food-safety/ag-businesses-retail-food-establishments.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Tennessee Department of Agriculture",
+          "title": "Starting a Food Manufacturing Business in Tennessee",
+          "url": "https://www.tn.gov/agriculture/consumers/food-safety/ag-farms-food-manufacturing-and-warehousing/startup.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Tennessee Department of Health",
+          "title": "Plan Review Checklist",
+          "url": "https://www.tn.gov/content/dam/tn/health/documents/Food_Review_Plan.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Tennessee's Food Safety Act lets a food service establishment show food safety knowledge in more than one way, including employing a certified food protection manager who passed an accredited exam or completing an inspection with no priority violations.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Department of Health guidance says the person in charge must demonstrate knowledge of foodborne illness prevention, and lists accredited manager certification programs such as ServSafe and the National Registry of Food Safety Professionals.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Tennessee Department of Health",
+          "title": "Tennessee Food Safety Act (Tenn. Code Title 68, Chapter 14, Part 7)",
+          "url": "https://www.tn.gov/content/dam/tn/health/documents/Tennessee_Food_Safety_Act.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Tennessee Department of Health",
+          "title": "Examples of Demonstration of Knowledge Questions",
+          "url": "https://www.tn.gov/content/dam/tn/health/documents/Demonstration_of_Knowledge.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "The Secretary of State's Division of Business Services handles forming or registering corporations, LLCs and other business entities, with online filing available.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Department of Revenue says prepared food is taxed at the general 7% state sales tax rate plus local tax, while food and food ingredients are taxed at a 4% state rate plus local tax.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Revenue Notice 17-21 says food counts as prepared food if the seller heats it, mixes or combines two or more ingredients into a single item, or provides eating utensils.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Tennessee Secretary of State",
+          "title": "Form or Register a New Business",
+          "url": "https://sos.tn.gov/products/business-services/form-or-register-new-business",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Tennessee Department of Revenue",
+          "title": "SUT-54 - Prepared Food - Definition and Tax Rate",
+          "url": "https://revenue.support.tn.gov/hc/en-us/articles/360058231192-SUT-54-Prepared-Food-Definition-and-Tax-Rate",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Tennessee Department of Revenue",
+          "title": "Notice 17-21: Sales Tax on Prepared Food",
+          "url": "https://www.tn.gov/content/dam/tn/revenue/documents/notices/sales/sales17-21.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2017-10",
+          "read": "search"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Tennessee Department of Health permits food service establishments in most counties, while Davidson, Hamilton, Knox, Madison and Shelby counties run their own programs. The department lists local health department contacts.",
+    "source": {
+      "agency": "Tennessee Department of Health",
+      "title": "Local Health Departments",
+      "url": "https://www.tn.gov/health/health-program-areas/eh-program/eh-foodservice/local-health-departments.html",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "search"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "state": "Oregon",
+  "abbr": "OR",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Oregon's cottage food exemption covers only packaged foods that are not potentially hazardous. State food sanitation rules bar food establishment operations in a private home except under an Oregon Department of Agriculture domestic kitchen license, and the department says catering from a domestic kitchen is not allowed and meat processing is prohibited there.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Oregon's cottage food exemption applies only to foods made in a residential dwelling that are packaged and not potentially hazardous, meaning they do not require temperature control. The law's examples include baked goods, confectionery, jams, jellies, honey, syrups and nut mixes.", "src": [0]},
+        {"text": "Oregon's food sanitation rules, effective January 1, 2026, say a private home or living quarters may not be used for food establishment operations except under a domestic kitchen license issued by the Oregon Department of Agriculture.", "src": [1]},
+        {"text": "The agriculture department's domestic kitchen guidance says catering from a domestic kitchen is not allowed under law and lists processing of any meat or meat product among prohibited activities. The license covers only the home kitchen itself, which the department inspects.", "src": [2, 3]}
+      ],
+      "sources": [
+        {"agency": "Oregon State Legislature", "title": "ORS Chapter 616, including ORS 616.723 (exemption for establishments in residential dwellings)", "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors616.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Oregon Health Authority, Public Health Division (Secretary of State filing)", "title": "Permanent Administrative Order PH 26-2025: Food Sanitation Rule (OAR 333-150-0000), aligned with the 2022 FDA Food Code", "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Record/13741305/File/document", "kind": "rule", "checked": "2026-11-22", "updated": "2026-01-01", "read": "fetched"},
+        {"agency": "Oregon Department of Agriculture, Food Safety Program", "title": "Domestic kitchen licensing requirements", "url": "https://www.oregon.gov/oda/Documents/Publications/FoodSafety/DomesticKitchensLicensingReq.pdf", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "search"},
+        {"agency": "Oregon Department of Agriculture, Food Safety Program", "title": "Domestic kitchen license", "url": "https://www.oregon.gov/oda/food-safety/fs-licensing/Pages/domestic-kitchen.aspx", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "search"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Annual gross sales under the exemption may not exceed $50,000, adjusted each year for inflation, and everyone preparing the food must have completed a food handler training program and hold a certificate.", "src": [0]},
+        {"text": "The food may be sold directly to the end user in any manner, including from home, online, by mail and at events. Packaged food may also be sold to a retailer that displays it separately and marks it as homemade.", "src": [0]},
+        {"text": "Sales to institutions, including caterers, schools, day care centers, hospitals, nursing homes, correctional facilities and restaurants, are not allowed.", "src": [0]},
+        {"text": "Labels must say the product is homemade and not prepared in an inspected food establishment, and list the business name and phone number, address or state ID number, product name, ingredients, net weight, allergens and any pets in the home.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Oregon State Legislature", "title": "ORS Chapter 616, including ORS 616.723 (exemption for establishments in residential dwellings)", "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors616.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "State law says no one may operate a restaurant without a license from the Oregon Health Authority, which delegates licensing and inspections to local public health authorities through intergovernmental agreements.", "src": [0]},
+        {"text": "Under the food establishment law the Department of Agriculture enforces, a food establishment may be licensed in an area that is part of a domestic kitchen if the department finds it clean and sanitary.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Oregon State Legislature", "title": "ORS Chapter 624, Food Service Facilities (ORS 624.020, 624.510 and 624.570)", "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors624.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Oregon State Legislature", "title": "ORS Chapter 616, including ORS 616.700 (sanitation requirements for food establishments)", "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors616.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Anyone preparing or serving food in a licensed restaurant or food service facility must complete a food handler training program and earn a certificate within 30 days of hire. Certificates expire after three years.", "src": [0]},
+        {"text": "Under the 2026 food sanitation rules, at least one person in charge must be a certified food protection manager by January 1, 2029. By January 1, 2031, a certified person in charge must be present each day the establishment operates, during its highest-risk hours.", "src": [1]},
+        {"text": "The manager rule does not apply to food establishments the Oregon Health Authority deems minimal risk, including temporary food establishments.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Oregon State Legislature", "title": "ORS Chapter 624, Food Service Facilities (ORS 624.020, 624.510 and 624.570)", "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors624.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Oregon Health Authority, Public Health Division (Secretary of State filing)", "title": "Permanent Administrative Order PH 26-2025: Food Sanitation Rule (OAR 333-150-0000), aligned with the 2022 FDA Food Code", "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Record/13741305/File/document", "kind": "rule", "checked": "2026-11-22", "updated": "2026-01-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Oregon law requires anyone doing business under an assumed business name to register that name with the Office of the Secretary of State and keep the registration current.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Oregon State Legislature", "title": "ORS Chapter 648, Assumed Business Names (ORS 648.007 and 648.010)", "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors648.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Oregon law has the Oregon Health Authority delegate restaurant licensing, inspections and enforcement to each local public health authority through an intergovernmental agreement.",
+    "source": {"agency": "Oregon State Legislature", "title": "ORS Chapter 624, Food Service Facilities (ORS 624.510)", "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors624.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "state": "Michigan",
+  "abbr": "MI",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Michigan's Cottage Food Law covers only foods that do not need time and temperature control for safety, and it excludes meat, poultry and milk products. Perishable prepared meals therefore fall outside it and are made in a food establishment licensed under the Michigan Food Law.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Michigan's Food Law defines a cottage food product as a food that does not need time or temperature control for safety, such as jams, jellies, dried fruit, candy, granola, dry mixes and shelf-stable baked goods. Meat and poultry products, milk products, salsa, low-acid canned foods and beverages are excluded.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Apart from cottage food operations and other listed exemptions, the law says no one may operate a food establishment unless it is licensed by the Department of Agriculture and Rural Development.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 289.1105 Definitions (Food Law)",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-289-1105",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-03-24",
+          "read": "fetched"
+        },
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 289.4101 Food establishment license; scope",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-289-4101",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2010-07-12",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Cottage food operations are exempt from the Food Law's licensing and inspection provisions but not from its adulteration standards. Products must be prepackaged, labeled and stored only in the operator's primary home.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Labels must show the business name and address (or registration number and phone), product name, ingredients, net weight, allergens and the statement \"Made in a home kitchen that has not been inspected by the Michigan department of agriculture and rural development\" in at least 11-point type.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Sales go directly to consumers; consignment and wholesale are prohibited. Internet, mail order and third-party delivery sales are allowed only to Michigan consumers, and only if the operator offers a chance to interact directly first, in person or in a virtual meeting.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Gross sales may not exceed $50,000 a year, or $75,000 if products sell for $250 or more per unit, until October 1, 2026. After that the department may adjust the limits each year for inflation.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Operators may register with the MSU Product Center, which may charge a one-time fee of up to $50, and then print the registration number on labels. The exemption does not override other state or federal laws or local ordinances.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 289.4102 Cottage food operation; exemption from licensing and evaluation provisions",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-289-4102",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-03-24",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Food establishments are licensed by the Michigan Department of Agriculture and Rural Development, and the law bars cities, counties and other local governments from adopting their own licensing rules for businesses regulated under the Food Law.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The department delegates enforcement of the Food Law's food service establishment requirements to local health departments that meet program criteria.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "A local health department reviews each food service establishment license application for completeness and then inspects the proposed or existing establishment to check that it complies with the law.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 289.4101 Food establishment license; scope",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-289-4101",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2010-07-12",
+          "read": "fetched"
+        },
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 289.3105 Enforcement; delegation to local health department",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-289-3105",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2012-10-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 289.3115 Review of license application by local health department; inspection of establishment",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-289-3115",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2016-09-19",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Food service establishments, other than licensed temporary ones, must employ at least one managerial employee certified as a food safety manager under a program accredited by the American National Standards Institute.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The same law allows a local legislative body to run its own food handler, employee health or manager certification program if it does not conflict with the state requirement.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 289.2129 Certification of managerial employee",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-289-2129",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2016-09-19",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "A limited liability company is formed by filing articles of organization with the administrator, defined as the director of the Department of Licensing and Regulatory Affairs, which must accept filings by email or online.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "An individual or partnership doing business under an assumed name files a certificate with the clerk of each county where it does business, for a $6 filing fee.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "Michigan's sales tax is 6 percent of gross proceeds from retail sales.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "text": "The sales tax exemption for food does not cover prepared food, which includes food sold heated, two or more ingredients combined by the seller for sale as a single item, or food sold with utensils. Bakery items sold without utensils are not prepared food.",
+          "src": [
+            4
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 450.4202 Limited liability company; formation",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-4202",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 450.4102 and 450.4104 Definitions; filing of documents (Limited Liability Company Act)",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-450-4104",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 445.1 Assumed name; certificate filed with county clerk",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-445-1",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 205.52 General Sales Tax Act: tax levied",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-52",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2004-09-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Michigan Legislature",
+          "title": "MCL 205.54g Sales exempt from tax (food and prepared food)",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2024-02-13",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "By state law, Michigan's local health departments enforce the Food Law's requirements for food service establishments, reviewing license applications and inspecting restaurants and similar businesses on the state's behalf.",
+    "source": {
+      "agency": "Michigan Legislature",
+      "title": "MCL 289.3105 Enforcement; delegation to local health department",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-289-3105",
+      "kind": "statute",
+      "checked": "2026-11-22",
+      "updated": "2012-10-01",
+      "read": "fetched"
+    }
+  }
+}

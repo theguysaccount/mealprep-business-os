@@ -1,0 +1,74 @@
+{
+  "state": "New Hampshire",
+  "abbr": "NH",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "New Hampshire's homestead food law excludes potentially hazardous foods, and state rules bar homestead operations from making or selling any food that requires refrigeration. Food service establishments are licensed by the state health department or, in some cities and towns, by local health officers.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "New Hampshire's homestead food law (RSA 143-A:12) covers foods made in the home kitchen of a primary residence and excludes potentially hazardous food, which it defines as food requiring temperature control for safety, along with low-acid canned foods.", "src": [0]},
+        {"text": "State rules say exempt homestead food operations shall not produce or sell potentially hazardous foods, including any food that requires refrigeration. The list of products allowed for licensed homestead operations adds only freeze-dried foods to the exempt list.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "New Hampshire General Court", "title": "RSA 143-A:12: Homestead Food License Required", "url": "https://gc.nh.gov/rsa/html/x/143-A/143-A-12.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2025-11-12", "read": "fetched"},
+        {"agency": "New Hampshire Department of Health and Human Services", "title": "He-P 2300: Sanitary Production and Distribution of Food", "url": "https://gc.nh.gov/rules/state_agencies/he-p2300.html", "kind": "rule", "checked": "2026-11-22", "updated": "2026-08-25", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Homestead food operations selling from the home, their own farm stand, farmers' markets or retail food stores are exempt from state licensing and inspection, though the department may inspect when it suspects an imminent health hazard.", "src": [0]},
+        {"text": "Exempt operations may make only baked items such as breads, cookies and cakes, double-crusted fruit pies, candy and fudge, packaged dry products such as spices, acid foods such as vinegars, jams and jellies, and acidified foods.", "src": [1]},
+        {"text": "Selling to restaurants or other retail food establishments, over the internet, by mail order or to wholesalers requires a homestead license, which state rules (effective August 2026) call a Class H license, with a $150 annual fee. Freeze-dried foods also require a license.", "src": [0, 1]},
+        {"text": "Labels must show the operation's name, physical or email address and phone number, the product name, allergens, ingredients or a QR code or website listing them, a batch code or date, and: This product is exempt from New Hampshire licensing and inspection.", "src": [0, 1]}
+      ],
+      "sources": [
+        {"agency": "New Hampshire General Court", "title": "RSA 143-A:12: Homestead Food License Required", "url": "https://gc.nh.gov/rsa/html/x/143-A/143-A-12.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2025-11-12", "read": "fetched"},
+        {"agency": "New Hampshire Department of Health and Human Services", "title": "He-P 2300: Sanitary Production and Distribution of Food", "url": "https://gc.nh.gov/rules/state_agencies/he-p2300.html", "kind": "rule", "checked": "2026-11-22", "updated": "2026-08-25", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "State law makes it unlawful to operate a food service establishment or retail food store without a food service license from the commissioner of health and human services, unless the operation is exempt.", "src": [0]},
+        {"text": "Food service establishments and retail food stores licensed by city or town health officers are exempt from state licensing and inspection.", "src": [1]},
+        {"text": "New applicants and those remodeling must submit a floor plan review application with a proposed menu and plans showing equipment, food preparation areas, commercial-grade refrigeration and sinks. State rules effective August 2026 set a $75 plan review fee and annual license fees by class, up to $875.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "New Hampshire General Court", "title": "RSA 143-A:4: License Required", "url": "https://gc.nh.gov/rsa/html/x/143-A/143-A-4.htm", "kind": "statute", "checked": "2026-11-22", "updated": "1995-11-01", "read": "fetched"},
+        {"agency": "New Hampshire General Court", "title": "RSA 143-A:5: Exemptions", "url": "https://gc.nh.gov/rsa/html/x/143-A/143-A-5.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2025-07-13", "read": "fetched"},
+        {"agency": "New Hampshire Department of Health and Human Services", "title": "He-P 2300: Sanitary Production and Distribution of Food", "url": "https://gc.nh.gov/rules/state_agencies/he-p2300.html", "kind": "rule", "checked": "2026-11-22", "updated": "2026-08-25", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Each food service establishment licensed by the state must have a person in charge trained as a certified food protection manager present during all hours of operation. With five or fewer food employees on duty, one certified manager on staff who is available is enough.", "src": [0]},
+        {"text": "The requirement does not apply to some operations, including home delivery services of packaged frozen food, food processing plants, homestead food operations and establishments exempt from state licensing.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "New Hampshire General Court", "title": "RSA 143-A:11-a: Certified Food Protection Manager", "url": "https://gc.nh.gov/rsa/html/x/143-A/143-A-11-a.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2021-08-10", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "New Hampshire's meals and rentals tax is 8.5 percent of the charge for taxable meals over $1.00, with set amounts for smaller charges. An operator selling taxable meals must register and get a meals and rentals license from the Department of Revenue Administration first.", "src": [0, 1]},
+        {"text": "Under the meals tax law, a meal is food prepared by a restaurant, including a catering business, and ready to eat without further significant preparation, including take-out. Food wholly packaged off the premises is excluded, except sandwiches, unsealed drinks and catered or delivered meals.", "src": [2]},
+        {"text": "Sole proprietors doing business under a name other than their own, partnerships and associations must file a trade name certificate with the Secretary of State.", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "New Hampshire General Court", "title": "RSA 78-A:6: Imposition of Tax", "url": "https://gc.nh.gov/rsa/html/V/78-A/78-A-6.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2021-06-25", "read": "fetched"},
+        {"agency": "New Hampshire General Court", "title": "RSA 78-A:4: Meals and Rentals Licenses Required", "url": "https://gc.nh.gov/rsa/html/V/78-A/78-A-4.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2020-01-01", "read": "fetched"},
+        {"agency": "New Hampshire General Court", "title": "RSA 78-A:3: Definitions (Tax on Meals and Rooms)", "url": "https://gc.nh.gov/rsa/html/V/78-A/78-A-3.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2021-10-01", "read": "fetched"},
+        {"agency": "New Hampshire General Court", "title": "RSA 349:5: Trade Names, Registration Procedure", "url": "https://gc.nh.gov/rsa/html/XXXI/349/349-5.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2004-07-01", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "New Hampshire's health department publishes a list of self-inspecting cities and towns, with local health officer contacts, where food licensing is handled locally rather than by the state's Food Protection Section.",
+    "source": {"agency": "New Hampshire Department of Health and Human Services", "title": "New Hampshire Self-Inspecting Cities and Towns", "url": "https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/fp-selfinspect.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2024-01", "read": "search"}
+  }
+}

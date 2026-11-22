@@ -1,0 +1,79 @@
+{
+  "state": "Iowa",
+  "abbr": "IA",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Iowa's home food processing establishment license from the Department of Inspections, Appeals, and Licensing covers foods that need refrigeration, with a $50 yearly fee, food safety training and gross sales under $50,000 a year. Fish and shellfish are excluded, and meat and poultry are allowed only in listed cases, such as product from an inspected source sold directly to the end consumer.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Iowa's home food processing establishment (HFPE) license, issued by the Department of Inspections, Appeals, and Licensing (DIAL), lets a home business make and sell foods that need time/temperature control, under state rules for cooking, cooling, cold holding and reheating.", "src": [2, 1]},
+        {"text": "The license costs $50 a year, gross annual sales must stay under $50,000, and applicants must list every food item and apply at least 30 days before opening. The person in charge must attend an approved food safety course before the license is issued.", "src": [0, 2, 1]},
+        {"text": "Refrigerated ready-to-eat TCS items must carry an expiration date no more than seven days from preparation, and labels must state “This product was produced at a home food processing establishment.”", "src": [1, 0]},
+        {"text": "Fish, shellfish, game and TCS foods in reduced-oxygen packaging are excluded. Meat and poultry are allowed only in listed cases, such as product from an inspected source, and then only when sold directly to the end consumer.", "src": [0, 1]},
+        {"text": "HFPE foods may be sold directly to consumers or through other businesses; TCS items sold to other businesses for resale must be kept at or below 41°F during transport.", "src": [2, 1]}
+      ],
+      "sources": [
+        {"agency": "Iowa Legislature", "title": "Iowa Code chapter 137D, Home Food Processing Establishments (2026)", "url": "https://www.legis.iowa.gov/docs/code/137D.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Iowa Legislature", "title": "Iowa Administrative Code 481—Chapter 34, Home Food Processing Establishments", "url": "https://www.legis.iowa.gov/docs/iac/chapter/481.34.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2024-05-22", "read": "fetched"},
+        {"agency": "Iowa Department of Inspections, Appeals, and Licensing", "title": "Home Food Processing Establishments", "url": "https://dial.iowa.gov/licenses/food-establishments-hotels/home-food-processing-establishments", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Cottage foods in Iowa are foods made at a private residence that don't need time/temperature control for safety; DIAL says any food that must be kept hot or cold for safety cannot be sold as a cottage food.", "src": [0, 1]},
+        {"text": "Cottage food is exempt from state licensing, permitting and inspection when sold and delivered by the producer directly to the consumer, or delivered by mail or the producer's agent. Sales may be in person, by phone or online.", "src": [0]},
+        {"text": "Labels must include the preparer's name and address, phone number or email, the food's name, ingredients, allergens, and “This product was produced at a residential property that is exempt from state licensing and inspection.”", "src": [0, 1]},
+        {"text": "Home-canned pickles, vegetables or fruits qualify only with a pH of 4.6 or lower or a water activity of 0.85 or lower, measured for each batch, and the processing date on each container.", "src": [0, 1]},
+        {"text": "State-regulated milk products and meat or poultry products cannot be sold as cottage foods. DIAL says the only food establishments where cottage foods can be sold are temporary food establishments run by the producer.", "src": [1, 2]}
+      ],
+      "sources": [
+        {"agency": "Iowa Legislature", "title": "Iowa Code chapter 137F, Food Establishments and Food Processing Plants (2026)", "url": "https://www.legis.iowa.gov/docs/code/137F.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Iowa Department of Inspections, Appeals, and Licensing", "title": "Cottage Food Law", "url": "https://dial.iowa.gov/licenses/food-establishments-hotels/cottage-food-law", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Iowa Department of Inspections, Appeals, and Licensing", "title": "Food Establishments & Hotels", "url": "https://dial.iowa.gov/licenses/food-establishments-hotels", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "DIAL's food service establishment license covers restaurants, catering operations and commissaries, as well as businesses that prepare food in individual portions or sell food meant for preparation or consumption off the premises.", "src": [0]},
+        {"text": "The license requires a plan review before approval. Applications are due at least 30 days before opening, and the yearly fee runs from $150 to $400 based on gross sales.", "src": [0]},
+        {"text": "DIAL licenses and inspects food establishments in 68 counties and contracts with 10 local health departments for the other 31 counties. DIAL regulates food processing plants statewide.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Iowa Department of Inspections, Appeals, and Licensing", "title": "Food Service Establishments", "url": "https://dial.iowa.gov/licenses/food-establishments-hotels/food-service-establishments", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Iowa Department of Inspections, Appeals, and Licensing", "title": "Food Inspection Jurisdictions", "url": "https://dial.iowa.gov/licenses/food-establishments-hotels/food-inspection-jurisdictions", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Iowa applies the FDA Food Code's certified food protection manager (CFPM) rule with state changes: one CFPM with supervisory authority may cover an establishment without being present at all hours, and newly licensed establishments have six months to comply.", "src": [0]},
+        {"text": "Temporary and farmers market food establishments, and places that don't prepare food and only serve items such as beverages, prepackaged snacks or reheated commercially prepared foods, do not need a CFPM.", "src": [0]},
+        {"text": "Home food processing establishments need a person in charge who has attended a food safety training course approved by DIAL.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Iowa Legislature", "title": "Iowa Administrative Code 481—Chapter 31, Food Establishment and Food Processing Plant Inspections", "url": "https://www.legis.iowa.gov/docs/iac/chapter/481.31.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2026-03-11", "read": "fetched"},
+        {"agency": "Iowa Legislature", "title": "Iowa Administrative Code 481—Chapter 34, Home Food Processing Establishments", "url": "https://www.legis.iowa.gov/docs/iac/chapter/481.34.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2024-05-22", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "An Iowa LLC is formed by delivering a certificate of organization to the Secretary of State that lists the company's name, principal office address, and registered agent in Iowa.", "src": [0]},
+        {"text": "Most food and food ingredients are exempt from Iowa sales tax, but prepared food is taxable, including food heated by the seller, two or more ingredients combined by the seller as one item, or food sold with utensils.", "src": [1]},
+        {"text": "The Iowa Department of Revenue says meals prepared by a retailer and stored in a cooler are taxable, and that all sales of catered food are taxable.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Iowa Legislature", "title": "Iowa Code § 489.201, Formation of limited liability company — certificate of organization (2026)", "url": "https://www.legis.iowa.gov/docs/code/489.201.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Iowa Department of Revenue", "title": "Iowa Sales Tax on Food", "url": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/iowa-sales-tax-food", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "DIAL licenses and inspects food businesses in 68 Iowa counties and contracts with 10 local health departments for the other 31; its jurisdictions page lists which agency covers each county.",
+    "source": {"agency": "Iowa Department of Inspections, Appeals, and Licensing", "title": "Food Inspection Jurisdictions", "url": "https://dial.iowa.gov/licenses/food-establishments-hotels/food-inspection-jurisdictions", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

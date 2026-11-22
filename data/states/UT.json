@@ -1,0 +1,253 @@
+{
+  "state": "Utah",
+  "abbr": "UT",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Utah law provides for microenterprise home kitchens, which need a permit from the local health department and may sell perishable meals only directly to consumers. The Home Consumption and Homemade Food Act also exempts homemade food sold directly to informed consumers, but it excludes meat products and raw dairy.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "A microenterprise home kitchen needs a permit from the local health department where it is located. The health department inspects the kitchen, charges a fee to cover its costs, and issues a permit renewed each year and limited to the location and hours listed.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Permit holders must prepare, cook and serve time and temperature controlled food on the same day, or within 72 hours if they keep temperature logs and date-mark the food. Food may not be eaten on site.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A microenterprise home kitchen may provide food only directly to consumers, not to wholesalers or retailers, may not use processes that need a HACCP plan, sell raw milk or serve molluscan shellfish, and must tell customers the kitchen may not meet all commercial requirements.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Applicants give the local health department written consent to enter the premises and written procedures covering the foods, preparation methods, cleaning, waste disposal and temperature control.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Separately, the Home Consumption and Homemade Food Act exempts homemade food from state and local licensing and inspection when it is made and sold in Utah directly to an informed final consumer for home consumption. It does not cover raw dairy or meat products, apart from limited poultry and rabbit exceptions.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "The Department of Agriculture and Food says food sold under the act must be sold in person at an agreed location, cannot be sold to stores or restaurants, and needs a not-for-resale disclaimer and allergen list; the producer must hold a business license.",
+          "src": [
+            3,
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Utah State Legislature",
+          "title": "Utah Code 26B-7-416, Microenterprise home kitchen permits",
+          "url": "https://le.utah.gov/xcode/Title26B/Chapter7/C26B-7-S416_2025050720250507.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-05-07",
+          "read": "fetched"
+        },
+        {
+          "agency": "Utah State Legislature",
+          "title": "Utah Code 4-5a-104, Home producer direct sales -- Exempt from regulation",
+          "url": "https://le.utah.gov/xcode/Title4/Chapter5A/C4-5a-S104_2026050620260506.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-05-06",
+          "read": "fetched"
+        },
+        {
+          "agency": "Utah State Legislature",
+          "title": "Utah Code 4-5a-105, Limitations (Home Consumption and Homemade Food Act)",
+          "url": "https://le.utah.gov/xcode/Title4/Chapter5A/C4-5a-S105_2018050820180508.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2018-05-08",
+          "read": "fetched"
+        },
+        {
+          "agency": "Utah Department of Agriculture and Food",
+          "title": "Home Consumption and Homemade Food Act",
+          "url": "https://ag.utah.gov/regulatory-services/home-consumption-and-homemade-food-act/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "The Department of Agriculture and Food's Cottage Food program covers shelf-stable, non-potentially hazardous foods made at home by a person with a valid food handler permit, after the department inspects and registers the kitchen.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Allowed foods include certain baked goods, hard candies, jams and jellies, granola, nuts and popcorn. Foods that need time or temperature control for safety, including products containing meat or poultry, are not allowed.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Cottage food products may be sold only within Utah, directly to consumers or to stores for resale. Labels must list the food's name, ingredients, net quantity, allergens, business name and contact information, and the words Home Produced.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Utah Department of Agriculture and Food",
+          "title": "Cottage Food Production",
+          "url": "https://ag.utah.gov/regulatory-services/cottage-food-production/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Food establishments that mainly serve food for immediate consumption, such as restaurants, fall under the local health department. The Department of Agriculture and Food regulates retail food establishments such as grocery stores and bakeries, and wholesale operations fall under its manufactured food program.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "For retail food establishments it regulates, the department requires a plan review application at least 30 days before operating, followed by a pre-operational inspection and registration.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Utah Department of Agriculture and Food",
+          "title": "Retail Food",
+          "url": "https://ag.utah.gov/regulatory-services/retail-food-regulatory-program/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Utah's food service sanitation rule requires at least one employee with supervisory and management responsibility to be a certified food safety manager.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A certified food safety manager submits proof of passing an approved exam to the local health department and renews the certification every five years.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Food handlers at food service establishments must complete an approved training program within 14 days of starting work and get a food handler permit from a local health department within 30 days; the permit is valid statewide for three years.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Utah Department of Health and Human Services",
+          "title": "Utah Administrative Code R392-100, Food Service Sanitation",
+          "url": "https://adminrules.utah.gov/Rule/917",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-06-11",
+          "read": "fetched"
+        },
+        {
+          "agency": "Utah State Legislature",
+          "title": "Utah Code 26B-7-412, Certified food safety manager",
+          "url": "https://le.utah.gov/xcode/Title26B/Chapter7/C26B-7-S412_2026050620260506.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-05-06",
+          "read": "fetched"
+        },
+        {
+          "agency": "Utah State Legislature",
+          "title": "Utah Code 26B-7-413, Requirements for food handlers",
+          "url": "https://le.utah.gov/xcode/Title26B/Chapter7/C26B-7-S413_2023050320230503.html",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2023-05-03",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Businesses register their entity type with the Division of Corporations and Commercial Code through its online business registration system; the division also publishes a checklist of other state agencies to contact.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Grocery food is taxed at a 3 percent statewide rate, but prepared food, including food heated by the seller, two or more ingredients mixed or combined by the seller, or food sold with utensils, is taxed at the full combined rate.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Utah Division of Corporations and Commercial Code",
+          "title": "How to Register a Business",
+          "url": "https://commerce.utah.gov/corporations/faqs/how-to-register-a-business/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Utah State Tax Commission",
+          "title": "Grocery Food Sales & Use Tax",
+          "url": "https://tax.utah.gov/business/sales-tax/other-sales-tax/food-rate/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Utah has 13 local health districts. Restaurants and microenterprise home kitchens are permitted by the local health department for the area, and the state lists each district and the counties it serves.",
+    "source": {
+      "agency": "Utah Department of Health and Human Services",
+      "title": "Local Health Districts (IBIS-PH)",
+      "url": "https://ibis.utah.gov/ibisph-view/about/LocalHealth.html",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": "2022-01",
+      "read": "fetched"
+    }
+  }
+}

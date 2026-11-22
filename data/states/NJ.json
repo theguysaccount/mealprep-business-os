@@ -1,0 +1,75 @@
+{
+  "state": "New Jersey",
+  "abbr": "NJ",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "New Jersey's Cottage Food Operator Permit covers only foods that do not need time or temperature control for safety. The state health department lists meal prep among businesses handled by the local health department, which issues retail food licenses.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "New Jersey's rule (N.J.A.C. 8:24-11.1) says anyone producing or selling food to consumers must either hold a Cottage Food Operator Permit or comply with the laws for retail food establishments.", "src": [0]},
+        {"text": "Cottage food products are defined as foods that do not need time or temperature control for safety, such as baked goods, candy, dried fruit and jams. The health department says it may investigate if it learns a cottage food operator is preparing food that needs time or temperature control at home.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "New Jersey Department of Health", "title": "Cottage Food Operator Rules", "url": "https://www.nj.gov/health/cottagefood/rules-resources/rules/index.shtml", "kind": "rule", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New Jersey Department of Health", "title": "Cottage Food: Frequently Asked Questions", "url": "https://www.nj.gov/health/cottagefood/rules-resources/faq/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "The permit comes from the Department of Health. Applicants send a product questionnaire for each product, a food protection manager certificate, proof of safe water and a $100 fee; review takes about 16 weeks and the permit lasts two years.", "src": [1]},
+        {"text": "The permit is only for New Jersey residents, and gross annual sales from cottage food products may not exceed $50,000.", "src": [0, 1]},
+        {"text": "Products may be handed over at the operator's home (not for eating there), the buyer's home, New Jersey farmers' markets and farm stands, or temporary events. Online orders and payments are allowed, but mail, common carriers, wholesale and retail food establishments are not.", "src": [0, 1]},
+        {"text": "Labels must list the common name, ingredients, major allergens, the operator's name, business name and permit number, the town and NJ, and: This food is prepared pursuant to N.J.A.C. 8:24-11 in a home kitchen that has not been inspected by the Department of Health.", "src": [0, 1]},
+        {"text": "Home kitchens are not inspected by the Department of Health. Cottage food operators need a temporary food permit from the local authority to sell at events such as street fairs and farmers' markets.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "New Jersey Department of Health", "title": "Cottage Food Operator Rules", "url": "https://www.nj.gov/health/cottagefood/rules-resources/rules/index.shtml", "kind": "rule", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New Jersey Department of Health", "title": "Cottage Food: Frequently Asked Questions", "url": "https://www.nj.gov/health/cottagefood/rules-resources/faq/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "The Department of Health's retail food page names the local health department as the contact for restaurants, temporary food events, food trucks, meal prep and shipping food by mail or courier.", "src": [0]},
+        {"text": "The cottage food FAQ says that to mail products to customers, a business must use a commercial kitchen and obtain a retail food license from the local health department.", "src": [1]},
+        {"text": "Under N.J.A.C. 8:24-9.1, plans and specifications go to the health authority for approval before a retail food establishment is built, an existing structure is converted, or a remodel or change of operation requires it. Plans include the intended menu, expected volume and proposed layout.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "New Jersey Department of Health", "title": "Retail Food", "url": "https://www.nj.gov/health/ceohs/phfpp/retailfood", "kind": "agency", "checked": "2026-11-22", "updated": "2026-09-16", "read": "fetched"},
+        {"agency": "New Jersey Department of Health", "title": "Cottage Food: Frequently Asked Questions", "url": "https://www.nj.gov/health/cottagefood/rules-resources/faq/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New Jersey Department of Health", "title": "Chapter 24 (N.J.A.C. 8:24): Sanitation in Retail Food Establishments, Food and Beverage Vending Machines and Cottage Food Operations", "url": "https://www.nj.gov/health/ceohs/documents/phfpp/Chapter%2024%20w%20Cottage%20Food%20Rules%201-18-22.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2022-01-03", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "New Jersey's retail food rule requires at least one person in charge at a Risk Type 3 establishment to be a certified food protection manager. Risk Type 3 covers extensive menus with complex preparation, including cooking, cooling and reheating at least three potentially hazardous foods.", "src": [0]},
+        {"text": "Cottage food operators must hold a food protection manager certification, not a food handler card, and send the certificate with each application and renewal.", "src": [1]},
+        {"text": "The Department of Health accepts food protection manager certificates only from New Jersey accredited organizations and lists them on its retail food page; it does not offer the courses itself.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "New Jersey Department of Health", "title": "Chapter 24 (N.J.A.C. 8:24): Sanitation in Retail Food Establishments, Food and Beverage Vending Machines and Cottage Food Operations", "url": "https://www.nj.gov/health/ceohs/documents/phfpp/Chapter%2024%20w%20Cottage%20Food%20Rules%201-18-22.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2022-01-03", "read": "fetched"},
+        {"agency": "New Jersey Department of Health", "title": "Cottage Food: Frequently Asked Questions", "url": "https://www.nj.gov/health/cottagefood/rules-resources/faq/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New Jersey Department of Health", "title": "Retail Food", "url": "https://www.nj.gov/health/ceohs/phfpp/retailfood", "kind": "agency", "checked": "2026-11-22", "updated": "2026-09-16", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Corporations, LLCs, LLPs and limited partnerships file a certificate of formation with the Division of Revenue and Enterprise Services ($100 for for-profit entities) and then the NJ-REG tax and employer registration. Sole proprietors and general partnerships file the NJ-REG.", "src": [0]},
+        {"text": "The Division of Taxation says prepared food sold by restaurants is subject to New Jersey sales tax whether it is eaten in or taken out, and caterers and other businesses selling prepared food must collect the tax.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "New Jersey Division of Revenue and Enterprise Services", "title": "Getting Registered", "url": "https://www.nj.gov/treasury/revenue/gettingregistered.shtml", "kind": "agency", "checked": "2026-11-22", "updated": "2026-07-01", "read": "fetched"},
+        {"agency": "New Jersey Division of Taxation", "title": "Restaurants and New Jersey Taxes (Tax Topic Bulletin S&U-1)", "url": "https://nj.gov/treasury/taxation/pdf/pubs/sales/su1.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2023-03", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "New Jersey's 564 municipalities rely on a network of 103 local health departments, some covering one municipality and others several or a whole county. The state health department's map and directory list each one with its contact information.",
+    "source": {"agency": "New Jersey Department of Health", "title": "Local Public Health: For The Community", "url": "https://www.nj.gov/health/lh/community/index.shtml", "kind": "agency", "checked": "2026-11-22", "updated": "2026-05-26", "read": "fetched"}
+  }
+}

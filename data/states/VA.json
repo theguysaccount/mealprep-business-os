@@ -1,0 +1,260 @@
+{
+  "state": "Virginia",
+  "abbr": "VA",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Virginia's home food exemption covers only foods that don't need time or temperature control after preparation, so perishable meals fall outside it. The state agriculture department says products outside the exemption need a permit from its Food Safety Program.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Virginia's home food processing exemption applies only to listed low-risk foods that do not require time or temperature control after preparation, plus acidified vegetables and honey. Perishable prepared meals are not among them.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "VDACS says manufactured food establishments, including home food processing operations, must be inspected, hold a permit and pay a $40 annual inspection fee unless they qualify for an exemption.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "For products not listed in the exemption, VDACS says the producer needs to apply for a permit from its Food Safety Program.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "A 2026 law (HB 402) directed VDACS to convene a work group on structural, equipment and facility standards for private homes producing foods that do not meet the cottage food exemptions, with meetings to finish by November 1, 2026.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Virginia General Assembly",
+          "title": "Code of Virginia § 3.2-5130, Inspections required to operate food establishment",
+          "url": "https://law.lis.virginia.gov/vacode/title3.2/chapter51/section3.2-5130/",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Virginia Department of Agriculture and Consumer Services",
+          "title": "Virginia's Home Food Processing Exemptions: Frequently Asked Questions",
+          "url": "https://www.vdacs.virginia.gov/pdf/homefoodexemptionsfaq.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-07",
+          "read": "fetched"
+        },
+        {
+          "agency": "Virginia Division of Legislative Services",
+          "title": "2026 Session Summary",
+          "url": "https://dls.virginia.gov/pubs/summary/2026/summary2026.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Exempt home-made foods include candies, jams and jellies that are not low-acid, dried fruits and herbs, dry mixes, nuts, popcorn, roasted coffee, dried tea, cereals, granola and baked goods that do not need time or temperature control.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Since a 2026 amendment, exempt products may be sold to individuals in Virginia at any location, online or by phone, and delivered in person, by mail or by delivery service, for the buyer's own consumption.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Exempt products cannot be sold for resale, on consignment, to other businesses, for use in retail food establishments, or across state lines.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Labels must show the preparer's name, address or post office box, and phone number, the date the food was processed, and a statement that it is not for resale and was prepared without state inspection.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Home-made pickles and other acidified vegetables with an equilibrium pH of 4.6 or lower are also exempt, up to $9,000 in gross sales a year.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Exempt home operations do not need a VDACS inspection, permit or annual fee, but the department may inspect after a consumer complaint.",
+          "src": [
+            0,
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Virginia General Assembly",
+          "title": "Code of Virginia § 3.2-5130, Inspections required to operate food establishment",
+          "url": "https://law.lis.virginia.gov/vacode/title3.2/chapter51/section3.2-5130/",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Virginia Department of Agriculture and Consumer Services",
+          "title": "Virginia's Home Food Processing Exemptions: Frequently Asked Questions",
+          "url": "https://www.vdacs.virginia.gov/pdf/homefoodexemptionsfaq.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-07",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "The Virginia Department of Health inspects restaurants, including any place where food is served to the public on or off premises, while VDACS inspects establishments that manufacture or sell food; agreements between the two divide overlapping work.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Before opening a new foodservice facility, the operator applies for plan review with a $40 fee at the local health department, then submits a foodservice permit application with a $40 fee at least 30 days before opening.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Plan review materials include floor plans drawn to scale, an equipment list with specification sheets, the proposed menu and certified food protection manager credentials.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The local health department inspects the facility, and the food establishment permit is issued when the facility is complete and the inspection shows compliance with the state food regulations.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Virginia Department of Health",
+          "title": "VDH and VDACS Partnership and MOU Agreements",
+          "url": "https://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia/vdh-and-vdacs/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-04-20",
+          "read": "fetched"
+        },
+        {
+          "agency": "Virginia Department of Health",
+          "title": "Applying for a Food Permit",
+          "url": "https://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia/foodapplication/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-11-10",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Virginia food establishments, including temporary ones, must have at least one employee with supervisory and management responsibility who is a certified food protection manager, unless they meet an exemption in the regulations or state code.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "VDH recognizes manager certification programs accredited through the Conference for Food Protection, and a certified manager acting as person in charge also meets the demonstration of knowledge requirement.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Virginia Department of Health",
+          "title": "Certified Food Protection Manager (CFPM) Certification",
+          "url": "https://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia/food-operators/cfpm/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-04-17",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Business entities register with the State Corporation Commission, whose Clerk's Information System is the state's online system for registering and managing a business.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Virginia taxes food for home consumption, including cold prepared foods packaged for home consumption, at a reduced 1% rate. Prepared hot foods do not qualify, and vendors such as caterers are presumed to sell food for immediate consumption and cannot use the reduced rate.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Virginia State Corporation Commission",
+          "title": "Business Home",
+          "url": "https://www.scc.virginia.gov/businesses/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Virginia Department of Taxation",
+          "title": "Grocery Tax",
+          "url": "https://www.tax.virginia.gov/grocery-tax",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food establishment permits are issued by the local health department, part of the Virginia Department of Health, for each locality. VDH lists its local health districts and the localities each serves.",
+    "source": {
+      "agency": "Virginia Department of Health",
+      "title": "Local Health Districts",
+      "url": "https://www.vdh.virginia.gov/local-health-districts/",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": "2026-03-31",
+      "read": "fetched"
+    }
+  }
+}

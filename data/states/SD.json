@@ -1,0 +1,73 @@
+{
+  "state": "South Dakota",
+  "abbr": "SD",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "South Dakota lets people sell some foods made at home without a license, including certain refrigerated baked goods, sauces and fermented foods after food safety training, but prepared meals are not among the foods the law lists. Food service establishments need a license from the state Department of Health.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "South Dakota's food licensing law does not apply to people selling non-temperature-controlled food prepared at a residence, home-processed canned goods, baked goods prepared at a residence, or other home foods the law specifically authorizes.", "src": [0]},
+        {"text": "Producers who complete approved food safety training may also sell non-heat-processed fermented foods, kuchen and baked goods needing temperature control such as cheesecake and cream pies, and sauces and pesto kept at or below 41°F, plus frozen fruit and produce kept at or below 0°F.", "src": [1]},
+        {"text": "The law's list of authorized home foods does not include prepared meals.", "src": [0, 1]}
+      ],
+      "sources": [
+        {"agency": "South Dakota Legislature", "title": "SDCL 34-18-35 Sale of homemade foods and food products", "url": "https://sdlegislature.gov/api/Statutes/34-18-35.html", "kind": "statute", "checked": "2026-11-22", "updated": "2022", "read": "fetched"},
+        {"agency": "South Dakota Legislature", "title": "SDCL 34-18-36.1 Food safety training - Authorized sales", "url": "https://sdlegislature.gov/api/Statutes/34-18-36.1.html", "kind": "statute", "checked": "2026-11-22", "updated": "2022", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "To be exempt from licensing, the food must be sold in the seller's physical presence at the seller's primary residence, a farmers market, a roadside stand or another temporary sale venue, and the seller or a household member must personally deliver it at the sale.", "src": [0]},
+        {"text": "Labels must show the product name, producer's name, physical and mailing addresses, phone number, date made, ingredients, a keep refrigerated or frozen directive where required, and a disclaimer that the product was home-processed rather than made in a commercial kitchen.", "src": [1]},
+        {"text": "Canned goods must have a pH of 4.6 or less or a water activity of .85 or less. Sellers either complete department-approved online food safety training every five years or keep a processing authority's written verification of each recipe.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "South Dakota Legislature", "title": "SDCL 34-18-38 Exemption from licensure - Requirements", "url": "https://sdlegislature.gov/api/Statutes/34-18-38.html", "kind": "statute", "checked": "2026-11-22", "updated": "2022", "read": "fetched"},
+        {"agency": "South Dakota Legislature", "title": "SDCL 34-18-37 Label requirements", "url": "https://sdlegislature.gov/api/Statutes/34-18-37.html", "kind": "statute", "checked": "2026-11-22", "updated": "2022", "read": "fetched"},
+        {"agency": "South Dakota Legislature", "title": "SDCL 34-18-36 Canned goods - Requirements", "url": "https://sdlegislature.gov/api/Statutes/34-18-36.html", "kind": "statute", "checked": "2026-11-22", "updated": "2022", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "State law makes it a misdemeanor to operate a food service establishment without a valid license issued by the Department of Health.", "src": [0]},
+        {"text": "The department's licensing steps are an online application and fee, a plan review questionnaire sent to the regional advisor, a state on-site inspection, and approval before the license is issued. Catering businesses and bakeries go through the same process.", "src": [1]},
+        {"text": "Thirty days before construction starts, a detailed floor plan of the food service kitchen goes to the regional advisor. Plans for facilities over 4,000 square feet must be stamped by an engineer or architect.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "South Dakota Legislature", "title": "SDCL 34-18-9 License required to operate lodging or food service establishment or campground", "url": "https://sdlegislature.gov/api/Statutes/34-18-9.html", "kind": "statute", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Dakota Department of Health", "title": "Food Service Licensure and Codes", "url": "https://doh.sd.gov/topics/food-lodging-safety/licensure-codes/food-service/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Dakota Department of Health", "title": "Construction Requirements for Establishments", "url": "https://doh.sd.gov/topics/food-lodging-safety/licensure-codes/construction-requirements-for-establishments/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "State rules (ARSD 44:02:07:03) require at least one person on a food service establishment's staff to have passed an 8-hour food service training and certification program.", "src": [0]},
+        {"text": "The Department of Health says the certified food service manager requirement must be met before the on-site licensing inspection.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "South Dakota Department of Health", "title": "Food Service Manager Training", "url": "https://doh.sd.gov/topics/food-lodging-safety/licensure-codes/food-service-manager-training/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Dakota Department of Health", "title": "Food Service Licensure and Codes", "url": "https://doh.sd.gov/topics/food-lodging-safety/licensure-codes/food-service/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Business entities register with the Secretary of State online, or create the forms online and mail them in with an added $15 paper processing fee.", "src": [0]},
+        {"text": "The state sales tax rate is 4.2%. Cities may add a municipal sales tax and a gross receipts tax on prepared food for immediate consumption, but the Department of Revenue says meals that require heating or baking are not subject to that gross receipts tax.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "South Dakota Secretary of State", "title": "Start a New Business - Registration Instructions", "url": "https://sosenterprise.sd.gov/BusinessServices/Business/RegistrationInstr.aspx", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "South Dakota Department of Revenue", "title": "Prepared Food (Municipal Gross Receipts Tax tax fact)", "url": "https://dor.sd.gov/media/rpogdnlm/prepared-food.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2026-01", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "The South Dakota Department of Health lists its regional food and lodging advisors for the Southeast, Northeast, Northwest and Southwest regions, along with the City of Sioux Falls Health Department.",
+    "source": {"agency": "South Dakota Department of Health", "title": "Food & Lodging Safety Advisor Regions", "url": "https://doh.sd.gov/topics/food-lodging-safety/advisor-regions/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

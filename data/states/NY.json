@@ -1,0 +1,72 @@
+{
+  "state": "New York",
+  "abbr": "NY",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "New York's home processor exemption covers only listed foods that are not potentially hazardous, and the Department of Agriculture and Markets says any finished product that requires refrigeration is prohibited. Other food businesses need an Agriculture and Markets license or a local health department permit, depending on the type of business.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "New York's home processor exemption from licensing (1 NYCRR 276.4) is limited to an approved list of non-potentially hazardous foods, and Agriculture and Markets says any finished food product that requires refrigeration may not be made as a home processor.", "src": [0]},
+        {"text": "The exemption is not available to anyone holding a Department of Health permit or an Agriculture and Markets license; once a license or permit is held, all foods offered for sale must be made at the licensed or permitted facility.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "New York State Department of Agriculture and Markets", "title": "Home Processing", "url": "https://agriculture.ny.gov/food-safety/home-processing", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Home processors register with Agriculture and Markets; there is currently no fee. Registration is tied to one location, so moving or adding products means a new registration request.", "src": [0]},
+        {"text": "Approved foods include certain breads, cookies and cakes (no whipped cream, buttercream or cream cheese frostings), double-crust high-acid fruit pies, high-acid fruit jams and jellies, fudge, hard candies and caramels, granola and dry mixes.", "src": [0]},
+        {"text": "Home processed foods may be sold online and wholesale to local restaurants, cafes and grocery stores, but only within New York State; shipping out of state is not permitted.", "src": [0]},
+        {"text": "Kitchens are inspected only when there is a complaint. Labels must include the home street address or PO box, and homes on private wells must submit water test results.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "New York State Department of Agriculture and Markets", "title": "Home Processing", "url": "https://agriculture.ny.gov/food-safety/home-processing", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "New York splits food oversight: Agriculture and Markets licenses food processors under Article 20-C, including frozen and convenience food manufacturing, while local health departments issue health permits for restaurants, take-out, catering kitchens and other food service establishments.", "src": [0]},
+        {"text": "An Article 20-C Food Processing Establishment license covers operations that cook, reheat or freeze food, repack ready-to-eat foods, or mix ready-to-eat dishes such as pasta dishes. Agriculture and Markets says catering businesses are regulated by the Department of Health, and restaurants and cafes contact the local health department.", "src": [1]},
+        {"text": "In a shared-use kitchen, both the kitchen's owner and each business renting it must hold an Article 20-C license, and all processing and packaging must happen inside the licensed kitchen.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "New York State Department of Agriculture and Markets", "title": "Business Guide to Food Inspection Jurisdiction by New York State Agency", "url": "https://agriculture.ny.gov/food-safety/business-guide-food-inspection-jurisdiction-new-york-state-agency", "kind": "agency", "checked": "2026-11-22", "updated": "2025-03", "read": "fetched"},
+        {"agency": "New York State Department of Agriculture and Markets", "title": "Food Business Licensing", "url": "https://agriculture.ny.gov/food-business-licensing", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New York State Department of Agriculture and Markets", "title": "Guidance for Shared Use Kitchens", "url": "https://agriculture.ny.gov/food-safety/guidance-shared-use-kitchens", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Home processors must complete an approved food handler training course and Agriculture and Markets' Basic Sanitation Practices training, and send the training certificate with the registration request.", "src": [0]},
+        {"text": "Agriculture and Markets' shared-use kitchen guidance says operators keep needed certificates on file, such as a Preventive Controls Qualified Individual certificate, unless they meet federal rules for a qualified facility.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "New York State Department of Agriculture and Markets", "title": "Home Processing", "url": "https://agriculture.ny.gov/food-safety/home-processing", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New York State Department of Agriculture and Markets", "title": "Guidance for Shared Use Kitchens", "url": "https://agriculture.ny.gov/food-safety/guidance-shared-use-kitchens", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "The Department of State's Division of Corporations handles the filings that form corporations, limited liability companies and limited partnerships in New York.", "src": [0]},
+        {"text": "Anyone who sells taxable goods or services, even from home, must register with the Tax Department through New York Business Express for a sales tax Certificate of Authority before beginning business.", "src": [1]},
+        {"text": "The Tax Department's sales tax guide says food sold for human consumption is generally exempt, but sandwiches, heated food, and food and drink sold by restaurants for on-premises consumption or by caterers are taxable.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "New York Department of State", "title": "Form a Corporation or Business", "url": "https://dos.ny.gov/form-corporation-or-business", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New York State Department of Taxation and Finance", "title": "Register as a sales tax vendor", "url": "https://www.tax.ny.gov/bus/st/register.htm", "kind": "agency", "checked": "2026-11-22", "updated": "2025-07-25", "read": "fetched"},
+        {"agency": "New York State Department of Taxation and Finance", "title": "Publication 750: A Guide to Sales Tax in New York State", "url": "https://www.tax.ny.gov/pdf/publications/sales/pub750.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2015-11", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "In New York, local health departments issue health permits for restaurants, catering kitchens and other food service establishments, while Agriculture and Markets licenses food processors. Its jurisdiction guide shows which agency covers which type of food business.",
+    "source": {"agency": "New York State Department of Agriculture and Markets", "title": "Business Guide to Food Inspection Jurisdiction by New York State Agency", "url": "https://agriculture.ny.gov/food-safety/business-guide-food-inspection-jurisdiction-new-york-state-agency", "kind": "agency", "checked": "2026-11-22", "updated": "2025-03", "read": "fetched"}
+  }
+}

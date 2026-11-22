@@ -1,0 +1,284 @@
+{
+  "state": "Maryland",
+  "abbr": "MD",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Maryland's cottage food law covers only non-potentially hazardous foods, such as many baked goods, high-acid jams and candy. The Department of Health says foods that need temperature control require a food license from the local health department, so perishable prepared meals fall outside the cottage food rules.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "State law defines a cottage food product as a nonhazardous food, as set by health department rules, made in a residential kitchen and sold in Maryland directly to consumers or to retail food stores.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Department of Health's cottage food guidelines list meat, poultry, fish, dairy products, low-acid canned foods and baked goods that need refrigeration among the foods not allowed. They say foods requiring temperature control need a food license from the local health department.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "For foods not allowed as cottage foods, the guidelines say the business needs a commercial kitchen and a retail food license from the local health department, or a state food processing license for mostly wholesale sales.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maryland General Assembly",
+          "title": "Chapter 320 of 2026 (House Bill 535): Food Establishments – Cottage Food Businesses – Maximum Annual Revenue",
+          "url": "https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_320_hb0535t.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-10-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maryland Department of Health, Office of Food Protection",
+          "title": "Guidelines for Cottage Food Businesses",
+          "url": "https://health.maryland.gov/phpa/OEHFP/OFPCHS/Documents/Updated_CF_Guidelines_2025.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2025-11",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "A cottage food business may have annual revenue from cottage food sales of up to $100,000 under Chapter 320 of 2026, effective October 1, 2026. The limit was $50,000 before that date.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Allowed foods include breads, cookies, cakes and cupcakes, pies and tarts made from high-acid fruits, hot-filled fruit jams, jellies and fruit butters, and non-potentially hazardous candy. A lab test can show that other foods are shelf-stable.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Products are sold only in Maryland, directly to consumers from a residence, at farmers markets, bake sales and public events, by personal delivery or by mail, or to retail food stores. The guidelines say sales outside Maryland are prohibited.",
+          "src": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "text": "Products must be prepackaged and labeled with the business name and address or state ID number, product name, ingredients, net weight, allergens and the statement \"Made by a cottage food business that is not subject to Maryland's food safety regulations\" in 10-point type.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "Cottage food businesses are not licensed but must follow county and municipal laws. Before selling to a retail store, the owner sends the label and proof of an approved food safety course to the Department of Health and waits for written approval.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "The guidelines say owners of agriculturally zoned farms may produce some products not allowed as cottage foods under an on-farm home processing license.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maryland General Assembly",
+          "title": "Chapter 320 of 2026 (House Bill 535): Food Establishments – Cottage Food Businesses – Maximum Annual Revenue",
+          "url": "https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_320_hb0535t.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2026-10-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maryland Department of Health, Office of Food Protection",
+          "title": "Guidelines for Cottage Food Businesses",
+          "url": "https://health.maryland.gov/phpa/OEHFP/OFPCHS/Documents/Updated_CF_Guidelines_2025.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2025-11",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maryland Department of Health (Code of Maryland Regulations)",
+          "title": "COMAR 10.15.03.27 Farmer's Market, Bake Sales, and Cottage Food Business",
+          "url": "https://regs.maryland.gov/us/md/exec/comar/10.15.03.27",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Maryland's food service rules say a person must obtain a food service facility license before operating a food service facility. Licenses are issued by the approving authority, which is the Secretary of Health or the Secretary's designee.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Department of Health's Office of Food Protection reviews plans for food processing plants and chain prototypes, and directs restaurant and retail food questions to local health department food programs.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Plans and specifications must be approved before a food establishment is built, remodeled or materially altered. They include a scale drawing, equipment locations, the menu and the food systems used, such as cook-cool-reheat.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "Each new facility is classified as high, moderate or low priority, and high and moderate priority facilities must submit a HACCP plan to the approving authority.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maryland Department of Health (Code of Maryland Regulations)",
+          "title": "COMAR 10.15.03.28 Licenses",
+          "url": "https://regs.maryland.gov/us/md/exec/comar/10.15.03.28",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Maryland Department of Health, Office of Food Protection",
+          "title": "Office of Food Protection",
+          "url": "https://health.maryland.gov/phpa/OEHFP/OFPCHS/Pages/Home.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-05-28",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maryland Department of Health (Code of Maryland Regulations)",
+          "title": "COMAR 10.15.03.33 Plan Review",
+          "url": "https://regs.maryland.gov/us/md/exec/comar/10.15.03.33",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "The Department of Health notes that some retail food service facilities in certain local jurisdictions may require a certified food manager or similar food safety training and certification, and points businesses to their local health department's food program.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A cottage food business that sells to retail stores must show it completed, within the past 3 years, a food safety course approved by the Department and the American National Standards Institute.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maryland Department of Health, Office of Food Protection",
+          "title": "Contact Your Local Health Department's Food Program",
+          "url": "https://health.maryland.gov/phpa/OEHFP/OFPCHS/Pages/LHD-Food-Contact.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2021-11-04",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maryland Department of Health (Code of Maryland Regulations)",
+          "title": "COMAR 10.15.03.27 Farmer's Market, Bake Sales, and Cottage Food Business",
+          "url": "https://regs.maryland.gov/us/md/exec/comar/10.15.03.27",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Business entities register with the Maryland Department of Assessments and Taxation, which takes nearly all charter filings online through Maryland Business Express. Entities file annual reports with the department each year.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Maryland's sales and use tax rate is 6 cents on each dollar of taxable price, which is 6 percent.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The sales tax exemption for food sold for consumption off the premises applies only to vendors running a substantial grocery or market business at that location, and never to food for immediate consumption such as heated food, sandwiches or party platters.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Maryland Department of Assessments and Taxation",
+          "title": "Businesses in Maryland - Charter Business Services",
+          "url": "https://dat.maryland.gov/businesses/Pages/default.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Maryland General Assembly",
+          "title": "Tax-General Article §11-104 (sales and use tax rate)",
+          "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtg/11-104.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Maryland General Assembly",
+          "title": "Tax-General Article §11-206 (food exemptions)",
+          "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtg/11-206.pdf",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Maryland Department of Health links to the websites of the state's 24 local health departments (23 counties and Baltimore City), whose food programs license and inspect food service facilities.",
+    "source": {
+      "agency": "Maryland Department of Health",
+      "title": "Local Health Departments",
+      "url": "https://health.maryland.gov/Pages/departments.aspx",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

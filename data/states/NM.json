@@ -1,0 +1,75 @@
+{
+  "state": "New Mexico",
+  "abbr": "NM",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "New Mexico's Homemade Food Act covers only foods that do not need time and temperature control. The state Environment Department says foods that do need it must be produced in a permitted commercial kitchen.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "New Mexico's Homemade Food Act (2021) exempts homemade food items from the state's food permit laws only when the items do not need time and temperature control for safety.", "src": [0]},
+        {"text": "The Environment Department says foods that need time and temperature control may not be produced at a private farm, ranch or home and must be made in a permitted commercial kitchen. Its examples include meat, dairy, cut fruits and vegetables, and foods with fresh vegetables or cheeses.", "src": [1]},
+        {"text": "The department also says permitted food facilities may not use homemade foods as ingredients, and grocery stores may not buy or resell packaged homemade foods.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "New Mexico Legislature", "title": "House Bill 177 (2021): Homemade Food Act, final version", "url": "https://www.nmlegis.gov/Sessions/21%20Regular/final/HB0177.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2021", "read": "fetched"},
+        {"agency": "New Mexico Environment Department", "title": "Homemade Food Act FAQ", "url": "https://www.env.nm.gov/foodprogram/wp-content/uploads/sites/8/2025/06/Homemade-Food-Act-FAQ.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2021-08-16", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Since July 1, 2021, low-risk foods made at a private farm, ranch or residence can be sold directly to consumers without a permit from the Environment Department.", "src": [2]},
+        {"text": "Sales must be direct to consumers in New Mexico, for example at farmers' markets, festivals, roadside stands, online, for pickup or delivery from home, or by mail. Sales to restaurants, wholesalers or buyers outside New Mexico are not allowed.", "src": [0, 1]},
+        {"text": "The seller must complete an approved food handler course, keep a sanitary kitchen free of pests, keep pets and children out of the kitchen while producing food, and transport food in a sanitary way.", "src": [0, 1]},
+        {"text": "Labels, placards or web pages must give the processor's name, home address, phone and email, the food's name, its ingredients, and: This product is home produced and is exempt from state licensing and inspection. This product may contain allergens.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "New Mexico Legislature", "title": "House Bill 177 (2021): Homemade Food Act, final version", "url": "https://www.nmlegis.gov/Sessions/21%20Regular/final/HB0177.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2021", "read": "fetched"},
+        {"agency": "New Mexico Environment Department", "title": "Homemade Food Act FAQ", "url": "https://www.env.nm.gov/foodprogram/wp-content/uploads/sites/8/2025/06/Homemade-Food-Act-FAQ.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2021-08-16", "read": "fetched"},
+        {"agency": "New Mexico Environment Department", "title": "Homemade Food Act", "url": "https://www.env.nm.gov/foodprogram/homemade-food-act/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "The Environment Department's Food Safety Program issues permits to retail food establishments and food manufacturers. Preparing and serving food directly to customers needs a retail food permit, and selling food to other businesses needs a manufactured food permit.", "src": [0]},
+        {"text": "After completing the application, applicants contact the nearest Environment Department field office to submit it, set up an opening inspection and pay permit fees. The department does not have jurisdiction in Bernalillo County and Albuquerque, which run their own food safety programs.", "src": [0]},
+        {"text": "New Mexico's food rule (7.6.2 NMAC) adopts the 2017 FDA Food Code and requires plans and specifications at least 30 days before building, converting or remodeling a food establishment, or opening one without current plans on file.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "New Mexico Environment Department", "title": "Applying for a Food Permit", "url": "https://www.env.nm.gov/foodprogram/retail-food-application/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New Mexico State Records Center and Archives", "title": "7.6.2 NMAC: Food Service and Food Processing", "url": "https://www.srca.nm.gov/parts/title07/07.006.0002.html", "kind": "rule", "checked": "2026-11-22", "updated": "2018-12-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "The Environment Department says at least one employee with supervisory authority at each permitted food establishment must be a certified food protection manager, unless a variance is approved; this is not required for manufactured food facilities.", "src": [0]},
+        {"text": "Food handlers need a food handler card from an accredited program, with exemptions such as certified food protection managers, people who handle only foods that do not need time and temperature control, and occasional food employees.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "New Mexico Environment Department", "title": "Food Handler and Food Manager Training", "url": "https://www.env.nm.gov/foodprogram/food-handler-and-food-manager-training/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Anyone who engages in business in New Mexico must register with the Taxation and Revenue Department. The Homemade Food Act does not exempt sellers from business registration or tax law.", "src": [0, 1]},
+        {"text": "New Mexico's gross receipts tax is imposed on businesses. Businesses commonly pass it on to buyers, and when they do, it must be stated separately on the invoice.", "src": [2]},
+        {"text": "Business entity filings with the New Mexico Secretary of State are made online through the office's business filing portal; paper filings are no longer accepted.", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "New Mexico Taxation and Revenue Department", "title": "Who must register a business?", "url": "https://www.tax.newmexico.gov/businesses/who-must-register-a-business/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New Mexico Legislature", "title": "House Bill 177 (2021): Homemade Food Act, final version", "url": "https://www.nmlegis.gov/Sessions/21%20Regular/final/HB0177.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2021", "read": "fetched"},
+        {"agency": "New Mexico Taxation and Revenue Department", "title": "Gross Receipts Tax Overview", "url": "https://www.tax.newmexico.gov/businesses/gross-receipts-overview/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "New Mexico Secretary of State", "title": "Business Services", "url": "https://www.sos.nm.gov/business-services/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "The New Mexico Environment Department issues food permits through its field offices, except in Bernalillo County and Albuquerque, which run their own food safety programs. The department's permit page links to its field offices and to both local programs.",
+    "source": {"agency": "New Mexico Environment Department", "title": "Applying for a Food Permit", "url": "https://www.env.nm.gov/foodprogram/retail-food-application/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "state": "Montana",
+  "abbr": "MT",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Montana's Local Food Choice Act exempts homemade food, including perishable food, from licensing and inspection when it is sold directly to an informed consumer in Montana for home consumption. Homemade food sold this way may not contain meat, apart from poultry from a producer who raises and slaughters fewer than 1,000 birds a year.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Under the Montana Local Food Choice Act, state and local agencies may not require a license, permit, certification, labeling, testing or inspection for homemade food sold under the act. A producer under the act is not a retail food establishment or a cottage food operation.", "src": [0]},
+        {"text": "Sales must be directly between the producer and an informed end consumer, only for home consumption or a traditional community social event such as a farmers market or potluck, and only within Montana. Homemade means prepared in a private home.", "src": [0, 1]},
+        {"text": "The producer must tell the buyer that the food has not been licensed, permitted, certified, packaged, labeled or inspected under any official regulations.", "src": [0]},
+        {"text": "Meat processed by a licensed plant, the producer or anyone else may not be used in homemade food sold under the act. The Department of Livestock says this rules out products containing meat and chicken products such as store-bought stock, except poultry under the 1,000-bird exemption.", "src": [0, 2]},
+        {"text": "The state health department says homemade food under the act cannot be sold through restaurants or stores, roadside stands are not allowed, delivery is allowed when the sale was pre-arranged, and all preparation must happen in a private home kitchen.", "src": [3]},
+        {"text": "The state health department notes that a producer could face civil liability if people become ill from homemade food, whatever products are made.", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "Montana Legislature", "title": "MCA 50-49-203: Exemptions from regulations, transactions, information required, exceptions", "url": "https://mca.legmt.gov/bills/mca/title_0500/chapter_0490/part_0020/section_0030/0500-0490-0020-0030.html", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"},
+        {"agency": "Montana Legislature", "title": "MCA 50-49-202: Definitions (Montana Local Food Choice Act)", "url": "https://mca.legmt.gov/bills/mca/title_0500/chapter_0490/part_0020/section_0020/0500-0490-0020-0020.html", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"},
+        {"agency": "Montana Department of Livestock", "title": "Montana Local Food Choice Act (SB199) Guidance", "url": "https://liv.mt.gov/_docs/MI/SB199-MLFCA-MP-Guidance-Doc-rev-2026.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2026-09-01", "read": "fetched"},
+        {"agency": "Montana Department of Public Health and Human Services", "title": "Montana Local Food Choice Act Guidance", "url": "https://dphhs.mt.gov/assets/publichealth/FCS/CottageFood/MLFCAGuidanceDoc-FAQ10.1.23.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2023-10-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "A cottage food operation registers with the local health authority in the county where the operator lives, listing its products and giving a copy of each label, and pays a registration fee set by state rule.", "src": [0]},
+        {"text": "The state health department's cottage food FAQ (dated February 2018) lists a one-time $40 registration fee, with a new registration and fee when the operation moves or adds recipes and labels. Cottage food operations are not inspected unless there is a complaint or illness investigation.", "src": [1]},
+        {"text": "Only non-potentially hazardous foods that do not need refrigeration are allowed, so cream pies, freezer jams, fermented foods, dairy products and eggs are not cottage foods.", "src": [1]},
+        {"text": "Cottage foods are sold face to face, directly to the customer, from the home, a farmers market, bazaar or small venue. Online advertising and ordering are allowed, but shipping, couriers and sales to stores or restaurants are not.", "src": [1]},
+        {"text": "All cottage foods must be packaged and labeled, with label requirements set in state rule ARM 37.110.504.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Montana Legislature", "title": "MCA 50-50-117: Registration of cottage food operations, fee", "url": "https://mca.legmt.gov/bills/mca/title_0500/chapter_0500/part_0010/section_0170/0500-0500-0010-0170.html", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"},
+        {"agency": "Montana Department of Public Health and Human Services", "title": "Cottage Food Frequently Asked Questions", "url": "https://dphhs.mt.gov/assets/publichealth/FCS/CottageFood/cottagefoodfrequentlyaskedquestions2024.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2018-02", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "A retail food establishment in Montana must get an annual license from the state Department of Public Health and Human Services. The state's page tells anyone opening one to contact the local environmental health department.", "src": [0, 1]},
+        {"text": "State rule says the regulatory authority inspects a proposed retail food establishment before the license application is approved.", "src": [2]},
+        {"text": "Montana's retail food rule adopts the 2013 FDA Food Code and adds that the regulatory authority may require plans and specifications for review before issuing a new license when an existing establishment changes ownership.", "src": [2]},
+        {"text": "Annual license fees in state law are $150 for a small, $225 for a medium and $275 for a large retail food establishment (Montana Code Annotated 2025).", "src": [3]},
+        {"text": "Homemade food sold under the Local Food Choice Act may not be sold or used in a retail food establishment unless it has been licensed and inspected as the law requires.", "src": [4]}
+      ],
+      "sources": [
+        {"agency": "Montana Legislature", "title": "MCA 50-50-201: License or permit required", "url": "https://mca.legmt.gov/bills/mca/title_0500/chapter_0500/part_0020/section_0010/0500-0500-0020-0010.html", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"},
+        {"agency": "Montana Department of Public Health and Human Services", "title": "Retail Food Establishments", "url": "https://dphhs.mt.gov/PublicHealth/EHFS/RetailFood/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Montana Department of Public Health and Human Services", "title": "Rule for Retail Food Establishments (ARM Title 37, Chapter 110, Subchapter 2)", "url": "https://dphhs.mt.gov/assets/publichealth/FCS/RetailFood/FinalRetailRule.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2015-01-01", "read": "fetched"},
+        {"agency": "Montana Legislature", "title": "MCA 50-50-205: License fee, late fee, preemption of local authority", "url": "https://mca.legmt.gov/bills/mca/title_0500/chapter_0500/part_0020/section_0050/0500-0500-0020-0050.html", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"},
+        {"agency": "Montana Legislature", "title": "MCA 50-49-203: Exemptions from regulations, transactions, information required, exceptions", "url": "https://mca.legmt.gov/bills/mca/title_0500/chapter_0490/part_0020/section_0030/0500-0490-0020-0030.html", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Montana's retail food rule adopts the FDA Food Code's certified food protection manager requirement. A new licensee required to have one must have a certified food protection manager within 90 days of the new license, and an existing licensee within 45 days of losing one.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Montana Department of Public Health and Human Services", "title": "Rule for Retail Food Establishments (ARM Title 37, Chapter 110, Subchapter 2)", "url": "https://dphhs.mt.gov/assets/publichealth/FCS/RetailFood/FinalRetailRule.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2015-01-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "A sole proprietor doing business under an assumed business name registers it online with the Montana Secretary of State; the registration costs $20 and must be renewed every five years.", "src": [0]},
+        {"text": "The Montana Department of Revenue says Montana does not have a general-use sales tax.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Montana Secretary of State", "title": "How do I register as a Sole Proprietor?", "url": "https://help.sosmt.gov/en/article/how-do-i-register-as-a-sole-proprietor-gpqio4/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-07-28", "read": "fetched"},
+        {"agency": "Montana Department of Revenue", "title": "Sales Tax Guidance for Montana Business and Residents", "url": "https://mtrevenue.gov/taxes/general-sales-tax", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Montana's state health department lists each county's health department and its environmental health or sanitarian office, along with tribal health departments.",
+    "source": {"agency": "Montana Department of Public Health and Human Services", "title": "County or Tribal Health Departments", "url": "https://dphhs.mt.gov/PublicHealth/EHFS/countytribalhealthdepts", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

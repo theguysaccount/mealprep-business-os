@@ -1,0 +1,79 @@
+{
+  "state": "Illinois",
+  "abbr": "IL",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Illinois's cottage food law covers foods that aren't on its prohibited list, so some foods that need refrigeration can be made at home by an operator who registers with the local health department and is a certified food protection manager. Meat, poultry, fish and seafood are prohibited, as are most dairy and egg items, which excludes meals made with them.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Illinois's cottage food law covers food or drink made in the operator's home kitchen, or a suitable farm kitchen, other than items on a prohibited list, so it is not limited to shelf-stable foods.", "src": [0, 1]},
+        {"text": "Prohibited items include meat, poultry, fish, seafood and shellfish; dairy and eggs except limited uses such as in non-TCS baked goods or buttercream frosting; custard, cream and pumpkin pies; low-acid canned foods; sprouts; cut leafy greens; and cut fresh tomato or melon.", "src": [0]},
+        {"text": "Cottage foods that need time/temperature control must be kept and transported at the holding temperatures set in state rules. Only foods that don't need temperature control may be shipped, and nothing may be shipped out of state.", "src": [0]},
+        {"text": "Operators must register every year with their local health department, and anyone preparing or packaging the food must be a Department of Public Health-approved certified food protection manager.", "src": [0, 1]},
+        {"text": "Cottage foods are sold directly to consumers for their own use, not for resale, and the Illinois Department of Public Health (IDPH) says they may not be sold in retail food establishments.", "src": [0, 1]}
+      ],
+      "sources": [
+        {"agency": "Illinois General Assembly", "title": "410 ILCS 625/4, Cottage food operation", "url": "https://ilga.gov/Documents/legislation/ilcs/documents/041006250K4.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2025-08-15", "read": "fetched"},
+        {"agency": "Illinois Department of Public Health", "title": "Cottage Food", "url": "https://dph.illinois.gov/topics-services/food-safety/cottage-food.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Registration is renewed every year with the local health department where the operator lives, which may charge up to $50. Home kitchens are not routinely inspected but may be inspected after a complaint or illness report.", "src": [0, 1]},
+        {"text": "Direct sales may happen at farmers markets, fairs, festivals and public events, online, by delivery, by pickup from the operator's home or farm unless local law prohibits it, or by pickup at a third-party property with consent.", "src": [0]},
+        {"text": "Products must be prepackaged and labeled with the operation's name and location, registration number, product name, ingredients, allergens, processing date, and a statement that it was produced in a home kitchen not inspected by a health department.", "src": [0]},
+        {"text": "Fermented and acidified foods and canned tomato products have extra requirements, such as tested recipes or a written food safety plan with pH testing.", "src": [0, 1]},
+        {"text": "A separate home kitchen operation category allows non-potentially hazardous baked goods sold directly to consumers, with monthly gross sales up to $1,000, only where the local government has adopted an ordinance authorizing it.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Illinois General Assembly", "title": "410 ILCS 625/4, Cottage food operation", "url": "https://ilga.gov/Documents/legislation/ilcs/documents/041006250K4.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2025-08-15", "read": "fetched"},
+        {"agency": "Illinois Department of Public Health", "title": "Cottage Food", "url": "https://dph.illinois.gov/topics-services/food-safety/cottage-food.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Illinois General Assembly", "title": "410 ILCS 625/3.6, Home kitchen operation", "url": "https://ilga.gov/Documents/legislation/ilcs/documents/041006250K3.6.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2018-01-01", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Retail food establishments in Illinois, including restaurants, bakeries, grocery stores and food trucks, are regulated by the local health department where they operate, and IDPH directs people starting a retail food business to that local health department.", "src": [0]},
+        {"text": "Food sales directly to consumers count as retail. Illinois has adopted the 2022 FDA Food Code, and retail food businesses, called food establishments, must meet the Illinois Food Code.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Illinois Department of Public Health", "title": "Retail Food", "url": "https://dph.illinois.gov/topics-services/food-safety/retail-food.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Illinois food establishments must be under the supervision of a certified food protection manager who passed an ANSI-accredited course and exam. Certificates are valid for five years, and the City of Chicago runs its own certification.", "src": [0]},
+        {"text": "Food handler training is required for food employees depending on the type of establishment, generally within 30 days of hire, and may need renewal every three years. Programs must be ANSI-accredited or an IDPH-approved internal program.", "src": [1]},
+        {"text": "Cottage food operators who prepare or package products must themselves be certified food protection managers.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Illinois Department of Public Health", "title": "Certified Food Protection Manager (CFPM)/Food Service Sanitation Manager (FSSMC)", "url": "https://dph.illinois.gov/topics-services/food-safety/cfpm-fssmc.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Illinois Department of Public Health", "title": "Food Handler Training", "url": "https://dph.illinois.gov/topics-services/food-safety/food-handler-training.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Illinois General Assembly", "title": "410 ILCS 625/4, Cottage food operation", "url": "https://ilga.gov/Documents/legislation/ilcs/documents/041006250K4.htm", "kind": "statute", "checked": "2026-11-22", "updated": "2025-08-15", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "LLCs and corporations file with the Illinois Secretary of State's Business Services department. Sole proprietors and general partnerships using a business name other than the owners' names register it with the county clerk.", "src": [0]},
+        {"text": "Businesses that sell products at retail must register with the Illinois Department of Revenue.", "src": [0]},
+        {"text": "Since January 1, 2026, Illinois no longer charges its 1% state tax on grocery food, though cities and counties may adopt a 1% local grocery tax. Food prepared for immediate consumption is not “groceries” and is taxed at the general merchandise rate.", "src": [1]},
+        {"text": "State rules define food prepared for immediate consumption as food prepared or made ready by a retailer to be eaten without substantial delay after the retailer's final stage of preparation.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Illinois Department of Commerce and Economic Opportunity", "title": "Step by Step Guide", "url": "https://dceo.illinois.gov/smallbizassistance/beginhere/stepbystepguide.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Illinois Department of Revenue", "title": "Informational Bulletin FY 2026-03, Illinois Grocery Tax Changes Effective January 1, 2026", "url": "https://tax.illinois.gov/research/publications/bulletins/fy-2026-03.html", "kind": "agency", "checked": "2026-11-22", "updated": "2025-10", "read": "fetched"},
+        {"agency": "Illinois General Assembly, Joint Committee on Administrative Rules", "title": "86 Ill. Adm. Code 130.310, Food, Soft Drinks and Candy", "url": "https://www.ilga.gov/commission/jcar/admincode/086/086001300C03100R.html", "kind": "rule", "checked": "2026-11-22", "updated": "2023-04-12", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Restaurants, bakeries, grocery stores, food trucks and other retail food establishments in Illinois are regulated by the local health department serving the area where they operate; IDPH links to a directory and map of local health departments.",
+    "source": {"agency": "Illinois Department of Public Health", "title": "Retail Food", "url": "https://dph.illinois.gov/topics-services/food-safety/retail-food.html", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

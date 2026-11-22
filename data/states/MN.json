@@ -1,0 +1,276 @@
+{
+  "state": "Minnesota",
+  "abbr": "MN",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Minnesota's cottage food exemption covers only foods that are not potentially hazardous, plus certain acidic home-canned goods, so perishable prepared meals fall outside it. Food businesses outside the exemption are licensed by the Department of Health, a delegated local agency or the Department of Agriculture.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "The cottage foods exemption in state law covers people who prepare and sell food that is not potentially hazardous under Minnesota's food code rules, and home-canned pickles, vegetables or fruits with a pH of 4.6 or lower or a water activity of 0.85 or less.",
+          "src": [0]
+        },
+        {
+          "text": "The Department of Agriculture describes the Cottage Food Law as allowing individuals to make and sell certain non-potentially hazardous foods and canned goods without a license, and asks applicants to confirm their food is non-potentially hazardous before registering.",
+          "src": [1]
+        },
+        {
+          "text": "The Department of Health says a license is required to sell food or beverages in Minnesota, and the type of food sold and the location decide which state or local agency issues it.",
+          "src": [2]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes 2024, section 28A.152 Cottage Foods Exemption (version in effect until August 1, 2027)",
+          "url": "https://www.revisor.mn.gov/statutes/2024/cite/28A.152",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2021",
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Department of Agriculture",
+          "title": "Cottage Food Producer Registration",
+          "url": "https://www.mda.state.mn.us/food-feed/cottage-food-producer-registration",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Department of Health, Food, Pools, and Lodging Services",
+          "title": "Licensing Food, Pools, and Lodging Services (FPLS)",
+          "url": "https://www.health.state.mn.us/communities/environment/food/license/index.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-05-27",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Cottage food producers register every year with the Department of Agriculture. Those expecting $7,665 or less in yearly sales pay no fee and take a free online training and exam; those selling more pay $50 and take University of Minnesota Extension training.",
+          "src": [0, 1]
+        },
+        {
+          "text": "Gross sales are limited to $78,000 in a calendar year. Products may be sold from the home where local ordinance allows, at farmers markets and community events, or online.",
+          "src": [0, 1]
+        },
+        {
+          "text": "The department says the producer or an employee must be present when food is sold or delivered, and cottage food for people cannot be shipped by mail or commercial delivery under current rules.",
+          "src": [0]
+        },
+        {
+          "text": "Labels must give the producer's name and registration number or address, the date made, ingredients and possible allergens, and the statement \"These products are homemade and not subject to state inspection,\" which must also appear on a sign and on any website.",
+          "src": [1]
+        },
+        {
+          "text": "Changes passed in 2025 take effect August 1, 2027: one registration tier, a $30 yearly fee for everyone, shipping allowed within Minnesota, and advanced training for all registrants every three years.",
+          "src": [0, 2]
+        },
+        {
+          "text": "The exemption does not override local business licensing, sanitation, public health or zoning ordinances, so producers check city, county or township rules.",
+          "src": [0, 1]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Minnesota Department of Agriculture",
+          "title": "Cottage Food Producer Registration",
+          "url": "https://www.mda.state.mn.us/food-feed/cottage-food-producer-registration",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes 2024, section 28A.152 Cottage Foods Exemption (version in effect until August 1, 2027)",
+          "url": "https://www.revisor.mn.gov/statutes/2024/cite/28A.152",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2021",
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes, section 28A.152 as amended by Laws 2025, chapter 34",
+          "url": "https://www.revisor.mn.gov/statutes/cite/28A.152",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2027-08-01",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "The Department of Health's Food, Pools, and Lodging Services section and locally delegated agencies license restaurants, food carts, mobile food units and food stands. Bakeries, grocery stores, meat markets and wholesale food plants go to the Department of Agriculture.",
+          "src": [0]
+        },
+        {
+          "text": "Some cities and counties hold delegation agreements to issue these licenses, and the Department of Health covers the rest of the state. The establishment's location decides which agency licenses it.",
+          "src": [0]
+        },
+        {
+          "text": "State law requires an annual license, and an applicant must apply, pay the fee and receive approval, including plan review approval, before operating.",
+          "src": [1]
+        },
+        {
+          "text": "Plans go to the Department of Health with a plan review fee before construction, allowing at least 30 days for approval. A license application, fees and a pre-opening inspection follow before the business may open.",
+          "src": [2]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Minnesota Department of Health, Food, Pools, and Lodging Services",
+          "title": "Licensing Food, Pools, and Lodging Services (FPLS)",
+          "url": "https://www.health.state.mn.us/communities/environment/food/license/index.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-05-27",
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes, section 157.16 Licenses Required; Fees",
+          "url": "https://www.revisor.mn.gov/statutes/cite/157.16",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025",
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Department of Health, Food, Pools, and Lodging Services",
+          "title": "Licensing Jurisdiction",
+          "url": "https://www.health.state.mn.us/communities/environment/food/license/delegation.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-10-14",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "The Department of Health says all food establishments must employ a Certified Food Protection Manager unless they fall under a listed exemption. It runs the Minnesota certification program for itself, the Department of Agriculture and delegated local agencies.",
+          "src": [0]
+        },
+        {
+          "text": "Cottage food producers who pay the registration fee must complete an approved safe food handling course of up to eight hours every three years; fee-exempt producers take a free online course and exam.",
+          "src": [1]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Minnesota Department of Health",
+          "title": "Minnesota Certified Food Protection Manager (CFPM)",
+          "url": "https://www.health.state.mn.us/communities/environment/food/cfpm/index.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-02-17",
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes 2024, section 28A.152 Cottage Foods Exemption (version in effect until August 1, 2027)",
+          "url": "https://www.revisor.mn.gov/statutes/2024/cite/28A.152",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2021",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "A limited liability company is formed when its articles of organization are filed with the Secretary of State along with a $135 payment.",
+          "src": [0]
+        },
+        {
+          "text": "A business using a name that does not include the true names of its owners files an assumed name certificate with the Secretary of State and publishes it in a qualified newspaper in its county for two successive issues.",
+          "src": [1]
+        },
+        {
+          "text": "The Department of Revenue says the state general sales tax rate is 6.875 percent, plus any local sales taxes where the customer receives the item.",
+          "src": [2]
+        },
+        {
+          "text": "Minnesota's sales tax exemption for food does not cover prepared foods, defined to include food sold with utensils, food sold heated and two or more ingredients combined by the seller for sale as a single item. Bakery items are among the exceptions.",
+          "src": [3, 4]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes, section 322C.0201 Formation of limited liability company; articles of organization",
+          "url": "https://www.revisor.mn.gov/statutes/cite/322C.0201",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2016",
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes, section 333.01 Commercial Assumed Names",
+          "url": "https://www.revisor.mn.gov/statutes/cite/333.01",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "1999",
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Department of Revenue",
+          "title": "Taxes and Rates",
+          "url": "https://www.revenue.state.mn.us/guide/taxes-and-rates",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes, section 297A.67 General Exemptions (food and food ingredients)",
+          "url": "https://www.revisor.mn.gov/statutes/cite/297A.67",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Minnesota Office of the Revisor of Statutes",
+          "title": "Minnesota Statutes, section 297A.61 Definitions (prepared food)",
+          "url": "https://www.revisor.mn.gov/statutes/cite/297A.61",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food establishment licenses come from the Minnesota Department of Health or a city or county agency with a delegation agreement, depending on location. The department's Licensing Jurisdiction page links to a list of state and local licensing contacts.",
+    "source": {
+      "agency": "Minnesota Department of Health, Food, Pools, and Lodging Services",
+      "title": "Licensing Jurisdiction",
+      "url": "https://www.health.state.mn.us/communities/environment/food/license/delegation.html",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": "2024-10-14",
+      "read": "fetched"
+    }
+  }
+}

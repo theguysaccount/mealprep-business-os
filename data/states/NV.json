@@ -1,0 +1,75 @@
+{
+  "state": "Nevada",
+  "abbr": "NV",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Nevada law says food prepared in a private home may not be sold unless the person preparing it holds a permit from the food safety authority. The cottage food exemption covers only listed foods, such as baked goods that do not need time or temperature control.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Under NRS 580.900, food prepared in a private home must not be sold, offered or displayed for sale unless the person preparing it holds a valid permit issued for that purpose by the food safety authority. Nonprofit fundraising sales have a separate exception.", "src": [0]},
+        {"text": "Nevada's cottage food exemption (NRS 580.600) covers only nuts, candies, jams and preserves, vinegars, dry herbs and seasonings, dried fruits, cereals and granola, popcorn, and baked goods that are not potentially hazardous and do not need time or temperature control.", "src": [0]},
+        {"text": "Baked goods with cream, uncooked egg, custard, meringue or cream cheese frosting are excluded from the cottage food list.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Nevada Legislature", "title": "NRS Chapter 580: Food Establishments", "url": "https://www.leg.state.nv.us/Division/Legal/LawLibrary/NRS/NRS-580.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-04-15", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "A cottage food operation must register with the food safety authority before selling anything. The authority may charge a fee up to its cost of keeping a registry and may inspect only to investigate adulterated food or an illness outbreak.", "src": [0]},
+        {"text": "Through June 30, 2027, cottage foods must be sold directly to consumers in person, at the operator's home or places like farmers markets and craft fairs, and not by telephone or the internet. Gross sales are capped at $100,000 a year, adjusted for inflation from fiscal year 2026-2027.", "src": [0]},
+        {"text": "Each item must be prepackaged and carry a label meeting federal labeling rules, printed with: MADE IN A COTTAGE FOOD OPERATION THAT IS NOT SUBJECT TO GOVERNMENT FOOD SAFETY INSPECTION.", "src": [0]},
+        {"text": "Assembly Bill 352 (2025) moves cottage food licensing to the State Department of Agriculture on July 1, 2027, and from then allows telephone and internet sales filled in person, by mail or through a food delivery platform.", "src": [1]},
+        {"text": "The Department of Agriculture says that until the 2027 change, cottage food registrants should keep contacting their local health authority for approvals.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Nevada Legislature", "title": "NRS Chapter 580: Food Establishments", "url": "https://www.leg.state.nv.us/Division/Legal/LawLibrary/NRS/NRS-580.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-04-15", "read": "fetched"},
+        {"agency": "Nevada Legislature", "title": "Assembly Bill 352 (2025), enrolled", "url": "https://archive.leg.state.nv.us/Session/83rd2025/Bills/AB/AB352_EN.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"},
+        {"agency": "Nevada Department of Agriculture", "title": "Food Safety Program", "url": "https://agri.nv.gov/Animals/Food_Safety/Food_Safety_Program", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Senate Bill 466 (2025), effective July 1, 2025, moved the permitting and regulation of food establishments from the state health division to the State Department of Agriculture and local boards of health, together called the food safety authority.", "src": [0]},
+        {"text": "It is unlawful to operate a food establishment without a permit from the food safety authority. The authority inspects the establishment after receiving an application and fee, and issues the permit once the requirements are met.", "src": [1]},
+        {"text": "Plans and specifications must be approved before a food establishment is built, extensively remodeled or converted from an existing structure; where full-time city, county or district health departments exist, plans go to them.", "src": [1]},
+        {"text": "The Department of Agriculture lists items most permit applications need: plan review applications, the menu, a floor plan drawn to scale, equipment specification sheets, food manager certifications, an employee illness policy and a HACCP plan if required.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Nevada Legislature", "title": "Senate Bill 466 (2025), enrolled", "url": "https://archive.leg.state.nv.us/Session/83rd2025/Bills/SB/SB466_EN.pdf", "kind": "statute", "checked": "2026-11-22", "updated": "2025-07-01", "read": "fetched"},
+        {"agency": "Nevada Legislature", "title": "NRS Chapter 580: Food Establishments", "url": "https://www.leg.state.nv.us/Division/Legal/LawLibrary/NRS/NRS-580.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-04-15", "read": "fetched"},
+        {"agency": "Nevada Department of Agriculture", "title": "Food Safety Program", "url": "https://agri.nv.gov/Animals/Food_Safety/Food_Safety_Program", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "Nevada's food establishment regulations say the person in charge must show food safety knowledge, either by being a certified food protection manager or, for a low-risk or temporary food establishment, by correctly answering the health authority's questions.", "src": [0]},
+        {"text": "The Department of Agriculture lists food manager certifications among the documents most food establishment permit applications require.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Nevada Legislature", "title": "NAC 446.052: Person in charge, demonstration of knowledge", "url": "https://www.leg.state.nv.us/NAC/NAC-446.html", "kind": "rule", "checked": "2026-11-22", "updated": "2026-04-13", "read": "fetched"},
+        {"agency": "Nevada Department of Agriculture", "title": "Food Safety Program", "url": "https://agri.nv.gov/Animals/Food_Safety/Food_Safety_Program", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "No one may conduct a business in Nevada until they obtain a state business license from the Secretary of State. The application fee is $200, or $500 for corporations, and local business licenses are separate.", "src": [0]},
+        {"text": "Nevada exempts food for human consumption from sales tax, but the exemption does not include prepared food intended for immediate consumption.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Nevada Legislature", "title": "NRS 76.100: State business license required", "url": "https://www.leg.state.nv.us/NRS/NRS-076.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-04-15", "read": "fetched"},
+        {"agency": "Nevada Legislature", "title": "NRS 372.284: Food for human consumption", "url": "https://www.leg.state.nv.us/NRS/NRS-372.html", "kind": "statute", "checked": "2026-11-22", "updated": "2026-09-09", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Nevada food establishment permits come from the food safety authority: the State Department of Agriculture or a local board of health. The Department of Agriculture's Food Safety Program page lists the counties and field offices it covers.",
+    "source": {"agency": "Nevada Department of Agriculture", "title": "Food Safety Program", "url": "https://agri.nv.gov/Animals/Food_Safety/Food_Safety_Program", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

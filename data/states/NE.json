@@ -1,0 +1,80 @@
+{
+  "state": "Nebraska",
+  "abbr": "NE",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Nebraska's cottage food law lets home producers who register with the Department of Agriculture and complete a food safety course sell some foods that need refrigeration directly to consumers. It excludes food containing meat and several other foods, and refrigerated food must be delivered in person by the producer within two hours.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Nebraska's law for producers at a private home (Neb. Rev. Stat. 81-2,280) allows food that needs time and temperature control, except: any part of an animal, fluid milk products, raw eggs, unpasteurized juice, infused oils or honey, sprouts, low-acid canned and sealed acidified foods, tofu or tempeh, and kimchi or kombucha.", "src": [0]},
+        {"text": "The Department of Agriculture says the animal exclusion refers to meat, lard, tallow, bone broth and similar ingredients, so the food sold cannot contain meat. It names cheesecake, pudding and cheese as allowed foods that need refrigeration, and says cheesecake sold at a farmers market must be kept at 41°F or colder.", "src": [1]},
+        {"text": "Food that needs time and temperature control may be delivered only by the producer to the consumer in person, kept at the temperature the Nebraska Pure Food Act requires, and transported for no longer than two hours.", "src": [0]},
+        {"text": "A producer's private home is not a food establishment when food meeting these rules is prepared for sale directly to the consumer, including at farmers markets, fairs and other public events, or for pickup or delivery from the home.", "src": [2]},
+        {"text": "Labels must give the producer's name and address, and refrigerated foods must also list ingredients in descending order of predominance. The department says cottage food must be sold directly to the customer, not resold by a shop.", "src": [0, 1]}
+      ],
+      "sources": [
+        {"agency": "Nebraska Legislature", "title": "Neb. Rev. Stat. 81-2,280: Producer of food at private home; requirements; registration", "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=81-2,280", "kind": "statute", "checked": "2026-11-22", "updated": "2024", "read": "fetched"},
+        {"agency": "Nebraska Department of Agriculture", "title": "Nebraska Cottage Food Registration", "url": "https://nda.nebraska.gov/fscp/foods/cottagefood", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Nebraska Legislature", "title": "Neb. Rev. Stat. 81-2,245.01: Food establishment, defined", "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=81-2,245.01", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Before any sales, producers register with the Department of Agriculture and complete an approved food safety and handling course. Producers selling only non-refrigerated food directly at a farmers market are exempt from both steps.", "src": [0, 1]},
+        {"text": "Registration is made online and requires proof of the food safety course; the department says it can take up to 10 days for a new producer to appear on its public list of registered cottage food producers.", "src": [1]},
+        {"text": "Producers must post a clearly visible notice that the food was prepared in a kitchen not subject to regulation and inspection and may contain allergens: at events, and for pickup or delivery sales, at the home, on any website and in advertisements.", "src": [0]},
+        {"text": "Food that does not need time and temperature control may be delivered by U.S. mail or a commercial mail delivery service. Producers using private well water must show test results for nitrate or bacteria.", "src": [0]},
+        {"text": "The law overrides local ordinances on food safety and handling that do not conform to it.", "src": [0]}
+      ],
+      "sources": [
+        {"agency": "Nebraska Legislature", "title": "Neb. Rev. Stat. 81-2,280: Producer of food at private home; requirements; registration", "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=81-2,280", "kind": "statute", "checked": "2026-11-22", "updated": "2024", "read": "fetched"},
+        {"agency": "Nebraska Department of Agriculture", "title": "Nebraska Cottage Food Registration", "url": "https://nda.nebraska.gov/fscp/foods/cottagefood", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "The Department of Agriculture says no one may operate a food establishment without a valid permit, an inspection must happen before opening, and requests for a permit should be sent about 60 days before the target opening date.", "src": [0]},
+        {"text": "Permit requests for retail food establishments in Lancaster, Douglas or Hall County are forwarded to the local jurisdiction; the department has contracts with three city or county health departments, and its own sanitarians cover the rest of the state.", "src": [0, 1]},
+        {"text": "All new food establishments must submit building plans for review and approval, and a pre-inspection checks kitchen design, handwashing and dishwashing facilities, restrooms and plumbing.", "src": [1]},
+        {"text": "The Nebraska Pure Food Act adopts the 2022 FDA Food Code, with listed exceptions, as the standard for food establishments.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Nebraska Department of Agriculture", "title": "Application / Inspection Areas", "url": "https://nda.nebraska.gov/fscp/foods/inspection_areas", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Nebraska Department of Agriculture", "title": "Foods", "url": "https://nda.nebraska.gov/fscp/foods", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Nebraska Legislature", "title": "Nebraska Pure Food Act (Neb. Rev. Stat. 81-2,239 to 81-2,292)", "url": "https://nebraskalegislature.gov/laws/display_html.php?begin_section=81-2,239&end_section=81-2,292", "kind": "statute", "checked": "2026-11-22", "updated": "2025", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "The Department of Agriculture's guide for food establishments says at least one person for each permitted establishment should be a certified food protection manager, and points to the Food Code for the exact rules.", "src": [0]},
+        {"text": "The Lincoln-Lancaster County Health Department requires food service establishments it licenses to employ at least one person with a current Food Protection Manager permit, and other food handlers must get food handler permits before they begin working.", "src": [1]},
+        {"text": "Home producers selling refrigerated foods, or selling anywhere other than directly at a farmers market, must complete an approved food safety and handling course before any sales.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Nebraska Department of Agriculture", "title": "Requirements for Food Establishment Operations", "url": "https://nda.nebraska.gov/publications/foods/preopenlist", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Lincoln-Lancaster County Health Department", "title": "Food Establishment Requirements", "url": "https://www.lincoln.ne.gov/files/sharedassets/public/v/2/health-dept/environmental/food-safety/management/foodestabreqs.pdf", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Nebraska Legislature", "title": "Neb. Rev. Stat. 81-2,280: Producer of food at private home; requirements; registration", "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=81-2,280", "kind": "statute", "checked": "2026-11-22", "updated": "2024", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Corporations, limited liability companies and limited partnerships are formed by filing documents with the Nebraska Secretary of State; a sole proprietor may file a trade name application. The office says there is no general business license in Nebraska.", "src": [0]},
+        {"text": "The Department of Revenue says retail sales of prepared food, including sales by caterers, are taxable. Prepared food includes items with two or more ingredients combined by the seller, such as meals, and food the seller has heated.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Nebraska Secretary of State", "title": "New Business Information", "url": "https://sos.nebraska.gov/business-services/new-business-information", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Nebraska Department of Revenue", "title": "Nebraska Sales and Use Tax Guide for Prepared Food and Beverage Service (Information Guide 6-432)", "url": "https://revenue.nebraska.gov/sites/default/files/doc/info/6-432.pdf", "kind": "agency", "checked": "2026-11-22", "updated": "2023-06", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Nebraska Department of Agriculture issues food establishment permits statewide; requests for retail food establishments in Lancaster, Douglas or Hall County are forwarded to the local health jurisdiction.",
+    "source": {"agency": "Nebraska Department of Agriculture", "title": "Application / Inspection Areas", "url": "https://nda.nebraska.gov/fscp/foods/inspection_areas", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"}
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "state": "Idaho",
+  "abbr": "ID",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "Since March 20, 2026, Idaho's Direct-to-Consumer Commerce Act lets producers sell homemade perishable food directly to informed consumers in Idaho without a license, with a required notice. It excludes most meat and, in its definition of homemade food, food prepared for immediate consumption and “other facilities preparing ready-to-eat meals”; wholesale sales are not covered.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {"text": "Idaho's Direct-to-Consumer Commerce Act took effect March 20, 2026, replacing the cottage food rule. It lets producers sell homemade shelf-stable or perishable food, meaning food that needs time or temperature control such as cooked vegetables, sauces or raw doughs, without a license.", "src": [3, 1, 0]},
+        {"text": "Sales must be between the producer (or a designated agent) and the final consumer and take place entirely within Idaho. Wholesale operations are not exempt, and these products may not be used as ingredients in a food establishment.", "src": [1, 3, 2]},
+        {"text": "The Act bars meat sales except listed cases, such as up to 1,000 poultry a year of the producer's own raising, rabbit, farm-raised fish other than catfish, and meat from cattle, sheep, swine and goats inspected by the USDA or another approved inspector.", "src": [1]},
+        {"text": "The Act's definition of homemade food excludes food prepared, cooked or served on-site for immediate consumption, including restaurant-style food service, mobile food units, concession trailers, “or other facilities preparing ready-to-eat meals.”", "src": [0]},
+        {"text": "Sellers must tell buyers the food is not inspected or licensed, using a sign, label or card stating “This product is not subject to government food safety inspection or licensing requirements. It may contain allergens.” with the producer's contact information and ingredients.", "src": [1, 3]},
+        {"text": "Perishable food must be produced, stored, transported and sold under conditions reasonably intended to keep it safe, and must carry handling instructions for safe storage and preparation.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Idaho State Legislature", "title": "Idaho Code § 37-203, Definitions (Idaho Direct-to-Consumer Commerce Act)", "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH2/SECT37-203/", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Idaho State Legislature", "title": "Idaho Code § 37-205, Direct-to-consumer transactions and requirements", "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH2/SECT37-205/", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Idaho State Legislature", "title": "Idaho Code § 37-204, Preemption and applicability", "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH2/SECT37-204/", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Idaho Department of Health and Welfare", "title": "Food Safety", "url": "https://healthandwelfare.idaho.gov/health-wellness/community-health/food-safety", "kind": "agency", "checked": "2026-11-22", "updated": "2026-11-20", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {"text": "Shelf-stable foods under the Act include sealed jams and jellies, fermented foods, candies that don't need refrigeration, nut mixes, granola, dry soup mixes without meat, roasted coffee beans, popcorn, honey, dried and freeze-dried foods, and baked goods without perishable fillings.", "src": [0]},
+        {"text": "The Act recognizes sales at farm stands and through designated agents, such as cooperative or consignment markets, that the producer names in writing and that do not take ownership of the food.", "src": [0]},
+        {"text": "State agencies and local governments may not adopt licensing, permitting, inspection, packaging or labeling rules for these products that are stricter than the corresponding state or federal requirements.", "src": [1]},
+        {"text": "Milk and dairy products, including raw milk, may be sold under the Act only in full compliance with Idaho's separate dairy and raw milk laws.", "src": [1]},
+        {"text": "The Idaho Department of Health and Welfare says producers selling food or drinks outside Idaho may need FDA approval.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Idaho State Legislature", "title": "Idaho Code § 37-203, Definitions (Idaho Direct-to-Consumer Commerce Act)", "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH2/SECT37-203/", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Idaho State Legislature", "title": "Idaho Code § 37-204, Preemption and applicability", "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH2/SECT37-204/", "kind": "statute", "checked": "2026-11-22", "updated": "2026", "read": "fetched"},
+        {"agency": "Idaho Department of Health and Welfare", "title": "Food Safety", "url": "https://healthandwelfare.idaho.gov/health-wellness/community-health/food-safety", "kind": "agency", "checked": "2026-11-22", "updated": "2026-11-20", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {"text": "Idaho's seven public health districts issue food establishment licenses, collect fees, review plans and conduct inspections under the Idaho Food Code.", "src": [0, 1]},
+        {"text": "Central District Health says establishments offering time/temperature controlled for safety foods, including restaurants, caterers and food processors, must be licensed by the local public health district after an application, plan review and pre-operational inspection.", "src": [2]},
+        {"text": "Central District Health asks for applications at least 30 days before opening and says new construction or extensive remodels may need more time for plan review.", "src": [2]}
+      ],
+      "sources": [
+        {"agency": "Idaho Department of Health and Welfare", "title": "IDAPA 16.02.19, Idaho Food Code", "url": "https://files.dfm.idaho.gov/dfm-admin-website/rules/current/16/160219.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2023-04-06", "read": "fetched"},
+        {"agency": "Idaho Department of Health and Welfare", "title": "Food Safety", "url": "https://healthandwelfare.idaho.gov/health-wellness/community-health/food-safety", "kind": "agency", "checked": "2026-11-22", "updated": "2026-11-20", "read": "fetched"},
+        {"agency": "Central District Health (Idaho)", "title": "Food Establishments & Food Safety", "url": "https://cdh.idaho.gov/licenses-permits-inspections/food-establishments/", "kind": "agency", "checked": "2026-11-22", "updated": "2026-11-20", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {"text": "The person in charge of an Idaho food establishment may show food safety knowledge by having no priority violations at inspection, completing the Idaho Food Safety Exam or an equivalent course, or being a certified food protection manager.", "src": [0]},
+        {"text": "The Idaho Department of Health and Welfare offers the Idaho Food Safety Exam, whose certificate is also called an Idaho food handler's card, in English and Spanish.", "src": [1]}
+      ],
+      "sources": [
+        {"agency": "Idaho Department of Health and Welfare", "title": "IDAPA 16.02.19, Idaho Food Code", "url": "https://files.dfm.idaho.gov/dfm-admin-website/rules/current/16/160219.pdf", "kind": "rule", "checked": "2026-11-22", "updated": "2023-04-06", "read": "fetched"},
+        {"agency": "Idaho Department of Health and Welfare", "title": "Food Safety", "url": "https://healthandwelfare.idaho.gov/health-wellness/community-health/food-safety", "kind": "agency", "checked": "2026-11-22", "updated": "2026-11-20", "read": "fetched"}
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {"text": "Business entities such as LLCs and corporations register with the Idaho Secretary of State before conducting business, online through SOSBiz, with a business name and a registered agent in Idaho.", "src": [0]},
+        {"text": "Retail sales of food, meals and drinks, and the labor to prepare or serve them, are taxable in Idaho.", "src": [1]},
+        {"text": "The State Tax Commission's guide for food, meals and drinks applies to businesses including meal delivery services and sellers of meals prepared beforehand to be taken home and eaten later.", "src": [2]},
+        {"text": "Grocery food is taxed too: the Commission says grocers must have a valid seller's permit, collect sales tax and file sales tax returns.", "src": [3]}
+      ],
+      "sources": [
+        {"agency": "Idaho Secretary of State", "title": "Frequently Asked Questions For Business", "url": "https://sos.idaho.gov/business-resources/business-faq/", "kind": "agency", "checked": "2026-11-22", "updated": null, "read": "fetched"},
+        {"agency": "Idaho State Tax Commission", "title": "Collecting Sales Tax in Idaho", "url": "https://tax.idaho.gov/taxes/sales-use/guides-for-certain-groups/retailers/collecting/", "kind": "agency", "checked": "2026-11-22", "updated": "2023-06-26", "read": "fetched"},
+        {"agency": "Idaho State Tax Commission", "title": "Food, Meals, and Drinks Guide", "url": "https://tax.idaho.gov/taxes/sales-use/guides-for-certain-groups/food/food-drinks/online-guide/", "kind": "agency", "checked": "2026-11-22", "updated": "2023-06-26", "read": "fetched"},
+        {"agency": "Idaho State Tax Commission", "title": "Grocers Basics Guide", "url": "https://tax.idaho.gov/taxes/sales-use/guides-for-certain-groups/food/grocers/online-guide/", "kind": "agency", "checked": "2026-11-22", "updated": "2023-06-27", "read": "fetched"}
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food permits, inspections and enforcement in Idaho are handled by seven public health districts, each serving a group of counties; the Idaho Department of Health and Welfare's food safety page lists the districts by county.",
+    "source": {"agency": "Idaho Department of Health and Welfare", "title": "Food Safety", "url": "https://healthandwelfare.idaho.gov/health-wellness/community-health/food-safety", "kind": "agency", "checked": "2026-11-22", "updated": "2026-11-20", "read": "fetched"}
+  }
+}

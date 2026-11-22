@@ -1,0 +1,262 @@
+{
+  "state": "Massachusetts",
+  "abbr": "MA",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Massachusetts limits cottage food operations to foods that do not need time and temperature control, such as baked goods, jams and jellies, made in a home kitchen with a local board of health permit. Meals that need refrigeration are prepared in a permitted food establishment, such as a commercial or shared kitchen.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "The state Food Code defines cottage food products as baked goods, jams, jellies and other foods that do not need time or temperature control for safety, made only in the home kitchen of the operator's primary residence and sold only directly to consumers.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Public Health Department guidance lists raw or cooked meat and fish, cream-filled pastries, cheesecake, custard, cut fruit and vegetables, tomato and barbecue sauces and salad dressings as foods needing time and temperature control. It says retail sale of high-risk foods such as meat requires a Retail Food Code permit from the local board of health.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The Food Code says a kitchen holding a residential kitchen permit may not serve as a caterer's base of operations.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Massachusetts Department of Public Health, Food Protection Program",
+          "title": "105 CMR 590.000 merged with the 2013 FDA Food Code (DPH version 11/16/18)",
+          "url": "https://www.mass.gov/doc/merged-food-code-111618/download",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2018-11-16",
+          "read": "fetched"
+        },
+        {
+          "agency": "Massachusetts Department of Public Health, Food Protection Program",
+          "title": "Guidance for Farms and Agricultural Businesses on Cottage Food and Other Food Sales",
+          "url": "https://www.mass.gov/doc/guidance-for-farms-and-agricultural-businesses-on-cottage-food-and-other-food-sales-march-8-2022/download",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022-03-08",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "A cottage food operation may not sell food until the local board of health approves it and issues a permit. The board reviews applications under state guidelines and the Food Code.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "No board of health permit is required for an operation that sells only whole uncut fresh produce, unprocessed honey, pure maple products or farm fresh eggs kept at 45 degrees Fahrenheit or less.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "State guidance says operations that make only cottage foods do not need a certified food protection manager, do not have to meet holding and cooking temperatures for finished foods, and do not need hot and cold holding equipment.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Massachusetts Department of Public Health, Food Protection Program",
+          "title": "105 CMR 590.000 merged with the 2013 FDA Food Code (DPH version 11/16/18)",
+          "url": "https://www.mass.gov/doc/merged-food-code-111618/download",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2018-11-16",
+          "read": "fetched"
+        },
+        {
+          "agency": "Massachusetts Department of Public Health, Food Protection Program",
+          "title": "Guidance for Farms and Agricultural Businesses on Cottage Food and Other Food Sales",
+          "url": "https://www.mass.gov/doc/guidance-for-farms-and-agricultural-businesses-on-cottage-food-and-other-food-sales-march-8-2022/download",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022-03-08",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Food prepared for direct sale to consumers falls under 105 CMR 590.000, the Retail Food Code, and the local board of health issues permits and inspects retail food kitchens.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Food made for sale to retail stores falls under the Food Manufacturing Code, 105 CMR 500.000, with permits and inspections by the Department of Public Health. A kitchen used for both needs both permits.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Leased commercial kitchens, such as shared kitchens and incubators, need a board of health permit to rent space, and each business renting one must get its own retail or wholesale food permit.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "A caterer's base of operations must be a food establishment that meets the Food Code, and the caterer gives written notice to the board of health of each city or town where it plans to serve a meal.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Massachusetts Department of Public Health, Food Protection Program",
+          "title": "Guidance for Farms and Agricultural Businesses on Cottage Food and Other Food Sales",
+          "url": "https://www.mass.gov/doc/guidance-for-farms-and-agricultural-businesses-on-cottage-food-and-other-food-sales-march-8-2022/download",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022-03-08",
+          "read": "fetched"
+        },
+        {
+          "agency": "Massachusetts Department of Public Health, Food Protection Program",
+          "title": "105 CMR 590.000 merged with the 2013 FDA Food Code (DPH version 11/16/18)",
+          "url": "https://www.mass.gov/doc/merged-food-code-111618/download",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2018-11-16",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "The Food Code requires at least one employee with supervisory and management responsibility to be a certified food protection manager who passed a test from an accredited program. Some low-risk establishments are exempt.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Establishments that cook, prepare or serve food for immediate consumption on or off the premises must have a certified food protection manager holding a Massachusetts allergen awareness training certificate, valid for 5 years, and must post an allergen poster for staff.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Massachusetts Department of Public Health, Food Protection Program",
+          "title": "105 CMR 590.000 merged with the 2013 FDA Food Code (DPH version 11/16/18)",
+          "url": "https://www.mass.gov/doc/merged-food-code-111618/download",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2018-11-16",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "A limited liability company is formed by filing a certificate of organization with the office of the state secretary (the Secretary of the Commonwealth).",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Anyone doing business under a name other than their real name files a business certificate with the clerk of every city or town where the business has an office.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The state sales tax is 6.25 percent. Meals provided by restaurants, a term that includes catering businesses, are taxable whether eaten on or off the premises, including take-out food, and the food products exemption does not cover meals.",
+          "src": [
+            2,
+            3
+          ]
+        },
+        {
+          "text": "Cities and towns that accept the local option may add a 0.75 percent local sales tax on restaurant meals, collected with the state tax.",
+          "src": [
+            4
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Massachusetts General Court",
+          "title": "General Laws Chapter 156C, Section 12: Certificate of organization",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156C/Section12",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Massachusetts General Court",
+          "title": "General Laws Chapter 110, Section 5: Certificates of persons conducting businesses",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110/Section5",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Massachusetts General Court",
+          "title": "General Laws Chapter 64H, Section 2: Sales tax; rate",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section2",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Massachusetts General Court",
+          "title": "General Laws Chapter 64H, Section 6: Exemptions (food products and meals)",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Massachusetts General Court",
+          "title": "General Laws Chapter 64L, Section 2: Local sales tax upon restaurant meals",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64L/Section2",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Each of Massachusetts' 351 cities and towns has its own board of health or health department, which inspects restaurants and food establishments. The Department of Public Health says contact details are on each city or town's website.",
+    "source": {
+      "agency": "Massachusetts Department of Public Health, Office of Local and Regional Health",
+      "title": "Overview of Local Public Health in Massachusetts",
+      "url": "https://www.mass.gov/info-details/overview-of-local-public-health-in-massachusetts",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "state": "Wisconsin",
+  "abbr": "WI",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "In Wisconsin, unlicensed home sales are limited to baked goods that are not potentially hazardous, under court rulings, and certain home-canned acidic foods. DATCP says most foods must be made in a licensed facility, and preparing meals for sale to the public requires a license.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "A 2017 Lafayette County court decision stopped DATCP from enforcing licensing requirements on home bakers who sell baked goods that are not potentially hazardous directly to consumers. DATCP says businesses making potentially hazardous baked goods must be licensed.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "According to DATCP, a later court order extending that ruling to other non-potentially hazardous foods was reversed by the Wisconsin Court of Appeals.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "DATCP describes the home-canned foods exception as narrow and says most foods sold in Wisconsin must be produced in a licensed facility.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "A retail food establishment serving meals license is required to prepare, serve or sell meals to the public.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+          "title": "Home Licenses and Homemade Baked Goods",
+          "url": "https://datcp.wi.gov/Pages/Licenses_Permits/HomeBakers.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+          "title": "Home-Canned Foods",
+          "url": "https://datcp.wi.gov/Pages/Programs_Services/FSHomeCannedFoods.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+          "title": "Retail Food Establishments Serving Meals and Catering",
+          "url": "https://datcp.wi.gov/Pages/Programs_Services/RestaurantsCatering.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Under the court rulings, unlicensed home baking covers only baked goods, made with dry heat such as in an oven, that are not potentially hazardous and are sold directly to consumers; wholesaling requires a license.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Wisconsin's pickle bill allows unlicensed sales of home-canned fruits and vegetables that are naturally acidic or acidified to a pH of 4.6 or lower, up to $5,000 a year per person.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Pickle bill products may be sold only directly to consumers at community or social events, flea markets or farmers markets in Wisconsin, not from home, online, wholesale, on consignment or out of state.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Sellers must post a sign saying the canned goods are homemade and not subject to state inspection, and labels need the canner's name and address, the canning date, the ingredients and a home-production statement.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+          "title": "Home Licenses and Homemade Baked Goods",
+          "url": "https://datcp.wi.gov/Pages/Licenses_Permits/HomeBakers.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+          "title": "Home-Canned Foods",
+          "url": "https://datcp.wi.gov/Pages/Programs_Services/FSHomeCannedFoods.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Licenses for retail food establishments serving meals are issued by DATCP or its agent local health departments; food processors, wholesalers and retail food stores need a DATCP license.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "DATCP licenses run from July 1 to June 30. DATCP's annual fees for establishments serving meals range from $105 for prepackaged-only operations to $540 for complex ones.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Retail food establishments follow Wisconsin Administrative Code ATCP 75 and its appendix, the Wisconsin Food Code, while wholesale food processing plants are licensed under ATCP 70.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+          "title": "Retail Food Establishments Serving Meals and Catering",
+          "url": "https://datcp.wi.gov/Pages/Programs_Services/RestaurantsCatering.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+          "title": "Food, Dairy, and Retail Food Licenses",
+          "url": "https://datcp.wi.gov/Pages/Licenses_Permits/FoodLicenses.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Most licensed food establishments must have at least one manager or operator certified in food protection practices; exemptions include prepackaged-only establishments, transient events and micro markets.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A new establishment, or one changing operators, must have a credentialed food manager within 90 days of opening, and food managers retake an approved exam every five years, with a refresher course option for small operators.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+          "title": "Food Manager Requirements",
+          "url": "https://datcp.wi.gov/Pages/Programs_Services/FoodManager.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Business entities file formation and other documents with the Department of Financial Institutions, which offers online filing.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Wisconsin generally exempts food for human consumption from sales tax, but prepared food, candy, soft drinks and dietary supplements are taxable.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "A seller's permit from the Department of Revenue is required for anyone with a Wisconsin sales location making retail sales of taxable products, unless all of their sales are exempt.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Wisconsin Department of Financial Institutions",
+          "title": "Business Entity File Online",
+          "url": "https://dfi.wi.gov/Pages/BusinessServices/BusinessEntities/FileOnline.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Wisconsin Department of Revenue",
+          "title": "Sales and Use Tax Common Questions: Topics",
+          "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-topics.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Wisconsin Department of Revenue",
+          "title": "Sales and Use Tax Permits",
+          "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-seller.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Licenses for restaurants and caterers are issued by DATCP or by local health departments acting as its agents. The Department of Health Services lists every local health department in the state.",
+    "source": {
+      "agency": "Wisconsin Department of Health Services",
+      "title": "Local Public Health",
+      "url": "https://www.dhs.wisconsin.gov/lh-depts/index.htm",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": "2026-11-02",
+      "read": "fetched"
+    }
+  }
+}
