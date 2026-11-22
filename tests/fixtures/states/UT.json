@@ -1,0 +1,124 @@
+{
+ "state": "Utah",
+ "abbr": "UT",
+ "checked": "2026-01-15",
+ "answer": "limited",
+ "answer_text": "Fixture answer for Utah: this text only exists in the test suite and is never published.",
+ "sections": [
+  {
+   "key": "home",
+   "points": [
+    {
+     "text": "Fixture point about home kitchens for the build tests only.",
+     "src": [
+      0
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "agency": "Test State Department 1",
+     "title": "Fixture page 1",
+     "url": "https://www.example.gov/page1",
+     "kind": "agency",
+     "checked": "2026-01-15",
+     "updated": "2025",
+     "read": "fetched"
+    }
+   ]
+  },
+  {
+   "key": "cottage",
+   "points": [
+    {
+     "text": "Fixture point about cottage food for the build tests only.",
+     "src": [
+      0,
+      1
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "agency": "Test State Department 2",
+     "title": "Fixture page 2",
+     "url": "https://www.example.gov/page2",
+     "kind": "agency",
+     "checked": "2026-01-15",
+     "updated": "2025",
+     "read": "fetched"
+    },
+    {
+     "agency": "Test State Department 3",
+     "title": "Fixture page 3",
+     "url": "https://www.example.gov/page3",
+     "kind": "statute",
+     "checked": "2026-01-15",
+     "updated": "2025",
+     "read": "fetched"
+    }
+   ]
+  },
+  {
+   "key": "kitchen",
+   "points": [
+    {
+     "text": "Fixture point about licensed kitchens for the build tests only.",
+     "src": [
+      0
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "agency": "Test State Department 4",
+     "title": "Fixture page 4",
+     "url": "https://www.example.gov/page4",
+     "kind": "agency",
+     "checked": "2026-01-15",
+     "updated": "2025",
+     "read": "fetched"
+    }
+   ]
+  },
+  {
+   "key": "training",
+   "points": [
+    {
+     "text": "Fixture point about food safety certificates for the build tests only.",
+     "src": [
+      0
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "agency": "Test State Department 5",
+     "title": "Fixture page 5",
+     "url": "https://www.example.gov/page5",
+     "kind": "rule",
+     "checked": "2026-01-15",
+     "updated": "2025",
+     "read": "fetched"
+    }
+   ]
+  },
+  {
+   "key": "business",
+   "points": [],
+   "sources": []
+  }
+ ],
+ "local": {
+  "text": "Fixture text about local health departments for the build tests only.",
+  "source": {
+   "agency": "Test State Department 6",
+   "title": "Fixture page 6",
+   "url": "https://www.example.gov/page6",
+   "kind": "agency",
+   "checked": "2026-01-15",
+   "updated": "2025",
+   "read": "fetched"
+  }
+ }
+}
