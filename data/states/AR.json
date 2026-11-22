@@ -1,0 +1,252 @@
+{
+  "state": "Arkansas",
+  "abbr": "AR",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Arkansas's Food Freedom Act covers only homemade foods that do not need refrigeration to stay safe. The Arkansas Department of Health says foods that need time or temperature control, including meat and poultry dishes and casseroles, can be sold only from a permitted and inspected facility.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "The Arkansas Food Freedom Act (Act 1040 of 2021) covers homemade food and drink that do not need refrigeration to stay safe and are made at the producer's private residence. Foods that need time or temperature control are not covered.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Arkansas Department of Health says any food needing time or temperature control, even if commercially prepackaged, can be sold only from an ADH-permitted and inspected facility. Its examples include meat and poultry products, deli salads and casseroles.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "ADH says the Food Freedom Act does not allow sales of products containing meat, poultry or seafood, and that dairy products are not allowed under it, citing Act 698 of 2025.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "ADH's FAQ says that to sell time or temperature control food, including food catered from home, a seller must be permitted by the Department of Health.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arkansas Department of Health",
+          "title": "Arkansas Homemade Food Production Guidelines",
+          "url": "https://healthy.arkansas.gov/wp-content/uploads/Homemade-Food-Guide-5.21.2026-Update.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-05-21",
+          "read": "fetched"
+        },
+        {
+          "agency": "Arkansas Department of Health",
+          "title": "Food Protection FAQ",
+          "url": "https://healthy.arkansas.gov/programs-services/public-health-safety/food-protection-inspection-portal/food-protection-faq/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Homemade foods that do not need time or temperature control are exempt from ADH permits and inspection. They can be sold to an informed end consumer in person, by phone or online, by the producer, an agent or a third-party vendor such as a shop.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Delivery can be made by the producer, an agent, a third-party vendor or a carrier such as the mail. ADH says sales outside Arkansas require following federal law and advises checking with the FDA and the other state first.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Producers must disclose the production date, their name, address and phone number (or an ID number from the Department of Agriculture), the food's name, its ingredients, and a statement that it was made in a private residence exempt from state licensing and inspection.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Online listings must show the same information and the package must be labeled. Homemade foods cannot be sold to restaurants for use there, because they are not from approved sources.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Pickles and other acidified vegetables qualify only with a final pH of 4.6 or less, shown by an approved or tested recipe or a calibrated pH meter, plus batch numbers and records.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arkansas Department of Health",
+          "title": "Arkansas Homemade Food Production Guidelines",
+          "url": "https://healthy.arkansas.gov/wp-content/uploads/Homemade-Food-Guide-5.21.2026-Update.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-05-21",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "The Arkansas Department of Health permits food establishments. A new or remodeled facility needs a plan review first, with a fee of 1% of the estimated cost, at least $50 and no more than $500.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Once open, a permitted food service is billed $35 a year for its permit. Food permits cannot be transferred to a new owner or a new location.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "ADH says a business may use another person's approved kitchen with a permission letter, but it must still hold its own food establishment or manufacturing permit.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "ADH's Environmental Health Specialists at local county health units answer questions about plan review and permits.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arkansas Department of Health",
+          "title": "Food Protection FAQ",
+          "url": "https://healthy.arkansas.gov/programs-services/public-health-safety/food-protection-inspection-portal/food-protection-faq/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Since September 7, 2019, Arkansas's retail food rules require at least one employee with supervisory and management responsibility to be a certified food protection manager who passed a test from an accredited program.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "ADH says the requirement does not apply to low-risk operations, such as those that provide only commercially prepackaged foods or only low-risk foods that do not need time or temperature control.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arkansas Department of Health",
+          "title": "Food Protection FAQ",
+          "url": "https://healthy.arkansas.gov/programs-services/public-health-safety/food-protection-inspection-portal/food-protection-faq/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "An Arkansas LLC files a Certificate of Organization (form LL-01) with the Secretary of State. The listed fee is $45 online or $50 on paper.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Businesses register for a sales tax permit with the Department of Finance and Administration; the permit fee is $50, paid when the application is submitted, and the business location cannot be a post office box.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Arkansas's state sales tax rate is 6.5%. The state's reduced food tax rate is 0% from January 1, 2026, but prepared food is not part of the food that qualifies for the reduced rate.",
+          "src": [
+            2,
+            3
+          ]
+        },
+        {
+          "text": "DFA defines prepared food to include food heated by the seller and food with two or more ingredients combined by the seller and sold as one item. Local city and county taxes also apply.",
+          "src": [
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arkansas Secretary of State",
+          "title": "Limited Liability Company (LLC) Forms / Fees / Records Requests",
+          "url": "https://www.sos.arkansas.gov/business-commercial-services-bcs/forms-fees/llc",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arkansas Department of Finance and Administration",
+          "title": "Register for a Tax Account",
+          "url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/register-for-a-tax-account/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arkansas Department of Finance and Administration",
+          "title": "State Sales & Use Tax Rates",
+          "url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/sales-use-tax-rates/state-sales-use-tax-rates/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arkansas Department of Finance and Administration",
+          "title": "“Food and Food Ingredients” State Sales & Use Tax Guide",
+          "url": "https://www.dfa.arkansas.gov/wp-content/uploads/Food_FoodIngAct141_2017.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2018",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food establishment permits in Arkansas come from the state Department of Health, which provides services at the local level through its health units. ADH's Health Units page helps find the local health unit.",
+    "source": {
+      "agency": "Arkansas Department of Health",
+      "title": "Health Units",
+      "url": "https://healthy.arkansas.gov/health-units/",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

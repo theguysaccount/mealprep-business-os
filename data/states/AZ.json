@@ -1,0 +1,326 @@
+{
+  "state": "Arizona",
+  "abbr": "AZ",
+  "checked": "2026-11-22",
+  "answer": "yes",
+  "answer_text": "Arizona's cottage food law covers foods that need time or temperature control as well as shelf-stable foods, for preparers registered with the state health department. Perishable products and anything with meat or poultry must be sold by the preparer and delivered to the consumer in person within two hours.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Arizona's cottage food law covers foods that need time or temperature control for safety as well as shelf-stable foods, when they are made in the home kitchen of a person registered with the Arizona Department of Health Services.",
+          "src": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "Products that need temperature control, dairy products, and products containing meat or poultry must be sold by the preparer, in person or online, and delivered to the consumer in person, not through third-party food delivery platforms.",
+          "src": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "text": "Perishable products must be kept at a safe temperature in transit, go to only one destination, and be transported for no more than two hours. ADHS says they may be offered only on the day they leave the home.",
+          "src": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "text": "The law excludes alcoholic beverages, unpasteurized milk, fish, shellfish, meat and poultry unless federal law allows their sale, and it names meat and poultry from inspected sources as examples.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Cottage food products may not be used as ingredients in food sold at a permitted retail food establishment, and products and equipment may not be stored outside the preparer's home.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "ADHS notes that cities may require seller's permits and that homeowners associations may restrict home businesses.",
+          "src": [
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arizona State Legislature",
+          "title": "A.R.S. 36-931, Definitions (cottage food products)",
+          "url": "https://www.azleg.gov/ars/36/00931.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arizona State Legislature",
+          "title": "A.R.S. 36-932, Labeling; food handler certification; sale and delivery requirements",
+          "url": "https://www.azleg.gov/ars/36/00932.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arizona Department of Health Services",
+          "title": "R9-8-101.02, Cottage Food (Notice of Final Expedited Rulemaking, Arizona Administrative Register)",
+          "url": "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/food-safety-environmental-services/cottage-food-program/r9-8-101-02-cottage-food.pdf",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-02-28",
+          "read": "fetched"
+        },
+        {
+          "agency": "Arizona Department of Health Services",
+          "title": "Cottage Food Program (program presentation)",
+          "url": "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/food-safety-environmental-services/cottage-food-program/program-presentation.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Preparers apply to ADHS for registration, renew every three years and report changes within 30 days. ADHS says registrants can sell without public health inspections or annual program fees.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "The preparer, or the person directly supervising preparation, must complete a food handler training course from an accredited program and keep the certification active.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Products are packaged at home with a label showing the preparer's name and registration number, all ingredients, the production date, a home-kitchen and allergen statement, and the ADHS cottage food website.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Shelf-stable products without dairy, meat or poultry may be sold through an agent or third-party vendor and delivered by a carrier or delivery platform, but only within Arizona. Online listings must show the label information.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "A store selling cottage food must keep it in a separate section or display case, with a sign saying it is homemade and exempt from state licensing and inspection.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arizona State Legislature",
+          "title": "A.R.S. 36-932, Labeling; food handler certification; sale and delivery requirements",
+          "url": "https://www.azleg.gov/ars/36/00932.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arizona Department of Health Services",
+          "title": "R9-8-101.02, Cottage Food (Notice of Final Expedited Rulemaking, Arizona Administrative Register)",
+          "url": "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/food-safety-environmental-services/cottage-food-program/r9-8-101-02-cottage-food.pdf",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-02-28",
+          "read": "fetched"
+        },
+        {
+          "agency": "Arizona Department of Health Services",
+          "title": "Cottage Food Program (program presentation)",
+          "url": "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/food-safety-environmental-services/cottage-food-program/program-presentation.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "ADHS has delegated most of its food safety and environmental health sanitation responsibilities to Arizona's 15 county environmental health departments through delegation agreements, under the state food rules.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "In Maricopa County, for example, food establishment permits are applied for through the county's Permit Center, and its Plan Review and Construction Program reviews plans for permanent food businesses.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Maricopa County also advises checking with city authorities about their rules before operating any food establishment.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arizona Department of Health Services, Office of Environmental Health",
+          "title": "Food Safety and Environmental Services FY2021 Activity Summary",
+          "url": "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/food-safety-environmental-services/annual-reports/fy2021-activity-summary.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2021",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maricopa County Environmental Services",
+          "title": "Permanent/Fixed Businesses",
+          "url": "https://www.maricopa.gov/3973/PermanentFixed-Businesses",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Arizona's food rules incorporate the 2017 FDA Food Code, under which the person in charge must be a certified food protection manager, with exceptions for some types of establishments. ADHS allowed until January 31, 2022, to comply.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Maricopa County requires establishments serving open food that needs temperature control to have at least one certified food protection manager on staff; the person in charge must be one and be on site.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Maricopa County also requires all food-handling employees to obtain a Food Handler's Certificate from an ANSI-accredited provider, and the person in charge must make sure they do.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Cottage food preparers must complete an accredited food handler training course and keep the certification active.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arizona Department of Health Services",
+          "title": "Food and Drink Rules, Food Code Updates",
+          "url": "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/food-safety-environmental-services/food-code-changes-overview.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2020-08-13",
+          "read": "fetched"
+        },
+        {
+          "agency": "Maricopa County Environmental Services",
+          "title": "Food & Restaurants",
+          "url": "https://www.maricopa.gov/5114/Food-Restaurants",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arizona State Legislature",
+          "title": "A.R.S. 36-932, Labeling; food handler certification; sale and delivery requirements",
+          "url": "https://www.azleg.gov/ars/36/00932.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Corporations and LLCs are formed with the Arizona Corporation Commission through its Arizona Business Center portal. Trade names are registered separately with the Arizona Secretary of State.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A business selling products subject to Arizona's transaction privilege tax likely needs a state license from the Department of Revenue, $12 per location, plus a city license; a vendor running a business from home must also be licensed.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The Department of Revenue says a business that prepares and sells food and drink for consumption on or off the premises is subject to transaction privilege tax under the restaurant classification; city tax is reported separately.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Arizona Corporation Commission",
+          "title": "10 Steps to Starting a Business in Arizona",
+          "url": "https://azcc.gov/corporations/10-steps-to-starting-a-business-in-arizona",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arizona Department of Revenue",
+          "title": "TPT License",
+          "url": "https://azdor.gov/business/transaction-privilege-tax/tpt-license",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Arizona Department of Revenue",
+          "title": "Restaurant & Bars, Publication 605",
+          "url": "https://azdor.gov/sites/default/files/2023-03/PUBLICATION_2017_605.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2017-01",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "County environmental health departments handle food establishment permits under delegation from the Arizona Department of Health Services. ADHS publishes a list of all 15 county environmental health departments with phone numbers.",
+    "source": {
+      "agency": "Arizona Department of Health Services",
+      "title": "County Environmental Health Departments in Arizona",
+      "url": "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/food-safety-environmental-services/county-environmental-health-departments.pdf",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": "2023-11",
+      "read": "fetched"
+    }
+  }
+}

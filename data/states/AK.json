@@ -1,0 +1,294 @@
+{
+  "state": "Alaska",
+  "abbr": "AK",
+  "checked": "2026-11-22",
+  "answer": "yes",
+  "answer_text": "Alaska's homemade food law exempts homemade food, including food that needs refrigeration, from state permits and inspection when the producer sells it directly to the buyer in Alaska for personal consumption and labels it. Seafood and game meat are excluded, meat is subject to federal law, and local governments may still require permits.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Alaska's homemade food law (AS 17.20.332 to 17.20.338) exempts homemade food, made in the producer's home kitchen or a kitchen the producer leases, from state labeling, licensing, packaging, permitting and inspection requirements when its conditions are met.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Food that needs time or temperature control for safety is covered, but its seller must be the producer. DEC lists a frozen chicken casserole among its examples of potentially hazardous homemade food.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Sales must be for personal consumption and take place in Alaska, for example at a farmers market, the producer's home or office, or a location the producer and buyer agree on. Interstate sales are not allowed.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The law does not cover seafood, game meat or oil rendered from animal fat. Meat and meat products may be prepared and sold only subject to the requirements of federal law.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "DEC says the exemption covers processing and market-style sales, at room temperature, cold or frozen, but not food service activities. Homemade food may not be sold or used in a commercial food establishment.",
+          "src": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "There is no state registration or permit for homemade food producers, but DEC says cities and boroughs may require permits or registration, and the law does not exempt producers from local laws.",
+          "src": [
+            0,
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alaska State Legislature",
+          "title": "Alaska Statutes 17.20.332 to 17.20.338 (homemade food)",
+          "url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=17.20.332&secEnd=17.20.338",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Alaska Department of Environmental Conservation",
+          "title": "Homemade Food: Types of Food",
+          "url": "https://dec.alaska.gov/eh/fss/homemade-food/food-types/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Alaska Department of Environmental Conservation",
+          "title": "Homemade Food",
+          "url": "https://dec.alaska.gov/eh/fss/homemade-food/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Alaska Department of Environmental Conservation",
+          "title": "Homemade Food FAQ",
+          "url": "https://dec.alaska.gov/eh/fss/homemade-food/faq/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Alaska's former cottage food exemption in the food code, 18 AAC 31.012(a), was repealed on May 11, 2025. Food made at home for sale now falls under the homemade food law.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Foods that do not need temperature control may be sold by the producer, an agent, or a third-party seller such as a retail shop or grocery store, as long as the sale follows the law.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Packaged homemade food must show the producer's name, current address, phone number and business license number if any, plus a statement that it was made in a home kitchen, is not regulated or inspected except for meat, and may contain allergens.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "For unpackaged food, the seller must tell the buyer it was prepared under the homemade food law and give the producer's name, address, phone number and business license number if any.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "A store selling homemade food must post a sign saying it was made in a home kitchen and keep it off the shelves used for inspected food. The homemade food sections of the statute set no sales limit.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alaska State Legislature (Alaska Administrative Code)",
+          "title": "18 AAC 31.012, Exempt activities and facilities",
+          "url": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=18.31.012&secEnd=18.31.012",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Alaska State Legislature",
+          "title": "Alaska Statutes 17.20.332 to 17.20.338 (homemade food)",
+          "url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=17.20.332&secEnd=17.20.338",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Outside the homemade food exemption, a food establishment needs a permit from the Alaska Department of Environmental Conservation, issued after DEC approves its plans and the fees are paid. Permits are valid for the calendar year.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "DEC will not issue a food establishment permit to an operation in an occupied residential dwelling, apart from a few listed exceptions such as licensed child care facilities and small assisted living homes.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Plans must reach DEC at least 30 days before construction, or before opening if no construction is needed, and must describe the foods, volumes, preparation methods and how temperatures are kept during transport.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "In the Municipality of Anchorage, retail-only food businesses are handled by the Anchorage Health Department's Food Safety and Sanitation program rather than by DEC.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Except for raw, unprocessed fruits and vegetables, homemade food may not be sold or used in a commercial food establishment.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alaska Department of Environmental Conservation (Alaska Administrative Code)",
+          "title": "18 AAC 31, Alaska Food Code",
+          "url": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=18.31.010&secEnd=18.31.990",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Alaska Department of Environmental Conservation",
+          "title": "Food Safety and Sanitation Program: Contact Us",
+          "url": "https://dec.alaska.gov/eh/fss/contact",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Alaska State Legislature",
+          "title": "Alaska Statutes 17.20.332 to 17.20.338 (homemade food)",
+          "url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=17.20.332&secEnd=17.20.338",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "A food establishment that serves or prepares unwrapped, unpackaged food must employ at least one full-time certified food protection manager who is involved in daily operations, with exceptions such as limited food services.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A new establishment without a certified manager has 45 days to hire one, or to designate an employee who is enrolled in a course and becomes certified within 90 days.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Each food worker must hold a valid DEC food worker card within 30 days of being hired. The card is issued after passing a DEC exam and is valid for three years.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alaska Department of Environmental Conservation (Alaska Administrative Code)",
+          "title": "18 AAC 31, Alaska Food Code",
+          "url": "https://www.akleg.gov/basis/aac.asp?media=print&secStart=18.31.010&secEnd=18.31.990",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Any for-profit or nonprofit business that offers a trade, service, profession or other business activity in Alaska must hold an Alaska Business License. A business owned by an entity must be in good standing with the state's Corporations Section.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The State of Alaska does not levy a sales tax, but several municipal governments do, so any sales tax depends on the city or borough.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alaska Division of Corporations, Business and Professional Licensing",
+          "title": "Business Licensing",
+          "url": "https://www.commerce.alaska.gov/web/cbpl/BusinessLicensing",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        },
+        {
+          "agency": "Alaska Department of Commerce, Community, and Economic Development, Office of the State Assessor",
+          "title": "Alaska Sales Tax Information",
+          "url": "https://www.commerce.alaska.gov/web/dcra/OfficeoftheStateAssessor/AlaskaSalesTaxInformation",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "search"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Outside Anchorage, food establishment permits come from the Alaska Department of Environmental Conservation's Food Safety and Sanitation Program. DEC's contact page directs retail-only food businesses in the Municipality of Anchorage to the Anchorage Health Department.",
+    "source": {
+      "agency": "Alaska Department of Environmental Conservation",
+      "title": "Food Safety and Sanitation Program: Contact Us",
+      "url": "https://dec.alaska.gov/eh/fss/contact",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "search"
+    }
+  }
+}

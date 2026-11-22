@@ -1,0 +1,291 @@
+{
+  "state": "Alabama",
+  "abbr": "AL",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Alabama's cottage food law covers only foods that do not need time or temperature control for safety, and it excludes meat, poultry and fish. Prepared meals that need refrigeration fall under the state's food establishment rules, which require a permit from the county health department.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Alabama's cottage food law covers only non-potentially hazardous foods that do not need time or temperature control for safety, and it specifically excludes meat, poultry and fish. Prepared meals that need refrigeration are outside it.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "The state's food establishment rules exempt a private home kitchen only when it runs as a cottage food operation, or when it makes food that needs no time or temperature control for a charitable sale or a state-sanctioned farmers market.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The Alabama Department of Public Health says permitted food establishments, such as restaurants, may not sell food made in a private home, and cottage food may not be sold through retail stores on consignment.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alabama Department of Public Health",
+          "title": "Cottage Food",
+          "url": "https://www.alabamapublichealth.gov/foodsafety/cottage-food.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-07-09",
+          "read": "fetched"
+        },
+        {
+          "agency": "Alabama State Committee of Public Health (Alabama Administrative Code)",
+          "title": "Chapter 420-3-22, Food Establishment Sanitation",
+          "url": "https://admincode.legislature.state.al.us/api/chapter/420-3-22",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-02-14",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Allowed foods include baked goods, jams, jellies and fruit preserves, candy, dried herbs, vegetables and fruits, roasted coffee, dried baking mixes, and fermented or pickled foods whose pH has been verified by a processing authority.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The operator must complete a food safety course approved by the health department, such as the Alabama Cooperative Extension course or an ANSI-accredited program, and keep the certificate current.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Before selling, the operator takes a Cottage Food Review Form, the course certificate and a sample label to the county health department for review. Review fees vary by county, and the home kitchen is not inspected.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Labels in at least 10-point type must show the food's name, the operation's name and home or P.O. Box address, ingredients in order of predominance, a statement that the health department did not inspect it, and an allergen disclaimer.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Sales must go directly to consumers in Alabama, in person, by phone or online, with delivery in person, through an agent or by mail within the state. ADPH says the 2021 changes removed the annual income limit.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alabama Department of Public Health",
+          "title": "Cottage Food",
+          "url": "https://www.alabamapublichealth.gov/foodsafety/cottage-food.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-07-09",
+          "read": "fetched"
+        },
+        {
+          "agency": "Alabama State Committee of Public Health (Alabama Administrative Code)",
+          "title": "Chapter 420-3-22, Food Establishment Sanitation",
+          "url": "https://admincode.legislature.state.al.us/api/chapter/420-3-22",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-02-14",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Alabama's rules make it unlawful to operate a food establishment without a valid permit from the county or district Health Officer. Applications come from the county health department, and permits are renewed every year.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "A food service establishment includes any place where food is prepared for individual portion service, whether it is eaten on or off the premises.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "ADPH says floor plans must be reviewed and approved by the county health department before construction begins, and the county works with the owner on construction requirements under the food establishment rules.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alabama State Committee of Public Health (Alabama Administrative Code)",
+          "title": "Chapter 420-3-22, Food Establishment Sanitation",
+          "url": "https://admincode.legislature.state.al.us/api/chapter/420-3-22",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-02-14",
+          "read": "fetched"
+        },
+        {
+          "agency": "Alabama Department of Public Health",
+          "title": "Food and Lodging",
+          "url": "https://www.alabamapublichealth.gov/foodsafety/food-and-lodging.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-10-26",
+          "read": "fetched"
+        },
+        {
+          "agency": "Alabama Department of Public Health",
+          "title": "Starting a Restaurant Business in Alabama",
+          "url": "https://www.alabamapublichealth.gov/foodsafety/starting-a-restaurant.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-06-11",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "In Priority Category 3 and 4 establishments, which include places that cook, cool or reheat food needing temperature control, the permit holder or a designee must hold a certification from an accredited program.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Since January 1, 2020, a designated person in charge with a valid accredited certification, or proof of attending an accredited program, must be present during all hours of operation in those establishments.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Before issuing a permit, the Health Officer checks, when required, that the certification was issued within the previous five years, or that an accredited program was completed within the previous twelve months.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "ADPH's environmental rules page links to a list of nationally accredited certified food protection manager courses.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alabama State Committee of Public Health (Alabama Administrative Code)",
+          "title": "Chapter 420-3-22, Food Establishment Sanitation",
+          "url": "https://admincode.legislature.state.al.us/api/chapter/420-3-22",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-02-14",
+          "read": "fetched"
+        },
+        {
+          "agency": "Alabama Department of Public Health, Bureau of Environmental Services",
+          "title": "Environmental Rules",
+          "url": "https://www.alabamapublichealth.gov/environmental/rules.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-10-26",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "A domestic limited liability company files a Certificate of Formation with the Alabama Secretary of State after first obtaining a name reservation. The Secretary of State filing fee listed for a domestic LLC is $200.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Retail businesses register with the Alabama Department of Revenue for a sales tax license through the My Alabama Taxes portal; the license is mailed after the registration is submitted.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Alabama's general state sales tax rate is 4%. The state rate on food fell to 2% on September 1, 2025, with food defined as under the federal SNAP program, which excludes hot foods ready for immediate consumption.",
+          "src": [
+            2,
+            3
+          ]
+        },
+        {
+          "text": "City and county sales taxes apply in addition to the state rate, and the Department of Revenue publishes the local rates.",
+          "src": [
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Alabama Secretary of State",
+          "title": "LLCs: Organizing Your Domestic Limited Liability Company",
+          "url": "https://www.sos.alabama.gov/business-entities/llcs",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Alabama Department of Revenue",
+          "title": "How do I obtain or register for a sales tax license?",
+          "url": "https://www.revenue.alabama.gov/faqs/how-do-i-apply-or-register-for-a-sales-tax-number/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Alabama Department of Revenue",
+          "title": "State Sales, Use, Rental and Lodgings Tax Rates",
+          "url": "https://www.revenue.alabama.gov/sales-use/state-sales-use-tax-rates/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Alabama Department of Revenue",
+          "title": "Notice: State Sales and Use Tax Rate Reduced on Food Beginning September 1, 2025",
+          "url": "https://www.revenue.alabama.gov/notice-state-sales-and-use-tax-rate-reduced-on-food-beginning-september-1-2025/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2025-07-02",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food establishment permits and cottage food reviews are handled by county health departments, which are part of the Alabama Department of Public Health. ADPH's locations page lists every county health department and public health district.",
+    "source": {
+      "agency": "Alabama Department of Public Health",
+      "title": "Locations (county health departments)",
+      "url": "https://www.alabamapublichealth.gov/about/locations.html",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": "2026-10-23",
+      "read": "fetched"
+    }
+  }
+}
