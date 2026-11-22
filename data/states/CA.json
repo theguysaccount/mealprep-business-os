@@ -1,0 +1,319 @@
+{
+  "state": "California",
+  "abbr": "CA",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "California's cottage food law covers only non-perishable foods on a state-approved list. Perishable meals can be made at home only as a microenterprise home kitchen operation (MEHKO) where the city or county has opted in; it needs a local health permit, has meal and sales caps, and food must be served the same day it is made.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "A microenterprise home kitchen operation (MEHKO) is a small restaurant-style food facility run by a resident in a private home, and it may prepare foods that need temperature control. MEHKOs can get a health permit only where the city or county has authorized them.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "A MEHKO needs a permit and an inspection from the local environmental health agency, and the operator must complete an approved food manager certification.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "CDPH says MEHKO food must be served the same day it is prepared, without storage, and sales must take place directly between the MEHKO and the customer.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "Los Angeles County's MEHKO guidance says a MEHKO may sell up to 30 meals a day and no more than 90 a week. CDPH lists the inflation-adjusted gross annual sales limit as $110,442 for 2026.",
+          "src": [
+            3,
+            4
+          ]
+        },
+        {
+          "text": "A MEHKO cannot be a catering operation or a cottage food operation. Los Angeles County says it may have one full-time-equivalent employee, not counting family or household members, and deliveries cannot go through third-party apps except for customers with disabilities.",
+          "src": [
+            2,
+            3
+          ]
+        },
+        {
+          "text": "California's cottage food law, by contrast, covers only certain non-potentially hazardous foods on CDPH's approved list.",
+          "src": [
+            5
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Microenterprise Home Kitchen Operations",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/MicroenterpriseHomeKitchenOperations.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Frequently Asked Questions: Cottage Food Operations and Microenterprise Home Kitchen Operations",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/FAQCFOMEHKO.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "General Permit Requirements for Microenterprise Home Kitchen Operations",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/GeneralPermitRequirementsMEHKO.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Los Angeles County Department of Public Health, Environmental Health",
+          "title": "Microenterprise Home Kitchen Operation (MEHKO) Frequently Asked Questions",
+          "url": "https://publichealth.lacounty.gov/eh/faq/microenterprise-home-kitchen-operation.htm",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Microenterprise Home Kitchen Operation Adjusted Gross Annual Sales Limit",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/CDPH%20Document%20Library/FDB/FoodSafetyProgram/MEHKO/MEHKOAdjustedGrossAnnualSalesLimit2026.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-01-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Cottage Food Operations",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/CottageFoodOperations.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "A cottage food operation may prepare and package only certain non-potentially hazardous foods on CDPH's Approved Cottage Food List, in a private home kitchen, after registering with or getting a permit from the local environmental health department.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Class A operations sell directly to the public, including by phone or online, with in-person, mail or third-party delivery. Class B operations may also sell indirectly through restaurants and food markets.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "For 2026, CDPH lists gross annual sales limits of $88,878 for Class A and $177,756 for Class B, adjusted each year for inflation.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Operators must complete cottage food operator training within three months of registering or getting a permit, and labels must meet state and federal requirements.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "CDPH says cottage food operators and their employees need a food processor course; food handler courses satisfy this requirement and must be repeated after three years.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Cottage Food Operations",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/CottageFoodOperations.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Cottage Food Operation Adjusted Gross Annual Sales Limit",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/CDPH%20Document%20Library/FDB/FoodSafetyProgram/CottageFood/CFOAdjustedGrossAnnualSalesLimit2026.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-01-01",
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Retail Food Safety Training",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/CDPH%20Document%20Library/FDB/FoodSafetyProgram/RetailFood/RetailFoodSafetyTraining.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-11",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "California's Retail Food Code is enforced primarily by 62 local environmental health agencies; CDPH's Food and Drug Branch plays a supporting role.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "CDPH says operations beyond the scope of a cottage food operation or a MEHKO can apply for a retail food permit from the local environmental health authority, or for a processed food registration from CDPH.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Retail Food Program",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/RetailFoodProgram.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Frequently Asked Questions: Cottage Food Operations and Microenterprise Home Kitchen Operations",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/FAQCFOMEHKO.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "California Health and Safety Code section 113948 requires food handlers in retail food facilities to get a food handler card and keep it valid while employed; the card is valid for three years.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "CDPH says section 113947 requires anyone acting as person in charge of a retail food facility to have more in-depth food manager training. Courses must come from an ANSI-accredited provider.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "A MEHKO operator must complete an approved food manager certification, and Los Angeles County says MEHKO deliveries are made by members who hold food handler cards.",
+          "src": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "Retail Food Safety Training",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/CDPH%20Document%20Library/FDB/FoodSafetyProgram/RetailFood/RetailFoodSafetyTraining.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-11",
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Public Health, Food and Drug Branch",
+          "title": "General Permit Requirements for Microenterprise Home Kitchen Operations",
+          "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/GeneralPermitRequirementsMEHKO.aspx",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Los Angeles County Department of Public Health, Environmental Health",
+          "title": "Microenterprise Home Kitchen Operation (MEHKO) Frequently Asked Questions",
+          "url": "https://publichealth.lacounty.gov/eh/faq/microenterprise-home-kitchen-operation.htm",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Corporations, limited liability companies and limited partnerships register and file with the California Secretary of State through bizfile Online.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "CDTFA's dining industry guide says hot prepared food sold to go is taxable, while a cold food product sold individually to go is not taxable; combination packages and businesses under the 80-80 rule are treated differently.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "CDTFA says food sold for eating at the seller's place of business is generally taxable, and food intended to be sold hot counts as hot even if it has cooled by the time of sale.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "California Secretary of State",
+          "title": "bizfile",
+          "url": "https://www.sos.ca.gov/business-programs/bizfile",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "California Department of Tax and Fee Administration",
+          "title": "Publication 22, Dining and Beverage Industry",
+          "url": "https://www.cdtfa.ca.gov/formspubs/pub22.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2025-01",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Retail food, MEHKO and cottage food permits come from local environmental health agencies: county agencies, plus the cities of Berkeley, Long Beach, Pasadena and Vernon. CDPH publishes a list of all local environmental health departments with contact details.",
+    "source": {
+      "agency": "California Department of Public Health, Food and Drug Branch",
+      "title": "Local Environmental Health Department Links",
+      "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/CDPH%20Document%20Library/FDB/FoodSafetyProgram/RetailFood/LocalEHContacts.pdf",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": "2024-10",
+      "read": "fetched"
+    }
+  }
+}

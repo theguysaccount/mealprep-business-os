@@ -1,0 +1,258 @@
+{
+  "state": "Colorado",
+  "abbr": "CO",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Colorado's Cottage Foods Act lets people sell only certain foods without a license, and it does not allow frozen foods or pies that need refrigeration. A county health department says food cooked or stored at a private residence is not permitted unless it meets that act, so perishable meals are made in licensed retail food establishments.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Douglas County's health department says food cooked or stored at a private residence is not permitted for sale unless it meets the requirements of the Colorado Cottage Foods Act.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Cottage Foods Act covers a limited set of foods. Douglas County notes that pies needing refrigeration, frozen foods and fermented foods are not allowed under it.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Weld County's health department says a home kitchen generally cannot be licensed as a retail food establishment, though one may exist at a residence in a separate, dedicated area with its own entrance and all required equipment and finishes.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Colorado's retail food rules apply to any retail operation that prepares or packages food for consumers, directly or through a delivery service, whether the food is eaten on or off the premises.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Douglas County Health Department (Colorado)",
+          "title": "Farmers Markets and Cottage Foods",
+          "url": "https://www.douglasco.gov/health-department/farmers-markets-and-cottage-foods/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Weld County Department of Public Health and Environment",
+          "title": "Applications and Licenses (Food Safety)",
+          "url": "https://www.weld.gov/Government/Departments/Health-and-Environment/Environmental-Health-Services/Food-Safety/Applications-and-Licenses",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Colorado Department of Public Health and Environment (Code of Colorado Regulations)",
+          "title": "6 CCR 1010-2, Colorado Retail Food Establishment Regulations",
+          "url": "https://www.coloradosos.gov/CCR/GenerateRulePdf.do?ruleVersionId=11372&fileName=6%20CCR%201010-2",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2024-03-16",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Douglas County says the Colorado Cottage Foods Act permits limited food products to be sold or served without licensing or inspection, and that county environmental health staff can answer questions about whether a product qualifies.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Producers must complete a food safety training course before selling, and Douglas County says all employees who directly handle food products also need safe food certification.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Douglas County says the only canned products allowed are jams, jellies and fruit butters, with exceptions such as jalapeno jelly and pumpkin butter, and the kitchen must be in the producer's primary residence.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "For unpackaged items such as wedding cakes, Douglas County says all labeling information must go on an invoice delivered with the product; smaller cakes must be boxed with the label on the box.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Douglas County Health Department (Colorado)",
+          "title": "Farmers Markets and Cottage Foods",
+          "url": "https://www.douglasco.gov/health-department/farmers-markets-and-cottage-foods/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "Retail food establishments in Colorado must be licensed under the Colorado Food Protection Act. The regulatory authority is the state health department or a county or district board of health with powers delegated by the department.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "In Weld County, for example, a new food business submits plans and specifications to the county health department for review, and a license is issued when the department approves the facility to open.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Weld County says restaurant license fees are set by state law and are based on seating: $481 for 0 to 100 seats, $538 for 101 to 200 seats and $581 for more.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Colorado Department of Public Health and Environment (Code of Colorado Regulations)",
+          "title": "6 CCR 1010-2, Colorado Retail Food Establishment Regulations",
+          "url": "https://www.coloradosos.gov/CCR/GenerateRulePdf.do?ruleVersionId=11372&fileName=6%20CCR%201010-2",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2024-03-16",
+          "read": "fetched"
+        },
+        {
+          "agency": "Weld County Department of Public Health and Environment",
+          "title": "Food Safety: Frequently Asked Questions",
+          "url": "https://www.weld.gov/Government/Departments/Health-and-Environment/Environmental-Health-Services/Food-Safety/Frequently-Asked-Questions",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Colorado's retail food rules adopt the 2022 FDA Food Code, and its certified food protection manager provision took effect on March 1, 2025. That provision says the person in charge must be a certified food protection manager.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "The Food Code allows exceptions for establishments the regulatory authority considers minimal risk, based on the nature of the operation and the extent of food preparation.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Weld County says only Conference for Food Protection, ANSI-accredited food protection manager courses meet the requirement, and the person in charge must be certified whenever food is being actively prepared and served.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Colorado Department of Public Health and Environment (Code of Colorado Regulations)",
+          "title": "6 CCR 1010-2, Colorado Retail Food Establishment Regulations",
+          "url": "https://www.coloradosos.gov/CCR/GenerateRulePdf.do?ruleVersionId=11372&fileName=6%20CCR%201010-2",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2024-03-16",
+          "read": "fetched"
+        },
+        {
+          "agency": "U.S. Food and Drug Administration",
+          "title": "Food Code 2022",
+          "url": "https://www.fda.gov/media/164194/download",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022",
+          "read": "fetched"
+        },
+        {
+          "agency": "Weld County Department of Public Health and Environment",
+          "title": "Food Safety Training",
+          "url": "https://www.weld.gov/Government/Departments/Health-and-Environment/Environmental-Health-Services/Food-Safety/Food-Safety-Training",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "The Colorado Secretary of State's checklist for new businesses says to register the business with the Secretary of State by filing online, and to contact the local or state health department if the business will serve food.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Colorado's sales tax rules exempt food for domestic home consumption from state sales tax, but prepared food and food marketed for immediate consumption generally do not qualify for the exemption.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Under those rules, all hot foods are taxable, and food sold by restaurants, carry-out shops and caterers is generally taxable; refrigerated prepared salads and cold sandwiches also do not qualify as exempt food.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Colorado Secretary of State",
+          "title": "Checklist for New Businesses",
+          "url": "https://www.coloradosos.gov/pubs/business/businessChecklist.html",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Colorado Department of Revenue, Taxation Division (Code of Colorado Regulations)",
+          "title": "1 CCR 201-4, Sales and Use Tax",
+          "url": "https://www.coloradosos.gov/CCR/GenerateRulePdf.do?ruleVersionId=12693&fileName=1%20CCR%20201-4",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2026-08-30",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "In Colorado, retail food establishments are regulated by the Colorado Department of Public Health and Environment or by a county or district board of health with powers delegated by the department, as the state's retail food rules set out.",
+    "source": {
+      "agency": "Colorado Department of Public Health and Environment (Code of Colorado Regulations)",
+      "title": "6 CCR 1010-2, Colorado Retail Food Establishment Regulations",
+      "url": "https://www.coloradosos.gov/CCR/GenerateRulePdf.do?ruleVersionId=11372&fileName=6%20CCR%201010-2",
+      "kind": "rule",
+      "checked": "2026-11-22",
+      "updated": "2024-03-16",
+      "read": "fetched"
+    }
+  }
+}

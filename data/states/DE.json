@@ -1,0 +1,296 @@
+{
+  "state": "Delaware",
+  "abbr": "DE",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Delaware's cottage food rules cover only foods that do not need time or temperature control, such as baked goods, jams and candy. The Division of Public Health says meals prepared at home cannot be sold; meals need a food establishment permit.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "The Division of Public Health's food establishment FAQ asks whether meals prepared at home can be sold and answers no, pointing to the Delaware Food Code.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Delaware's Cottage Food Regulation limits home production to foods that do not need time or temperature control for safety, on a list kept by the Division, and excludes bakery items with fillings such as cream or meat.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "The Delaware Food Code adopts the 2022 FDA Food Code, which says food establishment operations may not be conducted in a private home or in a room used as living or sleeping quarters.",
+          "src": [
+            2,
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Delaware Division of Public Health, Office of Food Protection",
+          "title": "Food Establishment Frequently Asked Questions",
+          "url": "https://dhss.delaware.gov/wp-content/uploads/sites/12/dph/pdf/FEFAQS.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022-07",
+          "read": "fetched"
+        },
+        {
+          "agency": "Delaware Department of Health and Social Services, Division of Public Health (Delaware Administrative Code)",
+          "title": "4458A Cottage Food Regulation",
+          "url": "https://regulations.delaware.gov/AdminCode/title16/Department%20of%20Health%20and%20Social%20Services/Division%20of%20Public%20Health/Health%20Systems%20Protection%20(HSP)/4458A.shtml",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2026-05",
+          "read": "fetched"
+        },
+        {
+          "agency": "Delaware Department of Health and Social Services, Division of Public Health (Delaware Administrative Code)",
+          "title": "4458 State of Delaware Food Code Regulations",
+          "url": "https://regulations.delaware.gov/AdminCode/title16/Department%20of%20Health%20and%20Social%20Services/Division%20of%20Public%20Health/Health%20Systems%20Protection%20(HSP)/4458.shtml",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-10",
+          "read": "fetched"
+        },
+        {
+          "agency": "U.S. Food and Drug Administration",
+          "title": "Food Code 2022",
+          "url": "https://www.fda.gov/media/164194/download",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "A cottage food establishment needs a permit from the Division of Public Health, renewed every year, with an annual fee of $30. The application includes a product list, sample labels, a kitchen floor plan and proof of food safety training.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Allowed products include baked goods such as cakes, breads, cookies, muffins, brownies and fruit pies, plus jams, jellies and preserves, and candy such as fudge and chocolates, as long as they do not need temperature control.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Sales must be direct to consumers in Delaware, without an independent retailer or other intermediary. Online sales are not permitted, though online advertising is, and wholesale sales are not allowed.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The permit must be displayed at farmers markets, craft fairs and other approved venues. Private wells must pass water testing, and the Division may inspect the kitchen before the operation starts.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Labels in at least 10-point type must show the establishment and product names, town, phone or email, net weight or count, production date or lot, ingredients, allergens, and a statement that it was made in a cottage food establishment not subject to routine inspection.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Delaware Department of Health and Social Services, Division of Public Health (Delaware Administrative Code)",
+          "title": "4458A Cottage Food Regulation",
+          "url": "https://regulations.delaware.gov/AdminCode/title16/Department%20of%20Health%20and%20Social%20Services/Division%20of%20Public%20Health/Health%20Systems%20Protection%20(HSP)/4458A.shtml",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2026-05",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "The Division of Public Health issues permits to almost 4,000 food establishments statewide and inspects them for compliance with the State of Delaware Food Code.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Office of Food Protection reviews plans for new retail food establishments, and plan reviews must be mailed to its Dover office. Permits are not transferable, so a new owner also goes through plan review.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Delaware's Food Code allows a caterer without a premise: a food establishment permit for an operator who works inside another permit holder's permitted kitchen and hands food directly to consumers.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Delaware Division of Public Health",
+          "title": "Inspection Services (Retail Food Establishments)",
+          "url": "https://dhss.delaware.gov/dph/homepage/about/sections/hsp/inspection-services/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Delaware Division of Public Health, Office of Food Protection",
+          "title": "Food Establishment Frequently Asked Questions",
+          "url": "https://dhss.delaware.gov/wp-content/uploads/sites/12/dph/pdf/FEFAQS.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022-07",
+          "read": "fetched"
+        },
+        {
+          "agency": "Delaware Department of Health and Social Services, Division of Public Health (Delaware Administrative Code)",
+          "title": "4458 State of Delaware Food Code Regulations",
+          "url": "https://regulations.delaware.gov/AdminCode/title16/Department%20of%20Health%20and%20Social%20Services/Division%20of%20Public%20Health/Health%20Systems%20Protection%20(HSP)/4458.shtml",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-10",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "The Delaware Food Code adopts the 2022 FDA Food Code, under which the person in charge must be a certified food protection manager, except in establishments the regulator considers minimal risk.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "The Division of Public Health publishes a list of Conference for Food Protection-approved certified food safety manager courses and Delaware training providers.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "A cottage food establishment must have at least one employee on site during operating hours who passed a food safety test from a program approved by the Office of Food Protection.",
+          "src": [
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Delaware Department of Health and Social Services, Division of Public Health (Delaware Administrative Code)",
+          "title": "4458 State of Delaware Food Code Regulations",
+          "url": "https://regulations.delaware.gov/AdminCode/title16/Department%20of%20Health%20and%20Social%20Services/Division%20of%20Public%20Health/Health%20Systems%20Protection%20(HSP)/4458.shtml",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2025-10",
+          "read": "fetched"
+        },
+        {
+          "agency": "U.S. Food and Drug Administration",
+          "title": "Food Code 2022",
+          "url": "https://www.fda.gov/media/164194/download",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2022",
+          "read": "fetched"
+        },
+        {
+          "agency": "Delaware Division of Public Health, Office of Food Protection",
+          "title": "Certified Food Safety Manager Training Information",
+          "url": "https://dhss.delaware.gov/wp-content/uploads/sites/12/dph/pdf/ofpcfpm.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-05-17",
+          "read": "fetched"
+        },
+        {
+          "agency": "Delaware Department of Health and Social Services, Division of Public Health (Delaware Administrative Code)",
+          "title": "4458A Cottage Food Regulation",
+          "url": "https://regulations.delaware.gov/AdminCode/title16/Department%20of%20Health%20and%20Social%20Services/Division%20of%20Public%20Health/Health%20Systems%20Protection%20(HSP)/4458A.shtml",
+          "kind": "rule",
+          "checked": "2026-11-22",
+          "updated": "2026-05",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Corporations, LLCs and limited partnerships file with the Delaware Division of Corporations, and every entity needs a registered agent with a physical Delaware address. Sole proprietorships do not file with the Division.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Businesses get a Delaware business license and register with the Division of Revenue through the state's One Stop Business Registration and Licensing System, and receive a temporary license when they complete it.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Delaware has no state or local sales tax, but it imposes a gross receipts tax on sellers of goods and providers of services, at rates from 0.0945% to 1.9914% depending on the business activity.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Delaware Division of Corporations",
+          "title": "How to Form a New Business Entity",
+          "url": "https://corp.delaware.gov/howtoform/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Delaware Division of Revenue",
+          "title": "Doing Business in Delaware, Step 3: Licensing and Registration",
+          "url": "https://revenue.delaware.gov/business-tax-forms/doing-business-in-delaware/step-3-licensing-registration/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Delaware Division of Revenue",
+          "title": "Doing Business in Delaware, Step 4: Gross Receipts Taxes",
+          "url": "https://revenue.delaware.gov/business-tax-forms/doing-business-in-delaware/step-4-gross-receipts-taxes/",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "The Delaware Division of Public Health issues food establishment permits statewide. Its Environmental Health Field Services offices in New Castle, Kent and Sussex counties handle local questions, and DPH's offices page lists their addresses and phone numbers.",
+    "source": {
+      "agency": "Delaware Division of Public Health",
+      "title": "DPH Offices (Environmental Health Field Services office locations)",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/offices/",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

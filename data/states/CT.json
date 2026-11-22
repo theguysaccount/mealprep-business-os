@@ -1,0 +1,294 @@
+{
+  "state": "Connecticut",
+  "abbr": "CT",
+  "checked": "2026-11-22",
+  "answer": "no",
+  "answer_text": "Connecticut's cottage food law covers only non-potentially hazardous foods, such as baked goods, jams and candy, so meals that need refrigeration are outside it. Food establishments need a permit from the local director of health.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "Connecticut law defines cottage food products as non-potentially hazardous baked goods, jams, jellies and other non-potentially hazardous foods. Potentially hazardous food means food that needs time and temperature control for safety.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The Department of Consumer Protection gives eggs, meat, poultry, dairy and fish as examples of potentially hazardous foods, and it lists soups among the products not allowed in the cottage food program.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "A cottage food operation may not operate as a food service establishment, and its products may not be sold through grocery stores, restaurants, long-term care facilities, group homes, day care facilities or schools.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Connecticut General Assembly",
+          "title": "Connecticut General Statutes, Chapter 417 (sections 21a-62b to 21a-62d, cottage food operations)",
+          "url": "https://www.cga.ct.gov/current/pub/chap_417.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Consumer Protection",
+          "title": "What is a potentially hazardous food?",
+          "url": "https://portal.ct.gov/dcp/knowledge-base/articles/cottage-foods/faqs/what-is-a-potentially-hazardous-food",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-03-23",
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Consumer Protection",
+          "title": "Prohibited cottage food products",
+          "url": "https://portal.ct.gov/dcp/knowledge-base/articles/cottage-foods/prohibited-cottage-food-products",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-03-18",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "Cottage food operations need an annual license from the Department of Consumer Protection, with a fee capped by law at $100. Applicants first need local zoning approval, an approved food safety course, and a water test if they use a private well.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Accepted products include plain breads and rolls, non-potentially hazardous cakes, cookies and pastries, candies, fruit pies (not pumpkin), jams and jellies, dried fruits and vegetables, granola, nuts and dried pasta made without egg.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "Annual gross sales may not exceed $50,000 per calendar year. An operation that goes over must get a food manufacturing establishment license or stop operating.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Sales must be direct to consumers in Connecticut. Orders may be taken online, by mail or by phone, but the operator or a designee must deliver in person; mail, parcel services and food delivery apps are not allowed.",
+          "src": [
+            0,
+            3
+          ]
+        },
+        {
+          "text": "Products must be made in the home kitchen of an owner- or resident-occupied dwelling, not in a shed, barn or other outbuilding.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Connecticut General Assembly",
+          "title": "Connecticut General Statutes, Chapter 417 (sections 21a-62b to 21a-62d, cottage food operations)",
+          "url": "https://www.cga.ct.gov/current/pub/chap_417.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Consumer Protection",
+          "title": "How to apply for a Cottage Food Operator License",
+          "url": "https://portal.ct.gov/dcp/knowledge-base/articles/cottage-foods/application-process",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-03-03",
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Consumer Protection",
+          "title": "Accepted cottage food products",
+          "url": "https://portal.ct.gov/dcp/knowledge-base/articles/cottage-foods/accepted-cottage-food-products",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-03-10",
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Consumer Protection",
+          "title": "Can I sell my cottage food online?",
+          "url": "https://portal.ct.gov/dcp/knowledge-base/articles/cottage-foods/can-i-sell-my-cottage-food-online",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-03-19",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "No one may operate a food establishment in Connecticut without a permit from the director of health of the town, city or borough. DPH says to contact the local health department before any construction or renovation.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Regulations implementing the FDA Food Code in Connecticut, sections 19a-36h-1 to 19a-36h-7 of the Regulations of Connecticut State Agencies, were added on February 17, 2023.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "State law sorts food establishments into classes. A Class 3 establishment offers food needing temperature control with complex preparation, such as cooking, cooling and reheating, and must be inspected at least every 120 days.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "DPH notes that additional licenses from the Department of Consumer Protection may be needed for baking or frozen desserts.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Connecticut General Assembly",
+          "title": "Connecticut General Statutes, Chapter 368a (sections 19a-36g to 19a-36j, food code and food establishments)",
+          "url": "https://www.cga.ct.gov/current/pub/chap_368a.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Public Health, Food Protection Program",
+          "title": "Licensing and Complaints",
+          "url": "https://portal.ct.gov/dph/food-protection-program/licensing-and-complaints",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Public Health, Food Protection Program",
+          "title": "Regulations",
+          "url": "https://portal.ct.gov/dph/food-protection-program/regulations",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "Each Class 2, Class 3 and Class 4 food establishment must employ a certified food protection manager who passed an exam from a program accredited under Conference for Food Protection standards.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "The owner or manager must designate an alternate person in charge for times when the certified food protection manager cannot be present.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Cottage food operators must complete an approved food handler course before applying, and the certificate may not be expired at application or renewal.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Connecticut General Assembly",
+          "title": "Connecticut General Statutes, Chapter 368a (sections 19a-36g to 19a-36j, food code and food establishments)",
+          "url": "https://www.cga.ct.gov/current/pub/chap_368a.htm",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Consumer Protection",
+          "title": "Cottage Food Operator - Food Handler Courses",
+          "url": "https://portal.ct.gov/dcp/knowledge-base/articles/cottage-foods/cottage-food-safety-courses",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-03-03",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "New businesses register with the state through the Secretary of the State's one-stop business portal, where the whole registration process can be completed online.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Retailers register with the Department of Revenue Services through myconneCT for a Sales and Use Tax Permit; registration costs $100, and each location needs its own permit.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "Connecticut's general sales tax rate is 6.35%, but sales of meals and certain beverages are taxed at 7.35%.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Connecticut Office of the Secretary of the State (Business.CT.gov)",
+          "title": "Start your business",
+          "url": "https://business.ct.gov/start-your-business?language=en_US",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Connecticut Department of Revenue Services",
+          "title": "Sales and Use Tax Information",
+          "url": "https://portal.ct.gov/drs/sales-tax/tax-information",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2026-09-25",
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "Food establishment permits come from the director of health of each town, city or borough, through one of Connecticut's 59 local health departments and districts. DPH's Find Your Local Health Agency page has a map and lookup table.",
+    "source": {
+      "agency": "Connecticut Department of Public Health",
+      "title": "Find your local health agency",
+      "url": "https://portal.ct.gov/dph/about/ohla/find-your-lhd",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "state": "District of Columbia",
+  "abbr": "DC",
+  "checked": "2026-11-22",
+  "answer": "limited",
+  "answer_text": "DC's cottage food law covers only foods that do not need temperature control. DC Health's Microenterprise Home Kitchen permit lets residents cook perishable food at home, but only for sale in approved street vending zones, which DC Health said were limited to Mount Pleasant and Columbia Heights as of January 2024.",
+  "sections": [
+    {
+      "key": "home",
+      "points": [
+        {
+          "text": "The Street Vendor Advancement Amendment Act of 2023 created a Microenterprise Home Kitchen permit, which lets a DC resident prepare ready-to-eat food in a non-commercial home kitchen for sale in approved street vending zones.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "DC Health says permitted home kitchens may sell fully cooked food, including meat and fish, other temperature-controlled foods cooked as District rules require, washed raw produce and bakery items. Dairy products, jerky and some canned foods are not allowed.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "As of January 2024, DC Health said the only approved street vending zones were in the Mount Pleasant and Columbia Heights neighborhoods.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Applicants need a home occupancy permit from the Department of Buildings, a certified food protection manager certificate, written procedures, an in-home inspection and a $100 annual permit from DC Health, plus proof of calibrated scales if selling by weight.",
+          "src": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "DC's Cottage Food Act defines cottage food products as non-potentially hazardous foods specified in DC Health regulations, so the cottage food route does not cover meals that need refrigeration.",
+          "src": [
+            3
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "DC Health",
+          "title": "Microenterprise Home Kitchen Program",
+          "url": "https://dchealth.dc.gov/page/microenterprise-home-kitchen-program",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "DC Health",
+          "title": "Microenterprise Home Kitchens: Allowable and not allowable foods",
+          "url": "https://dchealth.dc.gov/sites/default/files/dc/sites/doh/page_content/attachments/2024-01-HRLA-MEHK-Flyers-7_03.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-05",
+          "read": "fetched"
+        },
+        {
+          "agency": "DC Health",
+          "title": "Microenterprise Home Kitchens Permit Process",
+          "url": "https://dchealth.dc.gov/sites/default/files/dc/sites/doh/page_content/attachments/2024-01-HRLA-MEHK-Flyers-7_02.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-05",
+          "read": "fetched"
+        },
+        {
+          "agency": "Council of the District of Columbia (D.C. Law Library)",
+          "title": "D.C. Code § 7-742.01, Definitions (cottage foods)",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/sections/7-742.01",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-06-10",
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "cottage",
+      "points": [
+        {
+          "text": "A cottage food business must register with DC Health's Cottage Food Business Registry before operating, and DC Health may inspect it first. The business also needs a home occupancy permit.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Since a 2025 amendment (D.C. Law 26-7, effective June 10, 2025), DC Health says cottage food businesses may sell directly, at retail (not to restaurants or grocery stores), online within DC, and wholesale to licensed food establishments.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "DC Health lists a certified food protection manager certification and a DC-issued manager ID card among the items to obtain before applying.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "text": "Products must be stored on the premises and prepackaged with a label showing the business ID number, product name, ingredients by weight, net weight or volume, allergen information, and a statement that DC's food safety regulations do not apply to it.",
+          "src": [
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "Council of the District of Columbia (D.C. Law Library)",
+          "title": "D.C. Code § 7-742.02, Cottage food businesses",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/sections/7-742.02",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "Council of the District of Columbia (D.C. Law Library)",
+          "title": "D.C. Code § 7-742.01, Definitions (cottage foods)",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/sections/7-742.01",
+          "kind": "statute",
+          "checked": "2026-11-22",
+          "updated": "2025-06-10",
+          "read": "fetched"
+        },
+        {
+          "agency": "DC Health",
+          "title": "Cottage Food Businesses",
+          "url": "https://dchealth.dc.gov/publication/cottage-food-businesses",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "kitchen",
+      "points": [
+        {
+          "text": "DC Health's Division of Food inspects about 7,500 food establishments in the District, including restaurants, mobile vendors and cottage food businesses, and takes applications through its online portal.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Every business operating out of a shared kitchen must be separately licensed and inspected, rather than working under the shared kitchen's business license, and must apply to work from the shared kitchen space.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "text": "DC Health says caterers and food manufacturers, including businesses that package food to sell at markets or over the internet, receive a Caterer License from the Department of Licensing and Consumer Protection.",
+          "src": [
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "DC Health",
+          "title": "Division of Food",
+          "url": "https://dchealth.dc.gov/service/division-food",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "DC Health",
+          "title": "Guidance for Shared Kitchens / Food Manufacturers",
+          "url": "https://dchealth.dc.gov/page/guidance-shared-kitchens-food-manufacturers",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "training",
+      "points": [
+        {
+          "text": "DC Health says a certified food protection manager must be present during all hours of operation in a food establishment, overseeing food handling, hygiene and sanitation.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "DC Health issues its own manager certificate or ID card based on an accepted exam. Home kitchen permit holders and cottage food businesses both need the certification, and the home kitchen certificate is valid for three years.",
+          "src": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "DC Health",
+          "title": "Certified Food Protection Manager (CFPM) Certificate",
+          "url": "https://dchealth.dc.gov/page/certified-food-protection-manager-cfpm-certificate",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "DC Health",
+          "title": "Microenterprise Home Kitchens Permit Process",
+          "url": "https://dchealth.dc.gov/sites/default/files/dc/sites/doh/page_content/attachments/2024-01-HRLA-MEHK-Flyers-7_02.pdf",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": "2024-05",
+          "read": "fetched"
+        },
+        {
+          "agency": "DC Health",
+          "title": "Cottage Food Businesses",
+          "url": "https://dchealth.dc.gov/publication/cottage-food-businesses",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "points": [
+        {
+          "text": "Business entities register with the Department of Licensing and Consumer Protection, which lists a $99 initial registration fee for domestic for-profit entities.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "text": "Businesses apply to DLCP for a Basic Business License after choosing a licensing category and business activity. DLCP lists general business license fees of $49 for six months, $99 for two years and $198 for four years.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "text": "DC's Office of Tax and Revenue lists a 10% sales tax rate for food or drink prepared for immediate consumption.",
+          "src": [
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "agency": "DC Department of Licensing and Consumer Protection",
+          "title": "DLCP License & Corporate Filing Fees",
+          "url": "https://dlcp.dc.gov/page/dlcp-license-corporate-filing-fees",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "DC Department of Licensing and Consumer Protection",
+          "title": "Find Your Business License Category",
+          "url": "https://dlcp.dc.gov/page/what-kind-license-do-i-need",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        },
+        {
+          "agency": "DC Office of Tax and Revenue",
+          "title": "Sales and Use Tax FAQs",
+          "url": "https://otr.cfo.dc.gov/page/sales-and-use-tax-faqs",
+          "kind": "agency",
+          "checked": "2026-11-22",
+          "updated": null,
+          "read": "fetched"
+        }
+      ]
+    }
+  ],
+  "local": {
+    "text": "In the District of Columbia, DC Health's Division of Food inspects about 7,500 food establishments, including restaurants, mobile vendors and cottage food businesses, and takes permit applications through its online portal.",
+    "source": {
+      "agency": "DC Health",
+      "title": "Division of Food",
+      "url": "https://dchealth.dc.gov/service/division-food",
+      "kind": "agency",
+      "checked": "2026-11-22",
+      "updated": null,
+      "read": "fetched"
+    }
+  }
+}
